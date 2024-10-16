@@ -1,5 +1,7 @@
 Create AI model and train it to recognize different math symbols to be able to succesfully convert image to text.
     Probably will just train my own model with my own datasets (could use sets already out in the web) just for experience in this area
+    Have to make it so model trains off each individual math symbol? Or just more generic ones that can show in different 
+    forms (like fractions and summations)?
 
 create interactive executable that will run screenshot based of a short-cut that the user can set.
 
@@ -18,4 +20,7 @@ Should I make my own website for the application?
 Considering porting the project for android and potentially apple IOS (depends if i want to pay the Developer lisence)
     Can compile it for mac as well (I think they can run .exe now though have to check)
 
+Figure out how to, after recognizing the equations and each symbol, how to copy it to either clipboard or application itself 
+    Make it so it goes one symbol at a time, or all at once?
+    Store a db file that contains all the different math symbols? Maybe Unicode?
 

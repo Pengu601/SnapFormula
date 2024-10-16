@@ -8,7 +8,6 @@ start_x = None
 start_y = None
 
 #creates global root
-root = tk.Tk()
 
 # Function to start capturing the region
 def on_button_press(event):
@@ -24,7 +23,7 @@ def on_move_press(event, canvas):
     rect = canvas.create_rectangle(start_x, start_y, curX, curY, outline='white', width=2, fill="maroon3") #creates new selection rectangle
 
 # Function to complete the selection and take a screenshot of the selected region
-def on_button_release(event):
+def on_button_release(event, root):
     global rect, start_x, start_y
     end_x, end_y = (event.x, event.y) #gets ending x and y coordinates
 
@@ -57,7 +56,7 @@ def sendToClipbaord(img):
     win32clipboard.SetClipboardData(win32clipboard.CF_DIB, data)
     win32clipboard.CloseClipboard()
 
-def takeScreenshot():
+def takeScreenshot(root):
     
     # Create the main window
     
@@ -74,7 +73,7 @@ def takeScreenshot():
     # Bind mouse events for region selection
     canvas.bind("<ButtonPress-1>", on_button_press)
     canvas.bind("<B1-Motion>", lambda event: on_move_press(event, canvas))
-    canvas.bind("<ButtonRelease-1>", on_button_release)
+    canvas.bind("<ButtonRelease-1>", lambda event: on_button_release(event, root))
 
 
     # Start the Tkinter event loop
