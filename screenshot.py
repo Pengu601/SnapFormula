@@ -19,14 +19,14 @@ def on_button_press(event):
 # Function to update the drawn rectangle while dragging
 def on_move_press(event, canvas):
     global rect
-    canvas.delete(rect)
-    curX, curY = (event.x, event.y)
-    rect = canvas.create_rectangle(start_x, start_y, curX, curY, outline='white', width=2, fill="maroon3")
+    canvas.delete(rect) #deletes current rectangle
+    curX, curY = (event.x, event.y) #gets current x and y coordinates
+    rect = canvas.create_rectangle(start_x, start_y, curX, curY, outline='white', width=2, fill="maroon3") #creates new selection rectangle
 
 # Function to complete the selection and take a screenshot of the selected region
 def on_button_release(event):
     global rect, start_x, start_y
-    end_x, end_y = (event.x, event.y)
+    end_x, end_y = (event.x, event.y) #gets ending x and y coordinates
 
     # Get absolute coordinates on the screen
     x1 = root.winfo_rootx() + start_x
@@ -49,8 +49,8 @@ def on_button_release(event):
 
 def sendToClipbaord(img):
     output = io.BytesIO()
-    img.convert("RGB").save(output, format="BMP")
-    data = output.getvalue()[14:]
+    img.convert("RGB").save(output, format="BMP") #converts it to BMP format which can be stored to clipboard
+    data = output.getvalue()[14:] #remove first 14 bytes which is for the name of the image
 
     win32clipboard.OpenClipboard()
     win32clipboard.EmptyClipboard()
@@ -62,7 +62,7 @@ def takeScreenshot():
     # Create the main window
     
     root.attributes("-fullscreen", True, "-transparent", "maroon3")  # Fullscreen for better area selection
-    root.attributes("-alpha", .3)
+    root.attributes("-alpha", .3) # makes the solid color transparent so you can see the screen
     root.lift()
     root.attributes("-topmost", True)
     
