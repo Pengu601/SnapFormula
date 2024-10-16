@@ -24,3 +24,4 @@ Figure out how to, after recognizing the equations and each symbol, how to copy 
     Make it so it goes one symbol at a time, or all at once?
     Store a db file that contains all the different math symbols? Maybe Unicode?
 
+For Android and IOS, could use kivy as it supports Android, iOS, Windows, and Linux
