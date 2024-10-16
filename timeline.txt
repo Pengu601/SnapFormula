@@ -7,3 +7,8 @@ As of today, I have successfully got the screenshot portion working, successfull
 selected area in the clipboard (could potentially store as a file, depending on how path I decide to go for the project)
 
 Spent a while brainstorming ideas with the program and what I want it to do, and what can be possible and the extent I can scale it to.
+
+Found out that if you have two Tk instances, it will create two windows. Can fix this by passing through a singular root into the seperate py files.
+
+Got a basic GUI app with a ttk theme installed and working. Will be testing around with it for a while, finding the ins-and-outs of Tkinter.
+    Also decide how I want my app to be setup (for PC users).
