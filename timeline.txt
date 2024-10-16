@@ -1,0 +1,9 @@
+10/15/24
+
+Started SnapFormula Project. Idea is to be able to take a screenshot of an equation, and with that screenshot, be able to convert it into text that
+can then be pasted into any application, website, or document as needed, with no hassle.
+
+As of today, I have successfully got the screenshot portion working, successfully being able to select a certain area of my screen and storing the 
+selected area in the clipboard (could potentially store as a file, depending on how path I decide to go for the project)
+
+Spent a while brainstorming ideas with the program and what I want it to do, and what can be possible and the extent I can scale it to.

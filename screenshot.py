@@ -1,5 +1,5 @@
 import tkinter as tk
-from PIL import ImageGrab, ImageTk
+from PIL import ImageGrab
 import io
 import win32clipboard
  # Global variables for rectangle drawing

@@ -1,0 +1,21 @@
+Create AI model and train it to recognize different math symbols to be able to succesfully convert image to text.
+    Probably will just train my own model with my own datasets (could use sets already out in the web) just for experience in this area
+
+create interactive executable that will run screenshot based of a short-cut that the user can set.
+
+shows history of all screenshots done with program? Could implement SQlite for this 
+    Do i want the history to be the screenshot itself, or the text once its implemented, or both?
+
+Allow user to preview and edit the text version of equation if equation isn't exactly what they wanted? Before they actually implement 
+the paste feature for their needs?
+
+Will all the conversions be the same for all applications? Will I need to make it so I have different text conversions based on application
+or website the user is going to use the image of their equation for (like Symbolab, Word Doc, Powerpoint, etc)
+
+Should I make my own website for the application? 
+    Could be good for some experience in javascript
+
+Considering porting the project for android and potentially apple IOS (depends if i want to pay the Developer lisence)
+    Can compile it for mac as well (I think they can run .exe now though have to check)
+
+
