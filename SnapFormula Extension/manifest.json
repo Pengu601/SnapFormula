@@ -1,17 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "Screen Capture Extension",
+  "name": "Snipping Tool Extension",
   "version": "1.0",
-  "description": "Take screenshots of your current screen",
+  "description": "Drag and select an area to take a screenshot.",
   "permissions": [
-    "tabs", 
     "activeTab", 
     "scripting"
   ],
-  "background": {
-    "service_worker": "background.js"
-  },
   "action": {
     "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
   }
 }
