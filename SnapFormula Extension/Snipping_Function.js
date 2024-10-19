@@ -1,6 +1,10 @@
 // Create the overlay for the snipping tool
+var overlay;
 
-let overlay = document.createElement('div');
+
+
+overlay = document.createElement('div');
+overlay.id ='screenshot-overlay'
 overlay.style.position = 'fixed';
 overlay.style.top = '0';
 overlay.style.left = '0';
@@ -8,16 +12,13 @@ overlay.style.width = '100vw';
 overlay.style.height = '100vh';
 overlay.style.background = 'rgba(0, 0, 0, 0.5)';
 overlay.style.zIndex = '9999';
-overlay.style.cursor = 'crosshair';
 
-if(document.body.contains(overlay)){
-  document.body.removeChild(overlay);
-}
+
 document.body.appendChild(overlay);
 
 // Variables to track the selection box
-let startX, startY, endX, endY, selectionBox;
-let isSelecting = false;
+var startX, startY, endX, endY, selectionBox;
+var isSelecting = false;
 
 // Mouse down event to start selection
 overlay.addEventListener('mousedown', (e) => {
@@ -100,3 +101,4 @@ overlay.addEventListener('mouseup', async () => {
 
   
 });
+
