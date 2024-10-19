@@ -37,6 +37,17 @@ overlay.addEventListener('mousemove', (e) => {
   selectionBox.style.height = `${Math.abs(endY - startY)}px`;
 });
 
+function dataURLtoBlob(dataURL) {
+  const byteString = atob(dataURL.split(',')[1]); // Decode base64
+  const mimeString = dataURL.split(',')[0].split(':')[1].split(';')[0]; // Get MIME type
+  const ab = new ArrayBuffer(byteString.length); // Create an ArrayBuffer
+  const ia = new Uint8Array(ab); // Create a Uint8Array
+  for (let i = 0; i < byteString.length; i++) {
+    ia[i] = byteString.charCodeAt(i); // Fill the Uint8Array with byte data
+  }
+  return new Blob([ab], { type: mimeString }); // Create a Blob
+}
+
 // Mouse up event to finalize selection and trigger download
 overlay.addEventListener('mouseup', async () => {
   isSelecting = false;
@@ -78,19 +89,25 @@ overlay.addEventListener('mouseup', async () => {
         console.log("Data URL:", croppedImageUrl);  // Debugging log
         console.log("Filename:", `${filename}.png`);
 
-        chrome.downloads.download({
-          url: `${croppedImageUrl}`,
+        const blob = dataUrltoBlob(dataUrl);
 
-          // filename: `${filename}.png` // Use user-provided filename
-        })
+        const blobURL= URL.createObjectURL(blob);
         // Create a download link and trigger the download
         // let downloadLink = document.createElement('a');
         // downloadLink.href = croppedImageUrl;
         // downloadLink.download = `${filename}.png`; // Use user-provided filename
         // downloadLink.click(); // Programmatically click to download
+
+        chrome.downloads.download({
+          url: blobURL
+
+          // filename: `${filename}.png` // Use user-provided filename
+        })
       } else {
         console.error("Invalid selection area for the screenshot.");
       }
+
+      URL.revokeObjectURL(blobURL)
     };
   });
 });
