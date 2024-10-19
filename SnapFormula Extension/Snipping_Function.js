@@ -64,6 +64,37 @@ overlay.addEventListener('mouseup', async () => {
     // } else {
     //   console.error("Failed to capture visible tab.");
     // }
+    const img = new Image();
+    img.src = response.dataUrl;
+    img.onload = function () {
+      // Create a canvas to crop the screenshot
+      let canvas = document.createElement('canvas');
+      canvas.width = Math.abs(endX - startX);
+      canvas.height = Math.abs(endY - startY);
+      let ctx = canvas.getContext('2d');
+
+      // Calculate the crop position and size
+      let sx = Math.min(startX, endX);
+      let sy = Math.min(startY, endY);
+      let sw = Math.abs(endX - startX);
+      let sh = Math.abs(endY - startY);
+
+      // Draw the cropped portion on the canvas
+      ctx.drawImage(img, sx, sy, sw, sh, 0, 0, sw, sh);
+
+      if (canvas.width > 0 && canvas.height > 0) {
+        // Convert the canvas to a data URL (image format)
+        let croppedImageUrl = canvas.toDataURL('image/png');
+        console.log("Data URL:", croppedImageUrl);  // Debugging log
+        console.log("Filename:", `${filename}.png`);
+
+        // Create a download link and trigger the download
+        let downloadLink = document.createElement('a');
+        downloadLink.href = croppedImageUrl;
+        downloadLink.download = `${filename}.png`; // Use user-provided filename
+        downloadLink.click();
+      }
+    }
   });
   // Capture the visible tab
 
