@@ -78,7 +78,7 @@ overlay.addEventListener('mouseup', async () => {
         console.log("Data URL:", croppedImageUrl);  // Debugging log
         console.log("Filename:", `${filename}.png`);
 
-        chorme.downloads.download({
+        chrome.downloads.download({
           url: croppedImageUrl,
           // filename: `${filename}.png` // Use user-provided filename
         })
