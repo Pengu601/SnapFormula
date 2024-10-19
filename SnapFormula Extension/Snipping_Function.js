@@ -75,7 +75,7 @@ overlay.addEventListener('mouseup', async () => {
 
       if (canvas.width > 0 && canvas.height > 0) {
         // Convert the canvas to a data URL (image format)
-        let croppedImageUrl = canvas.toDataURL('image/png');
+        let croppedImageUrl = canvas.toDataURL();
         console.log("Data URL:", croppedImageUrl);  // Debugging log
         console.log("Filename:", `${filename}.png`);
 
