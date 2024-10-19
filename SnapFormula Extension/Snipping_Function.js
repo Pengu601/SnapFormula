@@ -1,7 +1,5 @@
 // Create the overlay for the snipping tool
-if(overlay != null){
-  document.body.removeChild(overlay);
-}
+
 let overlay = document.createElement('div');
 overlay.style.position = 'fixed';
 overlay.style.top = '0';
@@ -11,6 +9,10 @@ overlay.style.height = '100vh';
 overlay.style.background = 'rgba(0, 0, 0, 0.5)';
 overlay.style.zIndex = '9999';
 overlay.style.cursor = 'crosshair';
+
+if(overlay != null){
+  document.body.removeChild(overlay);
+}
 document.body.appendChild(overlay);
 
 // Variables to track the selection box
