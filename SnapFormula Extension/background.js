@@ -5,6 +5,7 @@ chrome.runtime.onInstalled.addListener(() => {
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if(request.action === "captureVisibleTab"){
     // Capture the visible tab
+    console.log('test');
     chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
       let img = new Image();
       img.src = dataUrl;
