@@ -79,7 +79,8 @@ overlay.addEventListener('mouseup', async () => {
         console.log("Filename:", `${filename}.png`);
 
         chrome.downloads.download({
-          url: croppedImageUrl,
+          url: `${croppedImageUrl}`,
+
           // filename: `${filename}.png` // Use user-provided filename
         })
         // Create a download link and trigger the download
