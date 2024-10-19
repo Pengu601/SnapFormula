@@ -47,7 +47,8 @@ overlay.addEventListener('mouseup', async () => {
 
   // Prompt user for filename
   let filename = prompt("Enter a filename for the screenshot:", "screenshot");
-  if (!filename) {
+  if (!filename || filename.trim() === "") {
+    console.error("Invalid filename. Exiting without saving.");
     return; // Exit if no filename is provided
   }
 
@@ -55,6 +56,7 @@ overlay.addEventListener('mouseup', async () => {
   chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
     let img = new Image();
     img.src = dataUrl;
+    img.crossOrigin = 'anonymous';
     img.onload = function () {
       // Create a canvas to crop the screenshot
       let canvas = document.createElement('canvas');
@@ -71,14 +73,20 @@ overlay.addEventListener('mouseup', async () => {
       // Draw the cropped portion on the canvas
       ctx.drawImage(img, sx, sy, sw, sh, 0, 0, sw, sh);
 
-      // Convert the canvas to a data URL (image format)
-      let croppedImageUrl = canvas.toDataURL('image/png');
+      if (canvas.width > 0 && canvas.height > 0) {
+        // Convert the canvas to a data URL (image format)
+        let croppedImageUrl = canvas.toDataURL('image/png');
+        console.log("Data URL:", croppedImageUrl);  // Debugging log
+        console.log("Filename:", `${filename}.png`);
 
-      // Create a download link and trigger the download
-      let downloadLink = document.createElement('a');
-      downloadLink.href = croppedImageUrl;
-      downloadLink.download = `${filename}.png`; // Use user-provided filename
-      downloadLink.click(); // Programmatically click to download
+        // Create a download link and trigger the download
+        let downloadLink = document.createElement('a');
+        downloadLink.href = croppedImageUrl;
+        downloadLink.download = `${filename}.png`; // Use user-provided filename
+        downloadLink.click(); // Programmatically click to download
+      } else {
+        console.error("Invalid selection area for the screenshot.");
+      }
     };
   });
 });
