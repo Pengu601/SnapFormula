@@ -1,8 +1,5 @@
 // Create the overlay for the snipping tool
 var overlay;
-
-
-
 overlay = document.createElement('div');
 overlay.id ='screenshot-overlay'
 overlay.style.position = 'fixed';
@@ -12,7 +9,6 @@ overlay.style.width = '100vw';
 overlay.style.height = '100vh';
 overlay.style.background = 'rgba(0, 0, 0, 0.5)';
 overlay.style.zIndex = '9999';
-
 
 document.body.appendChild(overlay);
 
@@ -60,11 +56,6 @@ overlay.addEventListener('mouseup', async () => {
   }
 
   chrome.runtime.sendMessage({ action: "captureVisibleTab" }, (response) => {
-    // if (response && response.dataUrl) {
-    //   console.log(response.dataUrl); // Use the dataUrl (e.g., to download or display)
-    // } else {
-    //   console.error("Failed to capture visible tab.");
-    // }
     const img = new Image();
     img.src = response.dataUrl;
     img.onload = function () {
@@ -93,7 +84,7 @@ overlay.addEventListener('mouseup', async () => {
         let downloadLink = document.createElement('a');
         downloadLink.href = croppedImageUrl;
         downloadLink.download = `${filename}.png`; // Use user-provided filename
-        downloadLink.click();
+        downloadLink.click(); //Triggers download link click, downloading file for the region capture
       }
     }
   });

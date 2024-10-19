@@ -9,10 +9,10 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     console.log('test');
     chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
       console.log(dataUrl);
-      sendResponse({dataUrl});
+      sendResponse({dataUrl}); //sends the response containg the encoded dataUrl for the screencapture to the snipping_function file
     });
   }
-  return true;
+  return true; //makes listener asynchronous
   
 });
 
@@ -26,5 +26,4 @@ chrome.commands.onCommand.addListener((command) => {
       });
     });
   }
-  return true;
 });
