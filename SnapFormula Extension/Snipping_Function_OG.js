@@ -9,7 +9,7 @@ overlay.style.background = 'rgba(0, 0, 0, 0.5)';
 overlay.style.zIndex = '9999';
 overlay.style.cursor = 'crosshair';
 document.body.appendChild(overlay);
-
+`
 // Variables to track the selection box
 let startX, startY, endX, endY, selectionBox;
 let isSelecting = false;
