@@ -1,4 +1,7 @@
 // Create the overlay for the snipping tool
+if(overlay != null){
+  document.body.removeChild(overlay);
+}
 let overlay = document.createElement('div');
 overlay.style.position = 'fixed';
 overlay.style.top = '0';
@@ -61,7 +64,7 @@ overlay.addEventListener('mouseup', async () => {
   //   }
   // });
   // Capture the visible tab
-  
+
   chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
     let img = new Image();
     img.src = dataUrl;
