@@ -1,17 +1,19 @@
 {
   "manifest_version": 3,
-  "name": "Snipping Tool Extension",
+  "name": "Snipping Tool",
   "version": "1.0",
-  "description": "Drag and select an area to take a screenshot.",
   "permissions": [
-    "activeTab", 
-    "scripting",
+    "activeTab",
+    "tabs",
     "downloads"
   ],
-  "action": {
-    "default_popup": "Pop_Up.html"
-  },
   "background": {
     "service_worker": "background.js"
-  }
+  },
+  "action": {
+    "default_popup": "Pop_Up_command.html"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
 }
