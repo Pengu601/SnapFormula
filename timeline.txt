@@ -33,3 +33,9 @@ Finally figured out how to get the screenshot to work. The issue revolved arroun
 background.js or popup.js files, but the img function would only work in the content (snipping_function) js file, so we had to make it so the 
 content file would communicate with the background file to get the tab capture, then have it send the response with the dataUrl back to the
 content file to then use the dataUrl to get the img with the selected area as defined by user.
+
+Made it so user can use a shortcut to automatically start the screenshot process, instead of clicking the extensionn and manually clicking the button.
+
+Fixed the overlay already defined error when trying to use the screenshot feature more than once. THe issue involved the fact the overlay was defined 
+using "let", which meant that it would cause issues as the overlay would be in the same scope, causing it trying to re-define something that already exists.
+Solved it by changing "let" to "var", along with the starting x and y variables and selectionBox.
