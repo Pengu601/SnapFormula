@@ -37,16 +37,6 @@ overlay.addEventListener('mousemove', (e) => {
   selectionBox.style.height = `${Math.abs(endY - startY)}px`;
 });
 
-function dataURLtoBlob(dataURL) {
-  const byteString = atob(dataURL.split(',')[1]); // Decode base64
-  const mimeString = dataURL.split(',')[0].split(':')[1].split(';')[0]; // Get MIME type
-  const ab = new ArrayBuffer(byteString.length); // Create an ArrayBuffer
-  const ia = new Uint8Array(ab); // Create a Uint8Array
-  for (let i = 0; i < byteString.length; i++) {
-    ia[i] = byteString.charCodeAt(i); // Fill the Uint8Array with byte data
-  }
-  return new Blob([ab], { type: mimeString }); // Create a Blob
-}
 
 // Mouse up event to finalize selection and trigger download
 overlay.addEventListener('mouseup', async () => {
