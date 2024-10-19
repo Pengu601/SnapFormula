@@ -78,11 +78,15 @@ overlay.addEventListener('mouseup', async () => {
         console.log("Data URL:", croppedImageUrl);  // Debugging log
         console.log("Filename:", `${filename}.png`);
 
+        chorme.downloads.download({
+          url: croppedImageUrl,
+          // filename: `${filename}.png` // Use user-provided filename
+        })
         // Create a download link and trigger the download
-        let downloadLink = document.createElement('a');
-        downloadLink.href = croppedImageUrl;
-        downloadLink.download = `${filename}.png`; // Use user-provided filename
-        downloadLink.click(); // Programmatically click to download
+        // let downloadLink = document.createElement('a');
+        // downloadLink.href = croppedImageUrl;
+        // downloadLink.download = `${filename}.png`; // Use user-provided filename
+        // downloadLink.click(); // Programmatically click to download
       } else {
         console.error("Invalid selection area for the screenshot.");
       }
