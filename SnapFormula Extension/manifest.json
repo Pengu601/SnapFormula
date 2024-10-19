@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "Snipping Tool",
   "version": "1.0",
+  "description": "An extension that turns your images of functions into usuable text to paste into other applications",
   "permissions": [
     "activeTab",
     "tabs",
@@ -19,7 +20,18 @@
   "action": {
     "default_popup": "Pop_Up.html"
   },
+  "commands": {
+    "takeScreenshot": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+U",
+        "mac": "Command+Shift+U"
+      },
+      "description": "Take screenshot of tab"
+    }
+
+  },
   "host_permissions": [
     "<all_urls>"
   ]
+
 }

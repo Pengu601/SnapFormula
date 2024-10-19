@@ -12,4 +12,13 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     });
   }
   return true;
-})
+  
+});
+
+chrome.commands.onCommand.addListener((command, sender, sendResponse) => {
+  if(command === "takeScreenshot"){
+    chrome.runtime.sendMessage({ action: "doScreenshot" }, (response) => {
+      
+    });  
+  }
+});

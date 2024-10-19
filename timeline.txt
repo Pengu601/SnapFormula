@@ -12,3 +12,24 @@ Found out that if you have two Tk instances, it will create two windows. Can fix
 
 Got a basic GUI app with a ttk theme installed and working. Will be testing around with it for a while, finding the ins-and-outs of Tkinter.
     Also decide how I want my app to be setup (for PC users).
+
+
+10/18/24
+
+Invited a friend of mine to collaborate on the project with. We talked about ideas and decided to start small and scale according to the interest
+in the project from consumers.
+
+Decided it would be best to make it a google chrome extension, due to its ease of access and ability to be discovered by new users.
+
+Worked on creatin the manifest, html, and necessary js files needed for the google chrome extension, then work on replicating the screenshot feature using
+javascript.
+
+Spent the whole night trying to figure out how to get the screenshot feature working with the google chrome extension, and keep getting errors
+involving functions, permissions, and google tab API
+
+10/19/24
+
+Finally figured out how to get the screenshot to work. The issue revolved arround the fact that the google tab API calls can only work in the 
+background.js or popup.js files, but the img function would only work in the content (snipping_function) js file, so we had to make it so the 
+content file would communicate with the background file to get the tab capture, then have it send the response with the dataUrl back to the
+content file to then use the dataUrl to get the img with the selected area as defined by user.
