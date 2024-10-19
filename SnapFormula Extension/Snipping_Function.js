@@ -24,6 +24,7 @@ overlay.addEventListener('mousedown', (e) => {
   selectionBox = document.createElement('div');
   selectionBox.style.position = 'fixed';
   selectionBox.style.border = '2px dashed #fff';
+  selectionBox.style.background = 'maroon3';
   selectionBox.style.zIndex = '10000';
   document.body.appendChild(selectionBox);
 });
@@ -41,19 +42,16 @@ overlay.addEventListener('mousemove', (e) => {
 
 
 // Mouse up event to finalize selection and trigger download
-overlay.addEventListener('mouseup', async () => {
+overlay.addEventListener('mouseup', () => {
   isSelecting = false;
 
   // Remove the overlay and selection box
-  document.body.removeChild(overlay);
   document.body.removeChild(selectionBox);
+  document.body.removeChild(overlay);
+  
 
   // Prompt user for filename
-  let filename = prompt("Enter a filename for the screenshot:", "screenshot");
-  if (!filename || filename.trim() === "") {
-    console.error("Invalid filename. Exiting without saving.");
-    return; // Exit if no filename is provided
-  }
+  
 
   chrome.runtime.sendMessage({ action: "captureVisibleTab" }, (response) => {
     const img = new Image();
@@ -78,12 +76,12 @@ overlay.addEventListener('mouseup', async () => {
         // Convert the canvas to a data URL (image format)
         let croppedImageUrl = canvas.toDataURL('image/png');
         console.log("Data URL:", croppedImageUrl);  // Debugging log
-        console.log("Filename:", `${filename}.png`);
+        console.log("Filename:", `image.png`);
 
         // Create a download link and trigger the download
         let downloadLink = document.createElement('a');
         downloadLink.href = croppedImageUrl;
-        downloadLink.download = `${filename}.png`; // Use user-provided filename
+        downloadLink.download = `image.png`; // Use user-provided filename
         downloadLink.click(); //Triggers download link click, downloading file for the region capture
       }
     }

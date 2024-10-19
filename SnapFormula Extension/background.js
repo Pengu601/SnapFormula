@@ -26,4 +26,5 @@ chrome.commands.onCommand.addListener((command) => {
       });
     });
   }
+  return true;
 });
