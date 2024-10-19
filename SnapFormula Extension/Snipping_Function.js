@@ -10,7 +10,7 @@ overlay.style.background = 'rgba(0, 0, 0, 0.5)';
 overlay.style.zIndex = '9999';
 overlay.style.cursor = 'crosshair';
 
-if(overlay != null){
+if(document.body.contains(overlay)){
   document.body.removeChild(overlay);
 }
 document.body.appendChild(overlay);
