@@ -8,7 +8,7 @@ overlay.style.left = '0';
 overlay.style.width = '100vw';
 overlay.style.height = '100vh';
 overlay.style.background = 'rgba(0, 0, 0, 0.5)';
-overlay.style.zIndex = '9999';
+overlay.style.zIndex = '9998';
 
 document.body.appendChild(overlay);
 
@@ -23,11 +23,9 @@ overlay.addEventListener('mousedown', (e) => {
   startY = e.clientY;
   selectionBox = document.createElement('div');
   selectionBox.style.position = 'fixed';
-  selectionBox.style.border = '2px dashed #fff';
-  selectionBox.style.background = 'maroon3';
-  selectionBox.style.zIndex = '10000';
+  selectionBox.style.border = '2px solid #fff';
+  selectionBox.style.zIndex = '9999';
   document.body.appendChild(selectionBox);
-  console.log("test")
 });
 
 // Mouse move event to resize selection box
@@ -39,16 +37,14 @@ overlay.addEventListener('mousemove', (e) => {
   selectionBox.style.top = `${Math.min(startY, endY)}px`;
   selectionBox.style.width = `${Math.abs(endX - startX)}px`;
   selectionBox.style.height = `${Math.abs(endY - startY)}px`;
-  console.log("test2")
 });
 
 
 // Mouse up event to finalize selection and trigger download
-overlay.addEventListener('mouseup', (e) => {
+document.addEventListener('mouseup', (e) => {
   
   e.stopPropagation();
-  e.preventDefault();
-  console.log("test3");
+  
   isSelecting = false;
 
   // Remove the overlay and selection box

@@ -12,3 +12,7 @@ body{
     cursor: pointer;
     border-radius: 8px;
 }
+
+#screenshot-overlay {
+    pointer-events: auto; /* Ensure that the overlay can receive events */
+}
