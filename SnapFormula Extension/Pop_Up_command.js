@@ -1,4 +1,4 @@
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+chrome.runtime.onMessage.addEventListener((request, sender, sendResponse) => {
   if (request.type === 'downloadImage') {
     chrome.downloads.download({
       url: request.dataUrl,
