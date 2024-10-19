@@ -11,7 +11,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "Pop_Up_command.html"
+    "default_popup": "Pop_Up.html"
   },
   "host_permissions": [
     "<all_urls>"
