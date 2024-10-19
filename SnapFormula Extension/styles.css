@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(41, 183, 230);
+}
+
+#activateSnippingTool {
+    background-color: rgba(23, 29, 31, 0.7);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
