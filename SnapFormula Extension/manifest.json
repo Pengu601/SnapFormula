@@ -18,7 +18,10 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "Pop_Up.html"
+    "default_popup": "Pop_Up.html",
+    "default_icon": {
+      "128": "icons/logo1.png"
+    }
   },
   "commands": {
     "takeScreenshot": {

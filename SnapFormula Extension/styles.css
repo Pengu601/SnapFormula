@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(41, 183, 230);
+    background-color: rgb(18, 72, 210);
+    border-radius: 3px;
 }
 
 #activateSnippingTool {
