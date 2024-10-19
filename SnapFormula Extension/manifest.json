@@ -5,7 +5,8 @@
   "description": "Drag and select an area to take a screenshot.",
   "permissions": [
     "activeTab", 
-    "scripting"
+    "scripting",
+    "downloads"
   ],
   "action": {
     "default_popup": "Pop_Up.html"
