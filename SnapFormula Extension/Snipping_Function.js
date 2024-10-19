@@ -85,29 +85,26 @@ overlay.addEventListener('mouseup', async () => {
 
       if (canvas.width > 0 && canvas.height > 0) {
         // Convert the canvas to a data URL (image format)
-        let croppedImageUrl = canvas.toDataURL();
+        let croppedImageUrl = canvas.toDataURL('image/png');
         console.log("Data URL:", croppedImageUrl);  // Debugging log
         console.log("Filename:", `${filename}.png`);
 
-        const blob = dataUrltoBlob(dataUrl);
-
-        const blobURL= URL.createObjectURL(blob);
         // Create a download link and trigger the download
-        // let downloadLink = document.createElement('a');
-        // downloadLink.href = croppedImageUrl;
-        // downloadLink.download = `${filename}.png`; // Use user-provided filename
-        // downloadLink.click(); // Programmatically click to download
+        let downloadLink = document.createElement('a');
+        downloadLink.href = croppedImageUrl;
+        downloadLink.download = `${filename}.png`; // Use user-provided filename
 
-        chrome.downloads.download({
-          url: blobURL
+        document.body.appendChild(downloadLink); // Append to body to ensure it's in the DOM
+        downloadLink.click(); // Trigger the download
 
-          // filename: `${filename}.png` // Use user-provided filename
-        })
+        // Clean up by removing the link from the DOM
+        document.body.removeChild(downloadLink);
+
+        
       } else {
         console.error("Invalid selection area for the screenshot.");
       }
 
-      URL.revokeObjectURL(blobURL)
     };
   });
 });
