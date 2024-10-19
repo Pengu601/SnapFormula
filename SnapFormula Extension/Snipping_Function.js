@@ -56,7 +56,6 @@ overlay.addEventListener('mouseup', async () => {
   chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
     let img = new Image();
     img.src = dataUrl;
-    img.crossOrigin = 'anonymous';
     img.onload = function () {
       // Create a canvas to crop the screenshot
       let canvas = document.createElement('canvas');
