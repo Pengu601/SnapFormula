@@ -1,3 +1,4 @@
+
 chrome.runtime.onInstalled.addListener(() => {
   console.log('Screen Capture Extension Installed');
 });
@@ -15,10 +16,15 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   
 });
 
-chrome.commands.onCommand.addListener((command, sender, sendResponse) => {
+chrome.commands.onCommand.addListener((command) => {
   if(command === "takeScreenshot"){
-    chrome.runtime.sendMessage({ action: "doScreenshot" }, (response) => {
-      
-    });  
+    
+    chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+      chrome.scripting.executeScript({
+        target: {tabId: tabs[0].id},
+        files: ['Snipping_Function.js']
+      });
+    });
   }
+  return true;
 });
