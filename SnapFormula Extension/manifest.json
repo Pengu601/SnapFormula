@@ -7,7 +7,14 @@
     "tabs",
     "downloads",
     "scripting",
-    "storage"
+    "storage",
+    "unlimitedStorage",
+    "browsingData",
+    "notifications",
+    "http://*/*",
+    "https://*/*",
+    "file://*/*",
+    "background"
   ],
   "background": {
     "service_worker": "background.js"
