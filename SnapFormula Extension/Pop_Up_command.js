@@ -1,5 +1,8 @@
-document.getElementById('captureBtn').addEventListener('click', () => {
-  chrome.tabs.captureVisibleTab(null, { format: 'png' }, function (dataUrl) {
-    document.getElementById('screenshot').src = dataUrl;
+document.getElementById('activateSnippingTool').addEventListener('click', () => {
+  chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+    chrome.scripting.executeScript({
+      target: {tabId: tabs[0].id},
+      files: ['snippingTool.js']
+    });
   });
 });
