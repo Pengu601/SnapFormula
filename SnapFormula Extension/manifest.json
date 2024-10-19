@@ -11,9 +11,6 @@
     "unlimitedStorage",
     "browsingData",
     "notifications",
-    
-    "https://*/*",
-    "file://*/*",
     "background"
   ],
   "background": {
