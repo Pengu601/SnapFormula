@@ -9,9 +9,7 @@ document.getElementById('activateSnippingTool').addEventListener('click', () => 
   });
 });
 
-chrome.runtime.onInstalled.addListener(() => {
-  console.log('Debugger Ready');
-});
+
 
 // chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 //   if(request.action === "captureVisibleTab"){
