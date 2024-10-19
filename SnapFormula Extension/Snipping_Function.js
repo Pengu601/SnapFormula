@@ -45,6 +45,12 @@ overlay.addEventListener('mouseup', async () => {
   document.body.removeChild(overlay);
   document.body.removeChild(selectionBox);
 
+  // Prompt user for filename
+  let filename = prompt("Enter a filename for the screenshot:", "screenshot");
+  if (!filename) {
+    return; // Exit if no filename is provided
+  }
+
   // Capture the visible tab
   chrome.tabs.captureVisibleTab(null, {format: 'png'}, function (dataUrl) {
     let img = new Image();
@@ -71,7 +77,7 @@ overlay.addEventListener('mouseup', async () => {
       // Create a download link and trigger the download
       let downloadLink = document.createElement('a');
       downloadLink.href = croppedImageUrl;
-      downloadLink.download = 'screenshot.png'; // Name the file
+      downloadLink.download = `${filename}.png`; // Use user-provided filename
       downloadLink.click(); // Programmatically click to download
     };
   });
