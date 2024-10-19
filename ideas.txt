@@ -25,3 +25,6 @@ Figure out how to, after recognizing the equations and each symbol, how to copy 
     Store a db file that contains all the different math symbols? Maybe Unicode?
 
 For Android and IOS, could use kivy as it supports Android, iOS, Windows, and Linux
+
+Check out this repo
+https://github.com/simov/screenshot-capture
