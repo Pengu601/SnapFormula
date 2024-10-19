@@ -27,6 +27,7 @@ overlay.addEventListener('mousedown', (e) => {
   selectionBox.style.background = 'maroon3';
   selectionBox.style.zIndex = '10000';
   document.body.appendChild(selectionBox);
+  console.log("test")
 });
 
 // Mouse move event to resize selection box
@@ -38,11 +39,16 @@ overlay.addEventListener('mousemove', (e) => {
   selectionBox.style.top = `${Math.min(startY, endY)}px`;
   selectionBox.style.width = `${Math.abs(endX - startX)}px`;
   selectionBox.style.height = `${Math.abs(endY - startY)}px`;
+  console.log("test2")
 });
 
 
 // Mouse up event to finalize selection and trigger download
-overlay.addEventListener('mouseup', () => {
+overlay.addEventListener('mouseup', (e) => {
+  
+  e.stopPropagation();
+  e.preventDefault();
+  console.log("test3");
   isSelecting = false;
 
   // Remove the overlay and selection box
