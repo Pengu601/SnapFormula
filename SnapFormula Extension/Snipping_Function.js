@@ -59,11 +59,11 @@ overlay.addEventListener('mouseup', async () => {
   }
 
   chrome.runtime.sendMessage({ action: "captureVisibleTab" }, (response) => {
-    if (response && response.dataUrl) {
-      console.log(response.dataUrl); // Use the dataUrl (e.g., to download or display)
-    } else {
-      console.error("Failed to capture visible tab.");
-    }
+    // if (response && response.dataUrl) {
+    //   console.log(response.dataUrl); // Use the dataUrl (e.g., to download or display)
+    // } else {
+    //   console.error("Failed to capture visible tab.");
+    // }
   });
   // Capture the visible tab
 
