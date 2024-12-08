@@ -1,16 +1,19 @@
 body{
-    background-color: rgb(18, 72, 210);
+    background-color: white;
     border-radius: 3px;
 }
 
 #activateSnippingTool {
-    background-color: rgba(23, 29, 31, 0.7);
+    background-color: #007BFF;
     text-align: center;
     color: rgb(255, 255, 255);
     padding: 10px 20px;
+    margin: 10px;
     border: none;
     cursor: pointer;
-    border-radius: 8px;
+    border-radius: 5px;
+    font-family: 'Arial, sans-serif';
+    font-size: 14px;
 }
 
 #screenshot-overlay {

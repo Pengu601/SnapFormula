@@ -142,11 +142,15 @@ function showPopup(croppedImageUrl) {
         document.body.removeChild(popup);
     });
 
+    let cancelButton = createButton('Cancel', function(){ //cancels screenshot event
+        document.body.removeChild(popup);
+    });
+
     // Add buttons to the popup
     popup.appendChild(downloadButton);
     popup.appendChild(saveTextButton);
     popup.appendChild(bothButton);
-
+    popup.appendChild(cancelButton);
     // Add the popup to the document
     document.body.appendChild(popup);
 }

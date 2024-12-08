@@ -39,3 +39,9 @@ Made it so user can use a shortcut to automatically start the screenshot process
 Fixed the overlay already defined error when trying to use the screenshot feature more than once. THe issue involved the fact the overlay was defined 
 using "let", which meant that it would cause issues as the overlay would be in the same scope, causing it trying to re-define something that already exists.
 Solved it by changing "let" to "var", along with the starting x and y variables and selectionBox.
+
+12/7/24
+
+Been busy with midterms, finals, and work. Did some minor testing and adjustments to the extension but no major changes. Currently been working on the AI
+model and the datasets to work with. Found a dataset called im2latex that could potentially be what we train our AI on. Will first start with a small 
+training set to test how well the dataset is and train on the whole dataset (~100k images) if it works well.    
