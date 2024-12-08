@@ -45,3 +45,6 @@ Solved it by changing "let" to "var", along with the starting x and y variables 
 Been busy with midterms, finals, and work. Did some minor testing and adjustments to the extension but no major changes. Currently been working on the AI
 model and the datasets to work with. Found a dataset called im2latex that could potentially be what we train our AI on. Will first start with a small 
 training set to test how well the dataset is and train on the whole dataset (~100k images) if it works well.    
+
+Finishing the day with setting up datasets with images, pre-processing, and currently working on the architecture for the CNN which is what will be
+used as the model for our AI, as it is known to be very good for image-processing.
