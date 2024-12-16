@@ -1,0 +1,942 @@
+formula,image
+"\kappa a \operatorname { s i n } ^ { 2 } f ( f ^ { \prime } ) ^ { 2 } \ll \frac { 1 } { 4 } a \operatorname { s i n } ^ { 2 } f , \; \; \; \kappa \frac { a ^ { 3 } \operatorname { s i n } ^ { 4 } f } { r ^ { 2 } } \ll \frac { 1 } { 4 } a \operatorname { s i n } ^ { 2 } f \ .",4ebf462514.png
+\partial _ { b } \Lambda ^ { b c } = \frac { 1 } { ( d - 2 ) ! } ~ ^ { * } F ^ { c },16a251f87b.png
+"( V , \sigma , \theta , \tau ) = ( 1 , 0 , 0 , 0 ) \, .",4916f2645c.png
+"\partial _ { r } B _ { ( I ) } ( r ) = - e ^ { 2 } j ^ { \phi } ( r ) ,",1407a77e42.png
+"4 \pi \sqrt n \, ( n - 2 ) \, { \frac { | \xi | } { \sqrt \lambda } } \, \left( { \frac { 6 | \xi | } { 1 + 6 | \xi | } } \right) ^ { 1 / 2 } < \left( { \frac { \phi } { M _ { \mathrm { p } } } } \right) ^ { n - 2 } < 8 \pi \sqrt { 2 n } \, { \frac { | \xi | } { \sqrt \lambda } } \ ,",1538b0cce1.png
+"\Gamma [ \sigma , \bar { \sigma } ] = S [ \sigma , \bar { \sigma } ] + \bar { \Gamma } [ \sigma , \bar { \sigma } ]",6fcda17a21.png
+( \gamma ^ { i } ) _ { a b } ( \gamma _ { i } ) _ { c } { } ^ { d } = 2 \delta _ { a } { } ^ { d } \Omega _ { c b } - 2 \delta _ { b } { } ^ { d } \Omega _ { c a } - \delta _ { c } { } ^ { d } \Omega _ { a b },d554896f67.png
+"{ \cal I } _ { m } ( \kappa ) = { \frac { m } { ( m + 1 ) \kappa } } \, \cdotp",2ef3f5c776.png
+\sum _ { i } ^ { ^ { \prime } } C _ { i } ^ { 2 } V _ { 0 } ^ { - 2 } / F _ { \psi _ { i } } \left( \varphi _ { 0 } \right) = A,38bf54b0d2.png
+"\xi _ { n + 1 } ^ { ( x ) } = T \left( \xi _ { n } ^ { ( x ) } \right) + \frac { g ^ { \prime } } { 2 d } \nabla ^ { 2 } \xi _ { n } ^ { ( x ) } \, ,",13bbc2222e.png
+\cdot \sqrt { \frac { ( n - l - 1 ) ! } { ( n - l ^ { \prime } - 1 ) ! } \frac { \Gamma ( n + l + \delta _ { 1 } + \delta _ { 2 } + 1 ) } { \Gamma ( n + l ^ { \prime } + \delta _ { 1 } + \delta _ { 2 } + 1 ) } } \frac { 1 } { \Gamma ( l - l ^ { \prime } + 1 ) \Gamma ( l ^ { \prime } - l + 1 ) } .,51896363f2.png
+"E _ { f } = { \frac { R _ { \natural } } { \ell _ { 1 1 } ^ { 2 } } } = E _ { f } ^ { \prime } = { \frac { R _ { \star } } { ( \ell _ { 1 1 } ^ { \prime } ) ^ { 2 } } } \quad , \qquad \rho _ { i } \equiv { \frac { R _ { i } } { \ell _ { 1 1 } } } = \rho _ { i } ^ { \prime } = { \frac { R _ { i } ^ { \prime } } { \ell _ { 1 1 } ^ { \prime } } } \quad .",6d7c826265.png
+( \Phi _ { 0 } ) _ { i j } \star ( \Phi _ { 0 } ) _ { j k } = Q _ { i n s t } ( \phi _ { 2 5 } ) _ { i j } + ( \phi _ { 2 5 } ) _ { i k } \star ( \phi _ { 2 5 } ) _ { k j } = 0 \,21711c2711.png
+| 0 \rangle _ { E } = | 0 \rangle _ { H _ { a l } } | 0 \rangle _ { H _ { b r } } .,1a8cf7f2f0.png
+\hat { H } _ { 0 } = \int _ { ( \infty ) } d ^ { 3 } \vec { x } \left[ \frac { 1 } { 2 } \hat { \pi } ^ { 2 } + \frac { 1 } { 2 } \left( \vec { \nabla } \hat { \phi } \right) ^ { 2 } + \frac { 1 } { 2 } m ^ { 2 } \hat { \phi } ^ { 2 } \right] \ .,173172aed3.png
+"M _ { 0 } \simeq M + c _ { 3 } \, g ^ { 2 } \, \frac { M ^ { 2 } } { R ^ { d - 2 } } = M \left( 1 + c _ { 3 } \, \frac { g ^ { 2 } \, M } { R ^ { d - 2 } } \right) \, ,",4753ce12bb.png
+"g _ { 5 } \int _ { 0 } ^ { \pi R } d y \left( \sqrt { \frac { 2 } { \pi R } } \operatorname { c o s } \frac { y } { 2 R } \right) ^ { 2 } \sqrt { \frac { 1 } { \pi R } } = g _ { 5 } \sqrt { \frac { 1 } { \pi R } } = g _ { 4 } ,",1316aada01.png
+"b _ { k } ^ { ( \sigma ) } | 0 _ { R } > \, = \, \bar { b } _ { k } ^ { ( \sigma ) } | 0 _ { R } > \, = \, 0 , \quad \forall \sigma , k \, { . }",6af4191d54.png
+"\phi ( \pi R ) = T \phi ( - \pi R ) = - \phi ( - \pi R ) \, .",724bfc69da.png
+"t = \frac { 1 } { 2 i } \Big ( \mathcal P _ { 1 2 3 4 } + \tilde { \mathcal { P } } _ { 1 2 3 4 } \Big ) ,",2a7297d2a4.png
+"{ \mathrm { T r } } ( \gamma _ { g } ) = - 2 ~ , ~ ~ ~ { \mathrm { T r } } ( \gamma _ { R _ { s } } ) = { \mathrm { T r } } ( \gamma _ { g R _ { s } } ) = 0 ~ .",e6c3904a0c.png
+"\left[ \alpha _ { k } ^ { \mu } , \alpha _ { l } ^ { \nu } \right] = k \delta ^ { \mu \nu } \delta _ { k + l , 0 } ,",7164501d0c.png
+"\Psi ( x ) \, = \, \sum _ { \sigma = + j } ^ { - j } \int { \frac { d ^ { 3 } p } { ( 2 \pi ) ^ { 3 } } } { \frac { 1 } { 2 \, \omega _ { \vec { p } } } } \Big [ u _ { \sigma } ( \vec { p } \, ) \, a _ { \sigma } ( \vec { p } \, ) \, e ^ { - i p \cdot x } + v _ { \sigma } ( \vec { p } \, ) \, b _ { \sigma } ^ { \dagger } ( \vec { p } \, ) \, e ^ { i p \cdot x } \Bigr ] \quad ,",602c23e5cd.png
+| \delta \phi ( x ) | \approx \frac { H } { 2 \pi } \ .,24c879631b.png
+"\int _ { \cal M } \sqrt { - g } d ^ { 4 } x R = \int _ { { \mathrm { \small { r e g } } } ( M ^ { 2 } ) } \sqrt { - g } d ^ { 4 } x R + 2 \sum _ { k } \mu _ { k } \int \sqrt { \sigma _ { k } } \, d ^ { 2 } \zeta _ { k } ~ ~ ,",385c5e0973.png
+\zeta ( 0 ) _ { \mathrm { g r a v i t o n s } } = - { \frac { 7 5 8 } { 4 5 } } \; .,6b7a067fcc.png
+"\alpha _ { a } ^ { I } = - C _ { G } ^ { a } + \sum _ { A } ( 1 - 2 q _ { A } ^ { I } ) C _ { A } ^ { a } \, .",79354d5588.png
+"\kappa ^ { \alpha _ { 1 } } + \Gamma ^ { \alpha _ { 1 } } { } _ { \beta _ { 2 } } \kappa ^ { \beta _ { 2 } } + \epsilon ^ { \alpha _ { 1 } } = 0 \, .",1e06183ced.png
+"[ \theta _ { 1 } ( x ) , \theta _ { 2 } ( y ) ] = { \frac { i \hbar } { \mu L _ { 1 } } } \delta ( x _ { 2 } - y _ { 2 } ) \, .",146b667b53.png
+\Delta _ { 0 } \eta ( z ) = - 2 \pi _ { z } ^ { \bar { z } } \pi _ { \bar { z } } ^ { z } e ^ { - 2 \sigma ( z ) } ( e ^ { - \eta ( z ) } - 1 ) = - e ^ { - 2 \tilde { \sigma } } ( e ^ { - \eta ( z ) } - 1 ),64ca97d227.png
+"V _ { T } ^ { I N } ( r ^ { * } ) \propto \operatorname { e x p } ( \kappa _ { + } r ^ { * } ) , ~ ~ ~ r ^ { * } \to - \infty ( r \to r _ { + } )",4ce18eafe5.png
+"\frac { \partial } { \partial x ^ { i } } \left\langle T _ { j } ^ { i } ( x ) \mathcal { O } ( y ) \right\rangle = 0 ~ ,",7500014e0a.png
+P ^ { - } = { \frac { m ^ { 2 } } { 4 \pi } } \int _ { 0 } ^ { \infty } { \frac { d k } { k ^ { 2 } } } \left[ b ^ { \dag } ( k ) b ( k ) + d ^ { \dag } ( k ) d ( k ) \right] + { \frac { 1 } { 2 } } \int _ { 0 } ^ { \infty } { \frac { d p } { p ^ { 2 } } } a ^ { \dag } ( p ) a ( p ) \ .,7356a3b589.png
+"\sum _ { A , I , E } x ^ { I A } \, f _ { A B C } \, f _ { E B C } \, x _ { I } ^ { E } = ( x ^ { I } , x _ { I } ) _ { K }",6dc1e1ab7a.png
+"V ( d ) = - G _ { \mathrm { N } } { \frac { 1 } { d } } - \sum _ { n = - \infty , n \not = 1 } ^ { + \infty } G _ { \mathrm { N } } { \frac { 1 } { d } } e ^ { + i { \frac { | n | } { L } } d } \sim { \frac { 1 } { d ^ { 1 + 1 } } } \quad a s \quad d \rightarrow 0",4cf1ab6d87.png
+"\int d ^ { p + 1 } k \; E ( q ) \; \int d ^ { p + 1 } x \; W ( x , C ) \ast e ^ { i q _ { \mu } x ^ { \mu } }",68469374b5.png
+s ( m ) = s ( - m - 1 ) \; \; \mathrm { w h e r e } \; m \geq 0 .,7d973c02ea.png
+"B _ { k } : { \bf n } ( - i \beta , x _ { 1 } ) = { \bf n } ( 0 , x _ { 1 } ) ~ ~ ( k = 0 , 1 ) .",6c4ac5b7d1.png
+"{ \widetilde { \Phi } } ^ { + } ( \vec { p } , p _ { 0 } ) = e ^ { - { 3 p _ { 0 } / \kappa } } { \widetilde { \Phi } } \left( - e ^ { p _ { 0 } / \kappa } \vec { p } , - p _ { 0 } \right) \, .",205f035398.png
+"\delta X ^ { \mu \, A } \sim d ^ { A B C } d ^ { B D E } ( \bar { \epsilon } ^ { D } + \bar { \eta } ^ { D } ) \gamma ^ { k } \theta ^ { E } \partial _ { k } X ^ { \mu C } \, .",35d2457ff1.png
+K _ { i j } [ \alpha ] = ( 1 - \alpha _ { i } ) ( 1 - \alpha _ { j } ) ( \frac { 1 } { 2 \alpha _ { i } - 1 } + \frac { 1 } { 2 \alpha _ { j } - 1 } ) .,1afb272122.png
+"{ \cal A } [ \Sigma ] = \int _ { \Sigma } \omega = \int _ { \Sigma } { \cal L } \left( z , \bar { z } , \varphi ( z , \bar { z } ) , v = \partial _ { z } \varphi , \bar { v } = \partial _ { \bar { z } } \varphi \right) \, { \mathrm { d } } z \wedge \mathrm { d } \bar { z } \, .",1aac14ab5b.png
+\mathrm { t r } \: ( F _ { \mu \nu } ^ { 2 } + \mathrm { H i g g s \: t e r m s } ) \: \: \ge \mathrm { t r } \: ( F _ { \mu \nu } \: ^ { \star } F _ { \mu \nu } ),6e583ac358.png
+"[ \ U \ , \ B \ ] \ \ne \ 0 \ ,",3a6a14ea89.png
+"- \xi ( \tau ) = a + b \, \tau + c \, \tau ^ { 2 } + c \frac { M ^ { 4 } } { r ^ { 2 } } = 0 \ ,",2f8a4c1753.png
+M _ { \mathrm { T O T } } = \frac { 4 } { 3 } \pi R ^ { 3 } \rho - \frac { 1 } { c ^ { 2 } } \frac { 1 6 } { 1 5 } \pi ^ { 2 } \rho ^ { 2 } G R ^ { 5 } + O ( \rho ^ { 3 } ) .,671fadba15.png
+"( \bar { g } _ { i j } - s ^ { A } \bar { k } _ { i j A } ) d x ^ { i } = 0 , \; \; A \mathrm { ~ f i x e d } .",52152d06a2.png
+"\beta \equiv v _ { 0 } = - \frac { d V _ { 1 } } { d \eta } = V _ { 1 } H ,",43d2aceb5b.png
+"V ( k e r ( T _ { k } ) ) = V ( I m ( T _ { k + 1 } ) ) { \cdot } V ( { \cal H \/ } _ { k } ) \, .",6a3d3914fd.png
+d ( \Lambda _ { 1 i j } + \Lambda _ { 1 j k } + \Lambda _ { 1 k i } ) = 0,4afa59b9d9.png
+\pi _ { \alpha } = - i ( \partial _ { \alpha } - \Gamma _ { \gamma \beta \alpha } \psi ^ { * \beta } \psi ^ { \gamma } ),2c39aa5c24.png
+C ( \delta ^ { \mu \nu } - 2 \frac { x _ { 1 2 } ^ { \mu } x _ { 1 2 } ^ { \nu } } { x _ { 1 2 } ^ { 2 } } ) ( x _ { 1 2 } ^ { 2 } ) ^ { - \delta } P _ { Y } ^ { I _ { 1 } . . . J _ { r } },192c07cc70.png
+T r \gamma _ { 5 } f ( ( \gamma _ { 5 } D ) ^ { 2 } / M ^ { 2 } ) = n _ { + } - n _ { - } + \sum _ { \lambda _ { n } \neq 0 } \frac { a } { 2 } \lambda _ { n } f ( \lambda _ { n } ^ { 2 } / M ^ { 2 } ) \neq 0,1ad505dfdd.png
+"\frac { S } { 2 \pi } = \int \left( \frac { 1 } { 2 } G _ { 8 } \wedge * G _ { 8 } + N \delta _ { 1 } \wedge { \cal F } _ { 2 } \wedge C _ { 7 } \right) ,",4abaaf721d.png
+"{ \cal P } _ { A } ^ { ( 2 \nu ) B } ( x ) \equiv \left[ U ^ { \dagger } ( x ) \, h ^ { ( 2 \nu ) } \, U ( x ) \right] _ { A } { } ^ { B } ~ ,",581c666af4.png
+{ \cal M } ( 2 \rightarrow m ) \sim p ^ { - n + 4 } \quad .,ba65a93b4e.png
+T _ { a } = \left( \begin{array} { c c c } { V _ { a } ^ { ( \mathrm { c ) } } } & { 0 } & { 0 } \\ { 0 } & { ( \omega V ^ { ( \mathrm { c ) } } ) _ { a } } & { 0 } \\ { 0 } & { 0 } & { ( \omega ^ { 2 } V ^ { ( \mathrm { c ) } } ) _ { a } } \\ \end{array} \right),3305551f44.png
+"\xi _ { F T } ( \tau ) = \xi _ { 0 } ^ { + , - } \left| \tau \right| ^ { - \nu } \left[ 1 + \sum _ { n = 1 } ^ { \infty } a _ { \xi ^ { + , - } } ^ { \left( n \right) } \left| \tau \right| ^ { n \Delta } \right]",69328a527b.png
+"p _ { 4 } \rightarrow p _ { 4 } \operatorname { c o s } { \alpha } + p _ { 5 } \operatorname { s i n } { \alpha } \; \; , \; \; \hspace { 1 e m } \theta _ { 4 } \rightarrow \theta _ { 4 } \operatorname { c o s } { \alpha } + \theta _ { 5 } \operatorname { s i n } { \alpha } \; \; , \; \;",35401b9e9e.png
+"\Gamma _ { h o l } \; \to \; \Gamma _ { h o l } \, + \, i \, ( \pi \tau n _ { 1 } ^ { 2 } \, + \, 2 \pi n _ { 1 } \alpha ) \; .",23e2d4e350.png
+{ \operatorname* { d e t } } ^ { \prime } H ( \tilde { A } ; \mu ) = \operatorname { e x p } \left[ - \left. \frac { d } { d s } \zeta _ { H } ( s ) \right\vert _ { s = 0 } \right] = \left( \frac { \pi L \beta } { \vert \Phi \vert } \right) ^ { k },437effb1ce.png
+\beta ^ { c } \partial _ { c } g _ { a b } + ( \partial _ { a } \beta ^ { c } ) g _ { c b } + ( \partial _ { b } \beta ^ { c } ) g _ { c a } = - D g _ { a b },3a25c89172.png
+\nabla ^ { S U ( 8 ) } Z _ { \ A B } = { \frac { 1 } { 2 } } \bar { Z } ^ { \ C D } P _ { A B C D },797113c99c.png
+\eta ^ { 2 } \ddot { H } + 4 \eta \dot { H } + p ^ { 2 } \eta ^ { 2 } H ~ = ~ 0,6d4fe2e240.png
+S = { \frac { M ^ { ( D - 2 ) / ( D - 3 ) } } { 4 G _ { N } } } A _ { D - 2 } ^ { - 1 / ( D - 3 ) } \left( \frac { 1 6 \pi G _ { N } } { D - 2 } \right) ^ { ( D - 2 ) / ( D - 3 ) },1028baa1d8.png
+{ \cal A } ( x ) = \left( \frac { 1 } { a } \right) ^ { \frac { 1 } { 2 n ^ { 2 } } } e ^ { \frac { i \beta _ { 0 } } { 2 n } \phi ( x ) } .,530422463f.png
+"c _ { 1 } ( x , x _ { 0 1 } ) = c _ { 2 } ( x , x _ { 0 2 } )",69194c0f9c.png
+"\Psi _ { k } ( x ) \rightarrow \frac { e ^ { i k x } } { \sqrt { 2 \pi } } + S _ { k } \, \frac { e ^ { - i k x } } { \sqrt { 2 \pi } } \, , ~ ~ ~ ~ \mathrm { a s } ~ ~ ~ x \rightarrow - \infty ,",1ddee07fe4.png
+"\dot { L } = { \frac { d } { d t } } L = [ L , M ]",295b2a7b4e.png
+D = a d ^ { - 1 } - \beta d ^ { - 1 } \gamma d ^ { - 1 },52f92caeef.png
+R _ { 1 2 } \tilde { M } _ { 1 } \tilde { M } _ { 2 } = \tilde { M } _ { 2 } \tilde { M } _ { 1 } { R } _ { 1 2 },745a7366fa.png
+\psi _ { 2 } = \frac { \varphi ^ { 2 } } { 1 2 } [ \ddot { s } - 8 s l ^ { 2 } - 2 \varepsilon + 6 i l \dot { s } ] .,1ed403d049.png
+"\left( \hat { \epsilon } _ { \hat { \mu } } { } ^ { \hat { a } } \right) = \left( \begin{array} { c c } { e _ { \mu } { } ^ { a } } & { k ^ { - 1 } B _ { \mu } } \\ { 0 } & { k ^ { - 1 } } \\ \end{array} \right) \, , \hspace { 1 c m } \left( \hat { \epsilon } _ { \hat { a } } { } ^ { \hat { \mu } } \right) = \left( \begin{array} { c c } { e _ { a } { } ^ { \mu } } & { - B _ { a } } \\ { 0 } & { k } \\ \end{array} \right) \, .",653213d08a.png
+"Z ( z _ { s } ) = e ^ { s M } Z ( z ) K ( z , s )",5d532c3ed3.png
+"\Gamma ^ { A } \Gamma ^ { B } + \Gamma ^ { B } \Gamma ^ { A } = 2 g ^ { A B } ,",1f317275a7.png
+"\begin{array} { r c c c r c c } { { \bf a } } & { \mapsto } & { g \, { \bf b } } & { , } & { a } & { \mapsto } & { g \ b , } \\ { { \bf b } } & { \mapsto } & { - g ^ { - 1 } { \bf a } } & { , } & { b } & { \mapsto } & { - g ^ { - 1 } a . } \\ \end{array}",1fcf94743c.png
+h _ { i } ( u + \Omega n + m ) = \operatorname { e x p } ( \alpha n + \beta m ) h _ { i } ( u ) .,3bba26eaab.png
+x _ { i } = \frac { 1 } { \omega _ { - } } \epsilon _ { i j } { \dot { x _ { j } } },793d397f7c.png
+"T _ { n } ^ { \mathrm { { o u t } } } = \operatorname { c o s h } ^ { n } \tau e ^ { - ( n + 1 / 2 + i \mu ) \tau } F ( n + 1 / 2 , n + 1 / 2 + i \mu ; 1 + i \mu ; - e ^ { - 2 \tau } ) .",589bcf4d77.png
+"\theta _ { I } \, { \cal I } ^ { I J } \, \theta _ { J } = \int _ { K 3 } \Omega ^ { ( 2 , 0 ) } \wedge \Omega ^ { ( 2 , 0 ) } \, = \, 0 \ ,",306356d481.png
+"d ( e ^ { 2 \Delta } v ) = 0 \ , \qquad d ( e ^ { 4 \Delta } J ) = - 2 \, e ^ { 4 \Delta } * G \ , \qquad d ( e ^ { 3 \Delta } \Omega ) = 0 \ .",566589a61d.png
+"T ^ { \nu \mu } ( k ) = T _ { S } ^ { \nu \mu } ( k ) + T _ { A } ^ { \nu \mu } ( k ) \, \, ,",4c66c7c00a.png
+e ^ { 2 \rho } = | P ( A ) | ^ { 9 / 1 6 } e ^ { ( 1 4 s + 3 \psi _ { 0 } ) I ( A ) / 1 6 } Q ^ { - 1 } e ^ { \psi _ { 1 0 } } \Omega _ { 0 } ^ { - 3 / 2 } .,631c231cb4.png
+"2 b _ { n , l } = \frac { 1 } { a _ { n , l } } [ \frac { n + 1 } { t _ { 1 } } ( 1 - a _ { n , l } ) - \frac { \partial a _ { n , l } } { \partial t _ { 1 } } ] .",3dc1919868.png
+"\left\{ b _ { \alpha } ^ { \omega } , ~ b _ { \alpha ^ { \prime } } ^ { \omega ^ { \prime } } { } ^ { \dagger } \right\} = \left\{ d _ { \alpha } ^ { \omega } , ~ d _ { \alpha ^ { \prime } } ^ { \omega ^ { \prime } } { } ^ { \dagger } \right\} = \delta ( \omega - \omega ^ { \prime } ) \delta ( \alpha - \alpha ^ { \prime } )",58fb97ab94.png
+"{ e _ { 4 } } ~ \rightarrow ~ \{ - \psi _ { 3 } , \; \psi _ { 4 } ^ { * } , \; \psi _ { 1 } , \; - \psi _ { 2 } ^ { * } \}",71a523996b.png
+"l ^ { ( -- ) \underline { { m } } } u _ { \underline { { m } } } ^ { i } = 0 , \qquad r ^ { ( + + ) \underline { { m } } } u _ { \underline { { m } } } ^ { i } = 0 ~ . \qquad",2d0f18f71d.png
+"{ \mathrm d } s ^ { 2 } = { g } _ { \mu \nu } { \mathrm d } x ^ { \mu } { \mathrm d } x ^ { \nu } = { \mathrm d } \tau ^ { 2 } + { g } _ { i j } { \mathrm d } x ^ { i } { \mathrm d } x ^ { j } ~ ,",150fc9cdab.png
+\left( \psi _ { + } \left| D \right| \psi _ { + } \right) \rightarrow \left( \psi _ { + } \left| e ^ { i \theta \gamma _ { 5 } } D e ^ { i \theta \gamma _ { 5 } } \right| \psi _ { + } \right) .,5ce3aa92e8.png
+"\mathrm { E } _ { 1 } \left( \eta _ { 1 } , \cdots , \eta _ { p } \right) = \eta _ { 1 } ^ { a _ { 1 } } \cdots \eta _ { p } ^ { a _ { p } } \, \, h ^ { a } ( \phi ) \partial _ { a } \, \, \partial _ { a _ { 1 } } ^ { ( 1 ) } \cdots \partial _ { a _ { p } } ^ { ( p ) } F _ { p } ( \phi , \cdots , \phi )",3cc0ecb2e7.png
+x ^ { 4 } { \frac { d } { d x } } \Sigma ( x ) = { \frac { a } { 2 } } \int _ { 0 } ^ { x } { \frac { ( x - y ) ^ { 2 } d y } { 1 - \Sigma ( y ) } },21bcedccb1.png
+"Y = i \; e ^ { - i ( { \pi } / { 2 } ) X } \, Z \, e ^ { i ( { \pi } / { 2 } ) X } \qquad Z = - i \; e ^ { i ( { \pi } / { 2 } ) X } \, Y \, e ^ { - i ( { \pi } / { 2 } ) X }",75a4b96a5e.png
+\varphi _ { 1 } ^ { \dag } j \varphi _ { 2 } - \varphi _ { 2 } ^ { \dag } j \varphi _ { 1 } ~ .,1f5439f649.png
+"Q \hookrightarrow P , \qquad \alpha _ { j } = \sum _ { i = 1 } ^ { r } a _ { i j } \omega _ { i } ,",7e3732c34f.png
+"\frac { E _ { \eta } } { E ^ { 2 } } \sim \frac { \rho } { \sqrt { N } } \ll 1 \ ,",2f25ce2181.png
+- \frac { \delta D _ { 1 2 } } { \delta D _ { 3 4 } ^ { - 1 } } = \frac { 1 } { 2 } \left\{ D _ { 1 3 } D _ { 4 2 } + D _ { 1 4 } D _ { 3 2 } \right\} .,5ff6e248b8.png
+"( 3 , 1 , 7 ) ( 7 , 1 , 5 , 1 ) = ( 3 , 5 , 1 ) + ( 3 , 1 , 1 , 5 , 1 ) + ( 3 , 1 , 7 , 7 , 1 , 5 , 1 )",870b1be791.png
+"\partial _ { z } \partial _ { \bar { z } } \widetilde \phi = { \frac { e ^ { \gamma \widetilde \phi } } { 2 \gamma } } - 2 \pi \sum _ { k = 1 } ^ { p } \alpha _ { k } \delta ^ { ( 2 ) } ( z - z _ { k } ) ,",59e84d103d.png
+"A ^ { t } = - A \, , \qquad D ^ { t } G = - G D \, , \qquad B = C ^ { t } G",e33bc92936.png
+"g = \left( \begin{array} { l l } { a } & { u } \\ { - v } & { b } \\ \end{array} \right) , u v + a b = 1 ,",537c6f1eba.png
+\xi _ { ~ ; \alpha ; \beta } ^ { \mu } - \xi _ { ~ ; \beta ; \alpha } ^ { \mu } = R _ { ~ \nu \alpha \beta } ^ { \mu } \xi ^ { \nu },388d4e4759.png
+"\Psi = \sum _ { l n } C _ { l n } Y _ { \kappa , l } ^ { ( \mu , n ) } , \quad C _ { l n } = \langle Y _ { \kappa , l } ^ { ( \mu , n ) } | \Psi \rangle .",12ef3e5adf.png
+"\Phi _ { + } ^ { [ 0 ] } ( n , p ) = \left( \begin{array} { l } { | \eta _ { + } ( n ) > } \\ { 0 } \\ \end{array} \right) \otimes | p > , \Phi _ { - } ^ { [ 0 ] } ( n , p ) = \left( \begin{array} { l } { 0 } \\ { | \eta _ { - } ( n ) > } \\ \end{array} \right) \otimes | p > ,",55d19a303b.png
+e ^ { 2 \phi ^ { ( \pm ) } } = g _ { \mathrm { s t r } } ^ { 2 } K ^ { ( \pm ) } S ^ { ( \pm ) - 3 / 2 },21c000ca82.png
+"\frac { 1 } { g _ { a } ^ { 2 } } \ = \ \frac { 1 } { l } \ + \ \sum _ { k } \, s _ { a k } \, m _ { k } \ .",41b4a25c8f.png
+"0 = \{ \phi _ { \mu _ { 1 } } , \, H _ { c } \} + \lambda _ { c } ^ { \nu _ { 1 } } \{ \phi _ { \mu _ { 1 } } , \, \phi _ { \nu _ { 1 } } \} .",1a9be5e6ba.png
+T _ { n } = \frac { m ^ { 2 } } { 2 } \sum _ { k = 1 } ^ { \infty } \frac { a _ { n } ^ { \dagger } ( k ) a _ { n } ( k ) } { k - \frac { 1 } { 2 } },deb12268ee.png
+A ^ { i } = \bar { A } ^ { i } + \sum _ { \bf n } A _ { s } ^ { i } [ { \Sigma _ { \bf n } } ] { \bf n },61cda67ea6.png
+"\langle P Y _ { 1 } \bar { P } Y _ { \bar { 2 } } \rangle = - Q \operatorname { l o g } Z _ { 1 \bar { 2 } } ,",21f08abbcd.png
+"A _ { \mathrm { n o n d e g } } = \sum _ { m ^ { i j k } } \mu ^ { \prime } \left( m ^ { i j k } \right) \frac { e ^ { - 2 \pi \sqrt { ( m ^ { i j k } ) ^ { 2 } } + 2 \pi i C _ { i j k } m ^ { i j k } } } { \sqrt { ( m ^ { i j k } ) ^ { 2 } } } \, .",4536cb6e1a.png
+\pi _ { z } ^ { \bar { z } } ( z ) = \frac { P _ { z } } { 2 \pi } \frac { z _ { 2 } - z _ { 1 } } { ( z - z _ { 1 } ) ( z - z _ { 2 } ) },18add15deb.png
+"\mu ( E ) = N \alpha ^ { 1 } \alpha ^ { 2 } \cdot \dots \cdot \alpha ^ { d } \, .",3889defb8c.png
+\begin{array} { l } { 2 m \le \sum _ { i } \operatorname { d e g } _ { i } ( A ) = \sum _ { \mu } | \alpha _ { \mu } | + \sum _ { \nu } ( 2 + | \beta _ { \nu } | ) = n + 2 v } \\ { \le n + \sum _ { \nu } | \beta _ { \nu } | = 2 n - \sum _ { \mu } | \alpha _ { \mu } | \le 2 n - u \le 2 n . } \\ \end{array},116cd8247b.png
+"\delta L = \left[ \delta _ { \phi } + ( G C ^ { T } + F D ^ { T } ) \frac { \partial } { \partial F } + ( \bar { G } C ^ { \dagger } + \bar { F } D ^ { \dagger } ) \frac { \partial } { \partial \bar { F } } \right] \, L ~ ,",217a8133d5.png
+"\Omega = \frac { 1 } { 2 } \Omega _ { i j } d Z ^ { i } \wedge d Z ^ { j } ,",1729d347d7.png
+- \frac { m } { N g ^ { 2 } } = \sum _ { n } \chi _ { n } ^ { \dagger } ( x ) \chi _ { n } ( x ) \frac { 1 } { \mathrm { e } ^ { \beta ( \omega _ { n } - \mu ) } + 1 } \ .,3f08b94f74.png
+{ f _ { 0 } ^ { \prime } } ^ { 2 } { \sum _ { i = 1 } ^ { M } } { f _ { i } ^ { \prime \prime } } + { f _ { 0 } } ^ { \prime \prime } { \sum _ { i = 1 } ^ { M } } { f _ { i } } ^ { 2 } = { \sum _ { i \ne j } } { f _ { o } } ^ { 2 } { f _ { j } } ^ { \prime \prime },23cddd9b4b.png
+"U _ { f } = \operatorname { e x p } \bigl ( \sum _ { k = 0 , \pm 1 } v _ { - k } L _ { k } \bigr ) \operatorname { e x p } \bigl ( \sum _ { m \geq 2 } v _ { - m } L _ { m } \bigr )",2d11d8416a.png
+"E _ { 0 } \, \pi ( { F } _ { - } ) E _ { 0 } = E _ { 0 } \, \pi ( \mathrm { ~ T ^ { - 1 } ~ } \! \int _ { 0 } ^ { T } \! d t \, \alpha _ { t } ( F _ { - } ) ) E _ { 0 } \rightarrow 0",6afeb12344.png
+"x ^ { 0 } ( \tau , \sigma ) = \frac M L \tau , \quad \quad x ^ { 1 } ( \tau , \sigma ) = q + \frac M { 2 L } \, [ f ( \tau + \sigma ) + g ( \tau - \sigma ) ] ,",27a2603118.png
+( \psi _ { + i } + \eta e ^ { i \gamma } \psi _ { - i } ) | _ { x ^ { 1 } = 0 } = 0,6c59db8f82.png
+"\frac { 1 } { J } \sum _ { a _ { 1 } , \ldots , a _ { 6 } = 1 } ^ { J } \delta _ { a _ { 1 } + \ldots + a _ { 6 } , J } \, \operatorname { e x p } \frac { 2 \pi i n ( a _ { 2 } + a _ { 3 } ) } { J } \, \operatorname { e x p } \frac { 2 \pi i m ( a _ { 1 } + a _ { 4 } ) } { J } .",70d6b0f059.png
+f ^ { \mu } ( \sigma ) = \sum _ { n = 1 } ^ { \infty } \frac { 1 } { n } ( a _ { n } ^ { \mu } e ^ { - i n \sigma } + a _ { - n } ^ { \mu } e ^ { i n \sigma } ) .,7a244c6516.png
+"\left| x , y \right| = \sum _ { \xi \in \mathcal { O } ( x , y ) } \left( \left| \xi \right| - 1 \right)",28a21d83cf.png
+f | _ { r = \infty } = m | _ { r = \infty } = l | _ { r = \infty } = 1 \ .,2b75ed169a.png
+\nabla \cdot { \bf g } = - 4 \pi G ( \rho + 3 P ),497ead7374.png
+D _ { \mu \nu } = ( \eta _ { \mu } ^ { i } k _ { \nu } - \eta _ { \nu } ^ { i } k _ { \mu } ) { \frac { \partial } { \partial k ^ { i } } } .,208009efe3.png
+"m = { \frac { \, \, ( e / 4 ) ^ { \Delta / 2 } } { \Gamma ( 1 - \Delta ) } } \, \Lambda",849a373d14.png
+"E _ { o p t } ^ { ( p ) } \simeq 0 . 4 2 0 7 9 8 7 - 1 1 . 9 8 \times 1 0 ^ { - 5 } / p + 8 . 9 9 1 \times 1 0 ^ { - 5 } / p ^ { 2 } + \mathrm { O } ( p ^ { - 3 } ) \, .",5365139243.png
+d s ^ { 2 } = \dot { f } ( t - | w | ) ^ { 2 } ( d w ^ { 2 } - d t ^ { 2 } ) + d x ^ { 2 } + d y ^ { 2 } + d z ^ { 2 } .,cbc72c95e2.png
+\int _ { M _ { U } ^ { 1 1 } } \delta C ^ { \prime } \wedge K \wedge K = \frac { 6 } { \sqrt { 2 } } \frac { \bar { \kappa } ^ { 2 } } { \lambda ^ { 2 } } \int _ { M _ { U } ^ { 1 1 } } \epsilon ( x ^ { 1 1 } ) \hat { I } _ { 4 } \wedge d C ^ { \prime } \wedge \delta C ^ { \prime } = 0,551202253f.png
+"d s ^ { 2 } = d \tau ^ { 2 } - R ^ { 2 } ( \tau ) \, \left( \frac { d r ^ { 2 } } { 1 + \beta ^ { 2 } r ^ { 2 } } + r ^ { 2 } d \Omega _ { 2 } ^ { 2 } \right) ,",39e600baa9.png
+A _ { l } ^ { \pm } ( t ) = \alpha _ { l } ^ { \pm } ( t ) f _ { \pm } ( t ) \nonumber,1937856cf0.png
+"U _ { K } = \operatorname { e x p } \left[ K , \overline { { \Delta } } \right]",75f09e8c34.png
+"{ \cal L } _ { \mathrm { i n t } } [ x _ { c } , q _ { c } ] = f \left( x _ { c } ( s ) \right) \Xi \left( q _ { c } ( s ) \right) .",7e35c7a78b.png
+"X _ { \alpha } { } ^ { \, \lambda } \equiv X _ { \alpha \beta } { } ^ { \, \beta \lambda } .",17a762f651.png
+"S ^ { \mathrm { L a r g e } N _ { c } } = S ^ { ( 0 ) } + S ^ { ( 2 ) } ,",4cff9e3f9d.png
+< \psi _ { i } ( z _ { 1 } ) \psi _ { j } ( z _ { 1 } ) \psi _ { k } ( z _ { 3 } ^ { * } ) \psi _ { l } ( z _ { 3 } ^ { * } ) > = C \epsilon _ { i j k l } / ( z _ { 1 } - z _ { 3 } ^ { * } ) ^ { 2 },183b6361c5.png
+a ^ { \pm } = t ^ { p _ { \pm } } \quad ; \quad e ^ { \phi } = t ^ { 3 p _ { \pm } - 1 },2461ba2eed.png
+\widehat L ^ { \mu \nu } ( q ) = \left( \eta ^ { \mu \nu } q ^ { 2 } - q ^ { \mu } q ^ { \nu } \right) \hat { h } ( q ^ { 2 } ),1a2ced7385.png
+| p \rangle = \sum _ { n = 0 } ^ { \infty } p _ { n } | n \rangle,5a47198860.png
+\frac { 1 } { \varrho } \sim \Lambda _ { \mathrm { \footnotesize ~ Q C D } } \sim 2 \times 1 0 ^ { 8 } \mathrm { e V },78ef2302f7.png
+"m ^ { 2 } \alpha ^ { 2 } = 2 \sum _ { n } ( 2 n ^ { 2 } + \frac { m ^ { 2 } \alpha ^ { 2 } } { l ^ { 2 } } ) \sum _ { R = 1 } ^ { 2 } A _ { n } ^ { R } \tilde { A } _ { - n } ^ { R } ,",46ce786d11.png
+[ C _ { 1 } ] = 2 E _ { 1 } \qquad [ C _ { 2 } ] = E _ { 2 } \qquad [ C _ { 3 } ] = E _ { 3 },4bc00ec25a.png
+"X _ { n k \pm } ^ { ( 1 ) l } ( t ) = \mp v _ { k - , n - } ^ { - } E _ { \pm \omega _ { l k } ^ { ( 0 ) } + \Omega + \omega _ { l n } ^ { ( 0 ) } } ^ { \mp \omega _ { l k } ^ { ( 0 ) } } \mp v _ { k - , n - } ^ { + } E _ { \pm \omega _ { l k } ^ { ( 0 ) } - \Omega + \omega _ { l n } ^ { ( 0 ) } } ^ { \mp \omega _ { l k } ^ { ( 0 ) } }",6e1621cdf4.png
+"\Psi _ { 1 } [ R , \Theta ] \, = \, { \frac { k _ { 1 } } { \pi } } ^ { 1 / 2 } \int d y e ^ { - i k _ { 1 } y } \Theta ( y ) \Psi _ { 0 } [ \Theta ] \operatorname { e x p } \left[ \int d z { \frac { 1 } { R ( z ) } } \partial _ { i } \partial _ { i } R ( z ) \right] \, .",38f3520158.png
+\langle T ( x ) \rangle = \frac { 1 } { 2 } i e _ { a } ^ { \mu } \eta ^ { a b } \langle \partial _ { \mu } j _ { b } ( x ) \rangle - m ~ \langle n ( x ) \rangle,594d8a574e.png
+\pm \phi _ { 1 } = \bar { \phi } \equiv { \frac { \pi - \gamma } { 2 } } .,faa27f5fde.png
+F = \sum _ { \mu > \nu } F _ { \mu \nu } e ^ { \mu \nu } = \sum _ { a > b } F ^ { a b } E _ { a b } = \sum _ { a > b } \sum _ { \mu > \nu } F _ { \mu \nu } ^ { a b } E _ { a b } \otimes e ^ { \mu \nu } .,2177c322cc.png
+\delta L = \left( i Z _ { \alpha \beta } \epsilon ^ { \alpha } \theta ^ { \beta } + i Z _ { \alpha \dot { \beta } } \epsilon ^ { \alpha } { \bar { \theta } } ^ { \dot { \beta } } \right) ^ { \cdot } { } + \quad \mathrm { c . { } c . },36ca7e239b.png
+"\sigma \sim ( r _ { w } ^ { n } ) ^ { \frac { n } { n - 2 } } \omega ^ { \frac { n + 2 } { n - 2 } } ,",15bcaf6c68.png
+"( F , B ) = 0 , \qquad ( F , \widehat { B } ) = 0 .",7ba55152c2.png
+"\operatorname* { l i m } _ { \epsilon \rightarrow 0 } \left[ { \frac { \hbar ^ { 2 } } { 2 } } \int _ { 0 } ^ { 1 } d s \, { \frac { \delta ^ { 2 } } { \delta \sigma ^ { \mu \nu } ( s - \epsilon / 2 ) \delta \sigma _ { \mu \nu } ( s + \epsilon / 2 ) } } - m ^ { 4 } \right] \Psi [ C ] = 0 \ ,",6a9166c7d8.png
+"\tau _ { 1 } = \sum _ { i = 1 } ^ { N } \xi _ { i } , \qquad \tau _ { 2 } = \sum _ { \stackrel { i , j = 1 } { i < j } } ^ { N } \xi _ { i } \xi _ { j } , \quad \ldots , \quad \tau _ { N } = \xi _ { 1 } \xi _ { 2 } \ldots \xi _ { N } \, .",11c8179b3f.png
+V ( r ) = 1 - \frac { m } { r ^ { n - 2 } } + \frac { q ^ { 2 } } { r ^ { 2 n - 4 } } + \frac { r ^ { 2 } } { l ^ { 2 } } .,2046dd63cc.png
+"\partial _ { \mu } A _ { f } ^ { \mu } \left( x \right) = 0 \; \, ,",528cc68625.png
+D ( \delta _ { 2 } ) \gamma b _ { N } - \delta _ { 2 } D ( \gamma b _ { N } ) - \delta _ { 1 } \gamma b _ { N } = 0 .,71b39bc456.png
+"H _ { 0 } = \int d x \left( { - \frac { 1 } { 2 } \Pi _ { 1 } \Pi ^ { 1 } + \Pi _ { 1 } \partial ^ { 1 } A _ { 0 } } \right) ,",3b9102f2f9.png
+{ \cal I } = \prod _ { i = 1 } ^ { 5 } ( g _ { i } + g _ { i } ^ { 2 } - g _ { i } ^ { 3 } - g _ { i } ^ { 4 } ),2d6b5da8a0.png
+"< { \cal O } > ~ = \frac { 1 } { Z } \mathrm { T r } [ { \cal O } e ^ { - \beta H } ] \; ,",70ea5333da.png
+"2 { \cal W } _ { 4 } + { \cal W } _ { 5 } = d \left( 2 \Lambda + \Sigma \right) \equiv d \, f \, .",1aaa82af5f.png
+"B ^ { 3 \cdot \cdot \cdot d } ( x ) = 2 \pi \Phi ^ { ( 0 ) } \delta ( x ) ,",7c30959d09.png
+"F _ { + } ( 0 ) + F _ { - } ( 0 ) = \frac { \beta V } { 3 2 \pi ^ { 2 } } m ^ { 4 } \; ,",79e4d3673f.png
+"V = \left( \begin{array} { c } { 1 } \\ { a z } \\ { - z ^ { 3 } } \\ { 3 z ^ { 2 } } \\ \end{array} \right) e ^ { K / 2 } \, .",61ae74313a.png
+Q = \oint { \frac { d w } { 2 \pi i } } ~ : c ~ ( \tilde { J } ^ { 3 } ~ + ~ J ^ { 3 } ) : ( z ) .,4df31368a8.png
+"\omega = \displaystyle \frac { 1 } { 2 } d x ^ { i } \, _ { i } \omega _ { j } d x ^ { j } ~ ,",af8fb005b9.png
+T _ { \mathrm { d i v } } + V _ { 2 } + \sum _ { n } ^ { o c c } 2 p _ { n } = \left( 1 - \frac { 2 w } { R } \right) \left( \sum _ { n } ^ { v a c } \frac { 1 } { E ( p _ { n } ) } - \sum _ { n } ^ { o c c } \frac { 1 } { p _ { n } } \right) \ .,6d108f310b.png
+"A _ { \varphi } = \frac 1 4 c r ^ { 4 } + \frac 1 2 c _ { 0 } r ^ { 2 } , \qquad A _ { r } = 0 .",61482e3beb.png
+\langle | \Phi _ { + } ( y ) | \rangle = { \frac { A } { \operatorname { c o s } [ a y + b + c _ { 0 } \mathrm { s g n } ( y ) + c _ { \pi } \mathrm { s g n } ( y - \pi R ) ] } } .,538fef06b2.png
+S _ { B H } = { \frac { 2 \pi } { \kappa _ { 2 } ^ { 2 } } } \Phi _ { H } = { \frac { 2 \pi } { \kappa _ { 2 } ^ { 2 } } } \left[ 2 \ell M \left( 2 - { \frac { \gamma } { \delta ^ { 2 } } } \right) \right] ^ { \frac { \delta ^ { 2 } } { 2 \delta ^ { 2 } - \gamma } } .,112a2d8cd0.png
+"[ \Phi _ { i } , \Phi _ { j } ] = - \frac { m } { \sqrt 2 } \epsilon _ { i j k } \Phi _ { k } \ .",3fd15fdd75.png
+"A _ { e l e c } ^ { { \vec { \Lambda } } } \, = \, d t \, \operatorname { e x p } \left[ C ^ { { \vec { \Lambda } } } ( r ) \right] .",7e66f5ce53.png
+{ \cal L } _ { 3 } = - \frac { g ^ { 2 } } { 2 } \partial _ { \mu } \phi \partial ^ { \mu } \phi ^ { \ast } W _ { \nu } W ^ { \nu \ast },3f0caf61b8.png
+m _ { a _ { 1 } } e ^ { \pm \theta _ { 1 } } + m _ { a _ { 2 } } e ^ { \pm \theta _ { 2 } } = m _ { b _ { 1 } } e ^ { \pm \theta _ { 1 } ^ { \prime } } + \dots + m _ { b _ { n } } e ^ { \pm \theta _ { n } ^ { \prime } } ~ .,218526c5e8.png
+4 \psi ( x ^ { 1 1 } ) = f ( x ^ { 1 1 } ) = k ( x ^ { 1 1 } ) = - b ( x ^ { 1 1 } ),19a9a3c468.png
+y ^ { 2 } + a _ { 1 } x y + a _ { 3 } y = x ^ { 3 } + a _ { 2 } x ^ { 2 } .,1f1a72e515.png
+"m _ { n } = \frac { 2 m } { \gamma } \operatorname { s i n } \frac { \gamma n } { 2 } ~ ~ ~ ~ , n = 1 , \ldots , \left[ \frac { \pi } { \gamma } \right] ~ ~ ; ~ ~ \gamma = \frac { \beta ^ { 2 } } { 8 } ~ ~ ~ .",2ae8268ae4.png
+\Delta \varepsilon _ { P } ^ { ( s g l ) \left( o \right) } = - \frac { \alpha ^ { 4 } m } { 8 },69a8de1248.png
+"U ( \tau _ { 2 } , \tau _ { 1 } ) = \operatorname { e x p } \Big [ - { \cal H } ( \tau _ { 2 } - \tau _ { 1 } ) \Big ] , \quad ( \tau _ { 2 } > \tau _ { 1 } )",2f9645c469.png
+\hspace { . 7 4 5 i n } = - q ( \frac { z _ { 1 } } { z _ { 2 } } ) ^ { - \delta _ { i 1 } } r ( \frac { z _ { 1 } } { z _ { 2 } } ) ( 1 \otimes q ^ { - 2 \overline { { \rho } } } ) \overline { { R } } _ { V ^ { * } V } ( \frac { z _ { 1 } } { z _ { 2 } } ),3169bdba2e.png
+< ( s _ { n } - < s > ) ( s _ { m } - < s > ) > \sim | x _ { n } - x _ { m } | ^ { - ( D - 2 + \eta ) },4ca46965cc.png
+"\epsilon ^ { + } ( z ) = \frac { z } { 2 \pi } + \frac { i } { \pi } \sum _ { n > 0 } \frac { e ^ { - i n ( z - i \varepsilon ) } } { n } , ~ ~ ~ ~ ~ \epsilon ^ { - } ( z ) = \frac { z } { 2 \pi } + \frac { i } { \pi } \sum _ { n < 0 } \frac { e ^ { - i n ( z + i \varepsilon ) } } { n } .",7343b4a3f4.png
+"| \phi ( { \bf r } ) | - v _ { \phi } < 0 \, , \qquad | \chi ( { \bf r } ) | - v _ { \chi } < 0",1243ad017a.png
+"\{ I \left( k \right) , \ \phi \left( k ^ { \prime } \right) \} = \Omega \left( k \right) \delta ^ { 3 } ( \vec { k } - \vec { k } ^ { \prime } ) .",79495e3aa4.png
+"M _ { T } = \frac { \lambda \pi } { 2 } \sum _ { a } m _ { a } A _ { a } ^ { ( + ) } \left[ B _ { a } - \frac { \pi } { 2 \lambda ^ { 2 } } \sum _ { b } \frac { m _ { b } } { A _ { b } ^ { ( + ) } } \right] ,",22529aa1e2.png
+"\left( { { z _ { 1 } } , \ { z _ { 2 } } } \right) = \zeta \left( { { \frac { \xi } { \sqrt { 1 - \left| \xi \right| ^ { 2 } } } } , \ 1 } \right) , \quad \left( { d z ^ { * } d z } \right) ^ { 2 } = | \zeta | ^ { 2 } d \zeta ^ { * } d \zeta { \frac { d \xi ^ { * } d \xi } { \left( { 1 - \left| \xi \right| ^ { 2 } } \right) ^ { 2 } } } \quad ,",60694da508.png
+{ \frac { \delta L } { \delta A _ { 0 } ^ { a } } } = \varepsilon _ { I J } F _ { I J } ^ { a } = 0 .,23d6172de6.png
+"\Phi _ { k } ^ { ( 0 ) } = \frac { 2 \pi k } { \beta } \quad , \quad V \left( \Phi _ { k } ^ { ( 0 ) } \right) = - \mu \: .",5967f15557.png
+"{ \cal F } _ { m _ { 1 } m _ { 2 } m } = \left\{ \begin{array} { l l } { \beta _ { 1 } ^ { k } \beta _ { 2 } ^ { \ell } } & { \mathrm { f o r ~ m _ 1 + m = 2 k + 1 ~ a n d ~ m _ 2 + m = 2 \ell + 1 ~ , } } \\ { 0 } & { \mathrm { o t h e r w i s e . } } \\ \end{array} \right.",24a1ded39f.png
+"D _ { a \alpha } w _ { \beta } ^ { ~ \beta } ( \theta ) = 4 \rho _ { a \alpha } \, .",740c6a6f3d.png
+"\partial ^ { 2 } \bar { \Psi } ^ { \alpha } - i g \; \partial _ { x + i y } \Phi \; \partial _ { 0 - z } \bar { \Psi } ^ { \alpha } + i g \; \partial _ { 0 - z } \Phi \; \partial _ { x + i y } \bar { \Psi } ^ { \alpha } = 0 \, ,",216b9616b6.png
+\delta _ { \omega } ^ { \mathrm { g a u g e } } A _ { \mu } = \frac 1 { e ( x ) } \partial _ { \mu } \omega \ .,5a08f7a064.png
+B = m ^ { 2 } + 4 \lambda \phi ^ { 2 } + 1 2 \lambda I _ { 0 } ( \Omega ) + 4 ( N - 1 ) \lambda I _ { 0 } ( \omega ) = 0 .,ac559fc318.png
+\left( 1 - \frac { w \kappa } { 4 } e ^ { 2 \phi } \right) \partial ^ { 2 } \rho - \partial ^ { 2 } \phi + ( \partial \phi ) ^ { 2 } + \Lambda e ^ { 2 \rho } = 0 ;,dcd6c3235e.png
+S = - \frac 1 4 \int ( F _ { i j } F ^ { i j } ),232adabf26.png
+\delta \Lambda ^ { a b } : ~ ~ ~ ~ ~ \partial _ { [ a } V _ { b ] } = 0,4d263f71c8.png
+"( t , r , \varphi , Z ) \sim ( t , r , \varphi + 2 \pi \alpha , Z + 2 \pi \kappa ) ,",2687747447.png
+"T _ { A _ { 1 } B _ { 1 } . . A _ { k - 2 } B _ { k - 2 } } \nu _ { 1 } ^ { A _ { 1 } } \, \nu _ { 1 } ^ { B _ { 1 } } \cdots \nu _ { k - 2 } ^ { A _ { k - 2 } } \, \nu _ { k - 2 } ^ { B _ { k - 2 } } \, \vert \Phi \rangle",2e6f39f545.png
+C _ { 6 } = R ^ { 2 } e ^ { 2 \Phi _ { D } } { \frac { 1 } { g _ { Y M } ^ { 2 } ( W ) } } d x _ { 4 } \wedge d \Omega _ { 2 },70e4a71602.png
+"\Delta ( x ) \equiv D ( x ) J _ { 0 } ( m \sqrt { x ^ { 2 } } ) \; ,",4a3e14e3e6.png
+"K = e ^ { \frac { 1 } { 2 \pi i } \oint d Z \phi ( Z ) G ( Z ) } \; ,",2855269df2.png
+"\{ 2 \omega _ { 1 } , 2 \omega _ { 3 } \} \to \{ 2 \omega _ { 1 } / n , 2 \omega _ { 3 } \}",83bde90d51.png
+"B _ { \Sigma } \frac { \partial \Sigma } { \partial g } = 0 \; ,",3e7fc49629.png
+V _ { \cal N } ^ { + } ( q ) = V _ { \cal N } ^ { - } ( q ) + i w _ { { \cal N } - 1 } ( q ) ^ { \prime } .,2701b292d0.png
+"\begin{array} { r l } { d u } & { = \mp \star e \sp { u } \left( - d \delta + \alpha \wedge \beta - \operatorname { s i n } \theta d \theta \wedge d \phi \right) , } \\ { \alpha } & { = \mp \star e \sp { u } \left( - d \beta + \delta \wedge \alpha + \alpha \wedge \operatorname { c o s } \theta d \phi \right) , } \\ { \beta } & { = \mp \star e \sp { u } \left( d \alpha - \beta \wedge \delta + \beta \wedge \operatorname { c o s } \theta d \phi \right) . } \\ \end{array}",1ff91d8a48.png
+y _ { 1 } = - \frac { 9 } { 4 l o g \alpha + l o g \sqrt { 2 } Q },6626cdc51f.png
+"a _ { 0 } ( \vec { x } , \beta ) = { \frac { 1 } { \beta } } \int _ { 0 } ^ { \beta } d t ^ { \prime } \, A _ { 0 } ( t ^ { \prime } , \vec { x } )",578f423186.png
+D [ u ] = \int _ { V } d x _ { h } ( \vec { \nabla } _ { h } u \cdot \vec { \nabla } _ { h },4ffc942055.png
+"\tilde { A } = \sum _ { n = 0 } ^ { \infty } A ^ { ( n ) } ,",234dc1f95a.png
+\Psi [ A _ { i } ] = \int D \phi \operatorname { e x p } \left\{ i \kappa \int d ^ { 2 } x \partial _ { i } \phi ( x ) \epsilon _ { i j } A _ { j } ( x ) \right\} \Phi [ A _ { i } + \partial _ { i } \phi ],68cbcafa03.png
+"Z = \bigl ( \prod _ { x , \mu } \, \sum _ { n _ { x } , m _ { x , \mu } } \bigr ) \prod _ { x } \delta ^ { ( Q ) } ( \triangle _ { \mu } m _ { x , \nu } - \triangle _ { \nu } m _ { x , \mu } ) \prod _ { x , \mu } B ( \triangle _ { \mu } n _ { x } - P m _ { x , \mu } ) .",74bfa4a323.png
+"S _ { \mathrm { C S } } = - \mathrm { i } \int \mathrm { d } ^ { 3 } x \epsilon ^ { \mu \rho \nu } \left( \frac { 1 } { 2 } A _ { \mu } ^ { a } \partial _ { \rho } A _ { \nu } ^ { a } + \frac { 1 } { 3 ! } g f ^ { a b c } A _ { \mu } ^ { a } A _ { \rho } ^ { b } A _ { \nu } ^ { c } \right) ,",692dbf66ec.png
+"{ \bf L } _ { \bf k } G _ { \bf R } ( x ^ { a } , { x ^ { \prime } } ^ { a } ) = \frac { \delta ^ { 2 } ( x ^ { a } - { x ^ { \prime } } ^ { a } ) } { \sqrt { - \gamma } }",e15950fe31.png
+"\triangle _ { s } = - \nabla ^ { 2 } + \xi _ { s } R ~ ~ ~ , { } ~ ~ ~ \triangle _ { d } = - ( \gamma ^ { \mu } \nabla _ { \mu } ) ^ { 2 } = - \nabla ^ { 2 } + \frac 1 4 R ~ ~ ~ .",232f8cc806.png
+"\delta _ { \epsilon } \theta = \epsilon , \qquad \delta _ { \epsilon } X ^ { m } = \bar { \epsilon } \Gamma ^ { m } \theta \ ,",7fdab2348b.png
+"( L _ { n } - \tilde { L } _ { - n } ) \left| B _ { _ { p ^ { + } , p ^ { - } , p _ { 2 } } } \right\rangle = 0 = \left\langle B _ { p ^ { + } , p ^ { - } , p _ { 2 } } \right| ( L _ { n } - \tilde { L } _ { - n } ) .",41ecf35858.png
+"{ \bf X _ { H } } = { \frac { \partial } { \partial t } } + \{ - , \, H _ { c } \} + \lambda _ { \mu } \{ - , \, \phi ^ { \mu } \} .",20381915e4.png
+"\lbrack \widehat { X } ^ { i } , \widehat { X } ^ { j } ] = i \frac { \hbar } { e B } \epsilon ^ { i j }",15028fa739.png
+{ \cal L } _ { n + 1 } : = L _ { n } + { \frac { d } { d t } } { \cal W } _ { n } .,1790c3e04e.png
+"e ( u _ { E } ^ { 0 } ) = 1 , \quad d ^ { 2 } = ( 2 - f \vec { u } _ { E } ^ { 2 } ) f .",65690e1ddb.png
+"{ \tilde { \gamma } } ^ { 0 } = \sigma _ { 3 } , \; \; { \tilde { \gamma } } ^ { 1 } = i \sigma _ { 1 } , \; \; { \tilde { \gamma } } ^ { 2 } = i \sigma _ { 2 } \; ,",1663d975fe.png
+"\delta S _ { 2 } = - i g \int d ^ { 4 } y j ( y ) \cdot \partial _ { y } \left[ \, \Delta \left( [ y - x ] ^ { 2 } \right) - \Delta ( y ^ { 2 } ) \, \right] \; \; \; .",2a3a691040.png
+{ \cal U } _ { A I } ^ { i } { \cal U } _ { j } ^ { A I } = \delta _ { j } ^ { i } .,58209ce9c8.png
+"r _ { h } ^ { 2 } ( 1 - \sqrt { 1 + \frac { a ^ { 4 } } { r ^ { 4 } } } ) < 0 ,",73655dc2f9.png
+"\psi _ { \mathrm { o u t } } \equiv e ^ { - i A \pi } c \operatorname { e x p } \{ i \sum _ { i = 1 } ^ { N } p _ { N + 1 - i } x _ { i } \} \, \, ,",39e615db38.png
+"( T ( R ) u _ { \chi } ) ( \zeta , \stackrel { o } { p } ; \lambda ) = e ^ { i \lambda \Theta ( R ) } u _ { \chi } ( \zeta , \stackrel { o } { p } ; \lambda ) .",619b6b4cbb.png
+"\mathrm { A r e a } _ { H } = \, \frac { 1 } { 4 \pi } \, \vert Z ( p , q ) \vert ^ { 2 }",d490aa5f11.png
+\left( \sqrt { \tilde { x } ^ { 2 } + \tilde { y } ^ { 2 } } - \widetilde { \rho } \frac { \operatorname { c o s h } \tau } { \operatorname { s i n h } \tau } \right) ^ { 2 } + \tilde { z } ^ { 2 } = \frac { \widetilde { \rho } ^ { 2 } } { \operatorname { s i n h } ^ { 2 } \tau } .,5056307daf.png
+"\omega _ { i } ( x , x ^ { \prime } ) = - S _ { i } G _ { i } ( \nu , x , x ^ { \prime } ) ,",6be13db593.png
+"( e ^ { - 4 \gamma \psi } x ^ { 2 } A N H ^ { \prime } ) ^ { \prime } = A H ( 2 e ^ { - 4 \gamma \psi } K ^ { 2 } + \beta ^ { 2 } x ^ { 2 } e ^ { - 2 \gamma \psi } ( H ^ { 2 } - 1 ) ) \ ,",2acc68167a.png
+"\begin{array} { l } { \omega ^ { \alpha \beta } = \{ \eta ^ { \alpha } , \eta ^ { \beta } \} = \tilde { J } _ { \alpha \beta } = - J _ { \alpha \beta } } \\ { \chi _ { \alpha \beta } = J _ { \alpha \beta } } \\ \end{array}",10b14c516f.png
+n ( \omega ) = { \frac { 1 + e ^ { - \alpha \omega } } { 1 - e ^ { - \alpha \omega } } } .,3f98251013.png
+"f _ { 1 } ^ { n } = M _ { \lambda _ { 1 } , \lambda _ { 2 } } ( \delta / \alpha ) ,",19fc9d901b.png
+"\times \prod _ { b = 1 } ^ { N } \prod _ { j = 1 } ^ { m _ { b } } \operatorname { e x p } \left( - 2 e U _ { 1 b } \Big ( \varepsilon _ { \mu \nu } \partial _ { \mu } A _ { \nu } ^ { ( 1 ) } , \frac { \pi } { \pi + g N } Q ^ { ( 1 ) } \delta ( y _ { j } ^ { ( b ) } ) \Big ) \right)",73c4e936aa.png
+"R : = 4 m \sqrt { 1 - { \frac { 2 m } { r } } } , \: \: \: \: \: \psi : = { \frac { \tau } { 4 m } } .",6d0c5c67c0.png
+"\hat { \beta } _ { e } ^ { ( 1 ) } = \frac 1 { 8 \pi ^ { 2 } } \ , \qquad r ^ { ( 1 ) } = - \frac 1 { 1 6 \pi ^ { 2 } } ,",59b995dcfc.png
+"J _ { a } ^ { ( \pm ) } = 2 \left( \pm \, \omega \, \varphi _ { b } ^ { ( \pm ) } \epsilon _ { b a } - \omega ^ { 2 } \, \varphi _ { a } ^ { ( \pm ) } - g { \cal A } _ { a } ^ { \pm } \right)",49a1e22d26.png
+k _ { 1 \mu } \rightarrow k _ { 1 \mu } + ( x _ { 1 } - x _ { 2 } ) ( k _ { 2 \mu } - p _ { 1 2 \mu } ) + x _ { 2 } ( k _ { 3 \mu } - p _ { 1 3 \mu } ) \ .,5d3ed0e2c9.png
+e _ { { f } } ^ { \mu } \partial _ { \mu } \theta ^ { \beta } v _ { \beta } ^ { { b } } \left( \Gamma ^ { \{ { f \} } } C ^ { - { 1 } } \right) _ { { b c } } \left( \delta _ { { a } } ^ { { c } } \pm ( \Gamma ^ { \prime } ) _ { { a } } ^ { { c } } \right) = 0,6ede7ba777.png
+\beta F ( \beta ) = W ^ { E } ( \beta ) - \beta E _ { 0 } ~ .,5675882e93.png
+\delta x _ { \mu } = \wedge _ { \mu \nu } \delta \omega ^ { \nu },308ab51104.png
+"| \alpha | \le { \frac { 5 \pi } { 1 . 4 4 ~ 1 0 ^ { 5 } } } { \frac { m _ { \mathrm { p } } ^ { 2 } } { \rho _ { 3 } ^ { 2 } \lambda ^ { 3 } } } { \frac { 1 } { a ^ { 3 } } } \mathrm { e } ^ { a / \lambda } \, .",657255cc34.png
+"\phi _ { h } = \sum _ { r = 1 } ^ { h } { \frac { ( - 1 ) ^ { r } } { r } } \left( { 2 h - 1 \atop r - 1 } \right) P _ { r , 2 h - r } - { \frac { 1 } { 2 } } { \frac { ( - 1 ) ^ { h } } { h } } \left( { 2 h - 1 \atop h - 1 } \right) P _ { h , h } \, ,",22108d92eb.png
+g ^ { 2 } ( D + 2 g ^ { 2 } ) + 2 g ^ { 1 } D [ \frac { 1 } { 2 } ( D - 2 ) + 2 g ^ { 2 } ] = 0,ecf883f343.png
+"\gamma _ { 1 } + \gamma _ { 2 } = - \frac 1 2 \int \int \int _ { V } \left( \nabla _ { R } \cdot \frac { \left( \vec { R } - i \frac 1 2 \vec { \Gamma } \right) } { \left[ \left( \vec { R } - i \frac 1 2 \vec { \Gamma } \right) ^ { 2 } \right] ^ { \frac 3 2 } } \right) d V ,",12725c533c.png
+"\hat { O } ( \vec { x } , \eta ) = \hat { A } ( \vec { x } ) + \hat { \bar { \zeta } } ( \vec { x } ) \eta + \bar { \eta } \hat { \zeta } ( \vec { x } ) + \bar { \eta } \eta \hat { B ( \vec { x } ) }",2780719718.png
+"f _ { 1 } \bullet f _ { 2 } - f _ { 2 } \bullet f _ { 1 } = \frac { \hbar } { 2 \sqrt { - 1 } } \left\{ f _ { 1 } , f _ { 2 } \right\} _ { P } + O \left( \hbar ^ { 2 } \right) .",25fb1cf0b9.png
+{ \cal F } = { \cal F } _ { \infty } - \frac { \Gamma [ D / 2 ] \zeta ( D ) } { \pi ^ { D / 2 } } \frac { \tilde { c } } { L ^ { D } } .,7e081d4e6b.png
+"\zeta _ { T } ( \nu | \beta ) = { \frac { \nu \varrho ^ { - 2 \nu } } { \pi i } } \int _ { \mu } ^ { \infty } d \omega \int _ { C _ { + } } d z { \frac { 2 z } { ( z ^ { 2 } + \omega ^ { 2 } ) ^ { \nu + 1 } } } \operatorname { l n } \left( 1 - e ^ { i \beta z } \right) \breve { \Psi } ( \omega ; z ) ,",5e30f9ac25.png
+"E _ { n _ { 1 } , n _ { 2 } } ^ { d } ( w _ { 1 } , w _ { 2 } ) = k ^ { 2 ( n _ { 1 } + n _ { 2 } - 1 ) - d } \int _ { 0 } ^ { \infty } { d } x x ^ { \frac { d } { 2 } } \dot { P } ^ { 2 } ( P + w _ { 1 } ) ^ { - n _ { 1 } } ( P + w _ { 2 } ) ^ { - n _ { 2 } }",3f95391bb9.png
+"d \tilde { F } _ { [ 1 ] } + F _ { [ 0 ] } \wedge F _ { [ 2 ] } = { } ^ { * } \! j _ { 1 } ,",31c58deb42.png
+\chi = \frac { 1 } { 4 \pi } \int d ^ { 2 } x \sqrt { g } R,10921e2aef.png
+= \; \frac { 1 } { \pi ^ { 2 } } \int d ^ { 2 } p \frac { 1 } { p ^ { 2 } + m _ { d } ^ { 2 } } \; \frac { 1 } { p ^ { 2 } } \; \operatorname { s i n } ^ { 2 } ( p _ { 1 } L ) \; \bigg [ \frac { p _ { 2 } } { p _ { 1 } } e ^ { i p _ { 2 } L } - \frac { p _ { 1 } } { p _ { 2 } } \Big ( 1 - e ^ { i p _ { 2 } L } \Big ) \bigg ] \; = \; 0 \; .,49bd44a00a.png
+"R _ { \mu \sigma } = - { \frac { 1 } { 2 } } ( \partial _ { \nu } \partial ^ { \nu } K ) l _ { \mu } l _ { \sigma } \ , \qquad R = - { \frac { 1 } { 2 } } ( \partial _ { \nu } \partial ^ { \nu } K ) l _ { \mu } l ^ { \mu } = 0",7a1c758d41.png
+"S _ { s } = { \frac { 1 } { 2 \kappa _ { 1 0 } ^ { 2 } } } \int d ^ { 1 0 } x \sqrt { - G ^ { s } } e ^ { - 2 \Phi } \left[ { \cal R } _ { G ^ { s } } + 4 ( \partial \Phi ) ^ { 2 } - { \frac { 1 } { 2 \cdot 3 ! } } F _ { 3 } ^ { 2 } \right] ,",58d4d6564d.png
+"h _ { \mu \nu } ( x , \rho _ { n } ) \, = \, \int d ^ { N } m \, \epsilon _ { \mu \nu } ^ { ( m ) } ( x ) \, \sigma _ { m } ( \rho _ { n } ) \, ,",7a32bebbe3.png
+"R _ { + } ^ { 2 } R _ { - } ^ { 2 } = \frac { 4 } { h ^ { 2 } } ( C ^ { 2 } - D ^ { 2 } ) , \; \; R _ { + } ^ { 2 } + R _ { - } ^ { 2 } = \frac { 4 } { h ^ { 2 } } ( 1 - C h ) .",69fd5bdce1.png
+"\delta Y ^ { m } = \xi ^ { m } , \qquad \delta \Pi ^ { m n } = Y ^ { [ m } \xi ^ { n ] } .",308bd1cf79.png
+"\frac { \partial } { \partial t _ { i } } C _ { j , a b } ( t ) = \frac { \partial } { \partial t _ { j } } C _ { i , a b } ( t )",4d27cee44b.png
+"( ( F ^ { s } ) ^ { I _ { 1 } I _ { 2 } I _ { 3 } I _ { 4 } } ) _ { \mu \nu } = \sum _ { \lambda = 0 } ^ { 2 I } \sigma _ { \nu \lambda } ( I _ { 1 } , I _ { 2 } , I _ { 3 } , I _ { 4 } ) \sigma _ { 2 I - \lambda , \mu } ^ { - 1 } ( I _ { 3 } , I _ { 2 } , I _ { 1 } , I _ { 4 } ) \ ,",5d1d1471e1.png
+"\Delta _ { 1 } ^ { + } = \{ \pi _ { 1 } , \pi _ { 2 } \} , \; \Delta _ { 2 } ^ { + } = \{ \pi _ { 1 } + \pi _ { 2 } \} , \; \Delta _ { 3 } ^ { + } = \{ \pi _ { 1 } + 2 \pi _ { 2 } \} ;",210410ac5f.png
+"Z _ { 3 , 8 } = K _ { 0 } \overline { { K _ { 0 } } } + K _ { 4 } \overline { { K _ { 4 } } } + \left( K _ { 1 } \overline { { K _ { 3 } } } + K _ { - 1 } \overline { { K _ { - 3 } } } + K _ { 2 } \overline { { K _ { - 2 } } } + c . c . \right) \ ,",5e64193cd0.png
+"\mathcal { S } _ { \mathrm { C S } } ( A ) + \mathcal { S } ( F ) , \;",579d2d5be9.png
+"\gamma _ { g , 9 } = { \mathrm { d i a g } } ( \omega { \bf I } _ { 2 } , \omega ^ { - 1 } { \bf I } _ { 2 } , { \bf I } _ { 4 } ) ~ .",71a82f0a23.png
+- 2 \frac { \phi ( q ^ { 2 } y ) } { y q ( q - 1 ) ^ { 2 } } + 2 \frac { 1 + q + ( y - p - \frac { 1 } { 2 } ) q ( 1 - q ) } { y q ( q - 1 ) ^ { 2 } } \phi ( q y ) -,752d9f0791.png
+g = 0 \hspace { 1 t r u e c m } \partial _ { i } ( V ^ { - 1 } { \tilde { g } } ^ { i j } \Pi _ { j } ^ { a } ) = 0 \hspace { 1 t r u e c m } { \tilde { g } } ^ { i j } \Gamma _ { i } \partial _ { j } \theta = 0,514f5874e6.png
+P _ { m } \; = \; X _ { m } \: t _ { m } \; = \; t _ { m } \: X _ { m } ^ { * } \; .,4a7306235a.png
+"A [ f ] = - \frac { 1 } { 2 } \int d x d x ^ { \prime } \, K _ { x x ^ { \prime } } ( f _ { x } - h _ { x } ) ( f _ { x ^ { \prime } } - h _ { x ^ { \prime } } )",2d069524ac.png
+\int _ { \phi ( t _ { 0 } ) } ^ { \phi ( t _ { 1 } ) } h d \phi = { \cal A } > 0,5ea153c2d8.png
+\tau ( \lambda _ { c } - \lambda ) ^ { 1 / 4 } \ = \ \mathrm { f i x e d } .,377b000218.png
+"K ( x , y ) \; = \; \widetilde { M } \; \delta ( x , y ) \; + \; t \sum _ { \mu = \pm 1 } ^ { \pm 3 } B _ { \mu } ( x ) \; \delta ( x + \hat { \mu } , y ) \; .",71e0c98e80.png
+"W ^ { ( 1 ) } = - i g ^ { 2 } \, t ^ { a } t ^ { a } \int \frac { d ^ { d } q } { ( 2 \pi ) ^ { d } } \frac { v _ { \mu } { \mit \Pi } _ { R } ^ { \mu \nu } ( q ) v _ { \nu } ^ { \prime } } { q ^ { 4 } ( q \cdot v ) ( q \cdot v ^ { \prime } ) } \, .",439afddde0.png
+"S _ { \mu } \equiv \frac { \partial _ { \mu } S } { S } \; ,",196f942d94.png
+Z _ { M } = \int d U _ { f } \ \Pi _ { s } \sum _ { j } \left( 2 j + 1 \right) T r _ { j } \left( U _ { s } \right),6baeef4531.png
+"g _ { \sf t t } = - 1 ~ ~ \mathrm { a n d } ~ ~ g _ { i j } = a ( \sf t ) ^ { 2 } \gamma _ { i j } \; ,",dada32e237.png
+L _ { b } ^ { a } = \delta _ { b } ^ { a } c o s h \alpha + \epsilon _ { b } ^ { a } s i n h \alpha,6bef02c5dd.png
+I _ { 2 } = \int _ { 0 } ^ { 1 } \frac { d x } { ( 1 - x ) } \frac { 1 } { p ^ { 2 } - \frac { M ^ { 2 } } { x } - \frac { \lambda ^ { 2 } } { 1 - x } } \stackrel { \lambda \rightarrow \infty } { \longrightarrow } \frac { 1 } { \lambda ^ { 2 } },4a2733577b.png
+"\varepsilon ( v _ { 0 } , \ldots , v _ { g } ) = \prod _ { j = 0 } ^ { g } \vartheta ( v _ { j } ^ { 2 } , V _ { j } ) \vartheta ( v _ { j } , v _ { j } )",56240aba60.png
+"\delta = \alpha ^ { 2 } F ( r , \theta ) + 2 \alpha \beta G ( r , \theta ) + \beta ^ { 2 } H ( r , \theta ) ,",5207910d5b.png
+4 V _ { 0 } = \phi _ { 0 } { \frac { \partial V } { \partial \phi } } ( \phi = \phi _ { 0 } ) .,482e29aef6.png
+"\eta _ { 1 } \, + \, \chi _ { 1 } ~ = ~ - \, \frac { C _ { 2 } ( G ) \eta _ { 1 } ^ { \mathrm { o } } } { 2 ( \mu - 2 ) T ( R ) }",76a71ae2af.png
+"F _ { 2 s } ( a , b ) \simeq \frac { 1 } { 2 \sqrt { \pi } } \frac { \Gamma ( s - 1 / 2 ) } { \Gamma ( s ) } \frac { 1 } { a ^ { 2 s - 1 } }",774939b023.png
+"\left\{ Q _ { n } ^ { - } , Q _ { n } ^ { + } \right\} _ { P B } = - i ( H _ { n } ) ^ { n } , \qquad \{ Q _ { n } ^ { \pm } , H _ { n } \} _ { P B } = 0 .",59f60efb0b.png
+\operatorname* { l i m } _ { \tilde { t } \to \pm \infty } P _ { 2 } = \Pi _ { \pm \infty } .,104c351e90.png
+\frac { d t } { d \widetilde { t } } = 2 V ( \rho ) = 4 V ( \sigma ) = 4 \sqrt { y _ { 1 } y _ { 2 } y _ { 3 } } .,786b6142d7.png
+"\rho ^ { - 1 } ( x ) / G _ { x } \cong G / G _ { x } \cong G \cdot x ,",7802e13143.png
+"2 \pi x \int _ { 1 } ^ { \infty } { \frac { \pi ^ { 2 } B _ { 2 } ( t - [ t ] ) } { ( x ^ { 2 } + ( 2 \pi t ) ^ { 2 } ) ^ { { \frac { 3 } { 2 } } } } } d t = 2 \pi x \sum _ { m = 1 } ^ { \infty } \int _ { 0 } ^ { 1 } { \frac { \pi ^ { 2 } B _ { 2 } ( t ) } { ( x ^ { 2 } + ( 2 \pi ( t + m ) ) ^ { 2 } ) ^ { { \frac { 3 } { 2 } } } } } d t \ ,",53b2a8cf97.png
+d _ { s } d _ { f } = - d _ { f } d _ { s } .,4a39db3e12.png
+"[ { \cal D } \mu ] = { \cal D } A _ { \mu } { \cal D } \phi { \cal D } \theta { \cal D } \xi \prod _ { \beta = 1 } ^ { 2 } \delta \left( \Gamma _ { \beta } [ A _ { 0 } + \xi , A _ { 1 } , \theta ] \right) \operatorname* { d e t } \mid \{ \tilde { \Omega } _ { \alpha } , \Gamma _ { \beta } \} \mid .",46a7ceb1b2.png
+M \ddot { o } b _ { 2 } \equiv ( z \rightarrow \sqrt { z } ) \cdot M \ddot { o } b \cdot ( z \rightarrow z ^ { 2 } ),3f5773e442.png
+"\chi _ { c , h } ( q ) = \textrm { T r } \: q ^ { L _ { 0 } - c / 2 4 } = \sum _ { N = 0 } ^ { \infty } \operatorname { d i m } ( N ) q ^ { h + N - c / 2 4 } \; ,",42df3f2974.png
+"W [ \psi _ { 1 } , \psi _ { 2 } ] ( x ) = f _ { 1 } ( x ) g _ { 2 } ( x ) - f _ { 2 } ( x ) g _ { 1 } ( x )",6c93fede05.png
+"{ \cal A } = N \int _ { z _ { - } } ^ { z _ { 1 } } \! d z \, { \frac { 1 - z } { z ( 1 + z / N ) ^ { 2 } } } { \frac { \bigl [ 1 - 1 / N - z / N ^ { 2 } \bigr ] \bigl [ 1 + z / ( N ( 1 - z ) ) \bigr ] } { \displaystyle \sqrt { 1 - N ^ { 2 } ( 1 + z / N ) ^ { 2 N } / ( z ^ { 2 } r ^ { 2 N } ) } } } \, \cdotp",2e9e838830.png
+"\left\{ \phi _ { \gamma } ( x ) , \phi _ { \gamma ^ { \prime } } ( y ) \right\} = < J ( x ) , M _ { - } > \delta ( x - y ) + \lambda \partial _ { x } \delta ( x - y ) ,",46ca0595d2.png
+\phi ^ { { ( n ) } i } \equiv \frac { \partial ^ { n } } { \partial \tau ^ { n } } \phi ^ { i } \ .,235a0d57c0.png
+"\fbox { \begin{array} { l l l } { { \cal E } _ { 8 } ^ { e v e n } } & { = } & { \Xi _ { 0 } \cup \Xi _ { 2 } , } \\ { { \cal E } _ { 8 } ^ { o d d } } & { = } & { \Xi _ { 1 } \cup \Xi _ { 3 } . } \\ \end{array} }",4999885b2d.png
+"A = - 2 p \left( \begin{array} { c c c } { 1 } & { \ldots } & { 1 } \\ { \vdots } & { \ddots } & { \vdots } \\ { 1 } & { \ldots } & { 1 } \\ \end{array} \right) \, ,",206af1f41f.png
+\partial _ { r } ( \frac { 1 } { 2 } \Phi ^ { ' 2 } - U ) = - ( \frac { D _ { 1 } } { 2 } A ^ { \prime } + \frac { D _ { 2 } } { 2 } B ^ { \prime } ) \Phi ^ { ' 2 } ~ .,776b8305f7.png
+"\Delta _ { p } \leq 2 \operatorname { c o s h } ^ { 2 } ( p l ) - 1 \, .",7c70306576.png
+\mathrm { \boldmath ~ E ~ } = q [ \frac { 1 - v ^ { 2 } } { ( R - \mathrm { \boldmath ~ R \cdot ~ v ~ } ) ^ { 3 } } ( \mathrm { \boldmath ~ R ~ } - R \mathrm { \boldmath ~ v ~ } ) + \frac { 1 } { ( R - \mathrm { \boldmath ~ R \cdot ~ v ~ } ) ^ { 3 } } \mathrm { \boldmath ~ R \times ~ } \{ ( \mathrm { \boldmath ~ R ~ } - R \mathrm { \boldmath ~ v ~ } ) \mathrm { \boldmath ~ \times ~ a ~ } \} ],52556c781d.png
+t ^ { I } q _ { I } = { \frac { 3 ^ { 2 / 3 } } { 2 ^ { 7 / 6 } } } \left( q _ { 0 } ( q _ { 1 } ) ^ { 2 } \right) ^ { 1 / 3 },2a78bbc4ad.png
+\pi _ { a } = \dot { \sigma } _ { a } + \sigma _ { a } \theta .,609205fa12.png
+S = \frac { 1 } { 2 } \int d \tau \int d ^ { 2 } \sigma \biggl [ \biggl ( D _ { 0 } X ^ { I } \biggr ) ^ { 2 } - d e t \partial _ { a } X ^ { I } \partial _ { b } X ^ { I } \biggr ),3fd80eba1b.png
+"\chi ^ { a b } = \frac { g } { 2 ! } \, \bar { \theta } ^ { a b } + \sum _ { n = 1 } ^ { \infty } \omega _ { n } \, \left[ ( g \bar { \theta } ) ^ { 2 n } \right] ^ { a b } \, ,",6713c44fe2.png
+"{ \cal L } = { \cal L } ( \omega ) , \; \; \; \; \; \; \; \; \omega = G ^ { \alpha \beta } ( \Phi _ { , \alpha } + A _ { \mu } X _ { , \alpha } ^ { \mu } ) ( \Phi _ { , \beta } + A _ { \mu } X _ { , \beta } ^ { \mu } ) .",6aec14e3da.png
+"( \phi ^ { i } , \phi ^ { j } ) = 0 \quad , \quad ( \phi ^ { i } , { \bar { \phi } } _ { j } ) = \delta _ { j } ^ { i } \quad , \quad ( { \bar { \phi } } _ { i } , { \bar { \phi } } _ { j } ) = 0 \quad .",3fb507227d.png
+"\phi _ { n , m } ( z , \bar { z } ) = \sqrt 2 \mathrm { c o s } \, 2 \pi ( n x + m y ) , \qquad ( n , m ) \in { \bf Z } ^ { 2 } ,",4660a714d2.png
+"F ( T , \Omega ) = - \frac { 2 ^ { 6 } \pi ^ { 3 } } { 3 ^ { 7 } } N ^ { 3 } V _ { 5 } T ^ { 6 } ( 1 + x ) ^ { 4 } \left( 1 + \frac { x } { x _ { c } } \right) ^ { - 6 }",281888e5df.png
+"\tilde { k } \, \frac { J _ { l } ^ { \prime } ( \tilde { k } a ) } { J _ { l } ( \tilde { k } a ) } = \kappa \, \frac { K _ { i \Theta } ^ { \prime } ( \kappa a ) } { K _ { i \Theta } ( k a ) } \; .",7410f11384.png
+"H _ { p q } ^ { a } = i ( \sum _ { k = 1 } ^ { a } \delta _ { i k } \delta _ { j k } - a \delta _ { i , a + 1 } \delta _ { j , a + 1 } ) / \sqrt { 2 a ( a + 1 ) } ~ ; ~ a = 1 , \cdots , N - 1 .",99a86340a3.png
+"G _ { i } ( q , p , \phi , \pi ) : = G _ { i } ^ { ( g ) } ( q , p ) + G _ { i } ^ { ( m ) } ( q , p , \phi , \pi ) ,",1e0a91a3dd.png
+"[ \theta _ { a } , \theta _ { b } ] _ { P } = \delta _ { a b } \ .",666a6a3a33.png
+0 < \displaystyle \frac { \nu \pi } { p + 1 } < \pi / 2,550acdcdb4.png
+\gamma ^ { 0 } = \left( \begin{array} { r r } { 0 } & { - i } \\ { i } & { 0 } \\ \end{array} \right) \; \; \; \; \; \gamma ^ { 1 } = \left( \begin{array} { r r } { 0 } & { i } \\ { i } & { 0 } \\ \end{array} \right) \; \; \; \; \; \gamma ^ { 2 } = \left( \begin{array} { r r } { i } & { 0 } \\ { 0 } & { - i } \\ \end{array} \right),7755566538.png
+"d s ^ { 2 } = g _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } = \frac { 1 } { V } d l ^ { 2 } + V ( d x ^ { 4 } + A _ { i } d x ^ { i } ) ^ { 2 } \, ,",419474b181.png
+M ^ { \dagger } = \left( \begin{array} { c c } { 1 } & { 0 } \\ { Y } & { 1 } \\ \end{array} \right) .,329f55298f.png
+"{ \cal W } _ { 4 } ^ { C P V , a b } = - { \frac { 1 } { 8 } } C _ { F } ^ { 2 } A ^ { 2 } \ .",529e132ebc.png
+"e = e ^ { a } J _ { a } + e ^ { 4 } i \, , \quad \omega = \omega ^ { a } J _ { a } + \omega ^ { 4 } i \, ,",5ea033b500.png
+"\Phi _ { \tilde { G } } = \Phi _ { G \mid _ { C ( \tilde { G } ) } } ,",7d484d5a71.png
+"\omega \partial _ { x } ^ { 2 } B + \alpha B = \gamma \left[ \partial _ { x } E - \sigma A _ { 0 } \right] + \tau \, a _ { 0 }",6a1105ccd6.png
+"\varepsilon _ { k } F G _ { l } = \frac { k ! l ! } { \left( k + l - 2 \right) ! } \varepsilon _ { k } ^ { M _ { 1 } ( M _ { 2 } \cdots M _ { k } } G _ { l } ^ { M _ { k + 1 } \cdots ) M _ { k + l } } F _ { M _ { 1 } M _ { k + l } } ,",2fc1ec6946.png
+g ( \tilde { f } _ { 2 } Q _ { 3 } - \tilde { f } _ { 3 } Q _ { 2 } ) - g ^ { \prime } Q _ { 1 } = 0 .,1a5b61ea1d.png
+H = \frac { e ^ { 2 } } { 2 } \int _ { 0 } ^ { L } d x \sum _ { a } E ^ { a } ( x ) ^ { 2 },6dac458936.png
+"i i ^ { * } = j j ^ { * } = - ( 1 ) ~ , ~ ~ ~ ~ ~ ( i j ) ( i j ) ^ { * } = ( 1 ) ~ .",250c01da5f.png
+"\epsilon ^ { i j } \equiv a \delta ^ { i j } + \theta ^ { i } b ^ { j } + \theta ^ { j } b ^ { i } \; , \; ( \mu ^ { - 1 } ) ^ { i j } \equiv a \delta ^ { i j } - ( \theta ^ { i } b ^ { j } + \theta ^ { j } b ^ { i } ) \; ,",fa842e86cc.png
+"A _ { k [ j , i ] } ^ { * } \equiv 0 \qquad \Lambda _ { [ i , j ] } ^ { * } \equiv 0 \qquad \Lambda _ { r [ j , i ] } ^ { * } \equiv 0 ,",1f8c9b8d3a.png
+"\int _ { 0 } ^ { \infty } d \tau F _ { n } \left( \tau , c \tau \right) G \left( \left( 1 - c \right) \tau \right) = { \frac { \delta _ { n , 0 } } { 1 - c } } \ , R e ( 1 - c ) > 0 \ .",437c80dd26.png
+< x | e ^ { - \beta ( \frac { 1 } { 2 } K ^ { i j } v _ { i } v _ { j } - J ^ { i } v _ { i } ) } | y > = \sum _ { n = 0 } ^ { \infty } < x | e ^ { \varphi ^ { i } v _ { i } } ( - \frac { 1 } { 2 } \beta K ^ { i j } v _ { i } v _ { j } ) ^ { n } | y > / n !,28a75cf16f.png
+"\sum _ { i = 0 } ^ { n - 2 } c _ { i } = 0 , \qquad \sum _ { i = 0 } ^ { n - 2 } c _ { i } u _ { i } = 1 - { \frac { n } { 2 } } .",2389441c4f.png
+"\langle \omega \rangle = \eta E _ { \mathrm { s p e n t } } \; ,",5e2819a3ac.png
+\int d ^ { 2 } x _ { \perp } \operatorname { l n } \operatorname { s i n } ^ { 2 } ( \pi a _ { 3 } ( x _ { \perp } ) ) \; > \; - \infty \; \; .,50aed4a97c.png
+\mathcal { V } = e ^ { K } \left( ( W _ { I } ^ { * } + K _ { I } W ^ { * } ) ( K ^ { - 1 } ) _ { J } ^ { I } ( W ^ { J } + K ^ { J } W ) - 3 | W | ^ { 2 } \right),420337f4dc.png
+"a ^ { t } c + c ^ { t } a = b ^ { t } d + d ^ { t } b = 0 , \quad a ^ { t } d + c ^ { t } b = i d _ { \Gamma ^ { * } } ,",5ba1984165.png
+Z ( u ) = \prod _ { p = 1 } ^ { \infty } \frac { \operatorname { s i n } \left[ \widetilde { \gamma } ( ( 2 p - 1 ) i \pi - u ) \right] \operatorname { s i n } \left[ \widetilde { \gamma } ( 2 p i \pi + u ) \right] } { \operatorname { s i n } \left[ \widetilde { \gamma } ( ( 2 p - 1 ) i \pi + u ) \right] \operatorname { s i n } \left[ \widetilde { \gamma } ( 2 p i \pi - u ) \right] } .,57fe8f5281.png
+"\delta A _ { \mu } ^ { m } ( x ) = { \cal D } _ { \mu } ^ { m n } ( x ) \xi ^ { n } ( x ) = \int d ^ { 4 } y \; { \cal R } _ { \mu } ^ { m n } ( x ; y ) \xi ^ { n } ( y ) ,",3357e19833.png
+"\langle \Psi ( x ) \bar { \Psi } ( y ) \rangle = \left( \begin{array} { c c } { o } & { G _ { 1 } ( x , y ) \nonumber } \\ { G _ { 2 } ( x , y ) } & { 0 } \\ \end{array} \right)",7338344595.png
+t r \left( ( U \rho U ^ { - 1 } ) ( U \rho U ^ { - 1 } ) \right) = t r ( \rho ^ { 2 } ) .,1506aa8dc2.png
+"\langle { \cal O } \rangle _ { \sigma } = G _ { \sigma } ^ { ( n ) } ( \overbrace { x ^ { - 1 } \zeta , \cdots , x ^ { - 1 } \zeta } ^ { n } , \overbrace { \zeta , \cdots , \zeta } ^ { n } ) ^ { - \varepsilon _ { n } \cdots - \varepsilon _ { 1 } \varepsilon _ { 1 } ^ { \prime } \cdots \varepsilon _ { n } ^ { \prime } } .",fc8518a7c4.png
+D ( x ) = \frac { - i } { 2 ( 2 { \pi } ) ^ { 3 } } \int \frac { d ^ { 3 } k _ { + } } { k ^ { - } } ( \mathrm { e } ^ { - i k \cdot x } - \mathrm { e } ^ { i k \cdot x } ),616a2f5afc.png
+"R = 2 f ( x ) ^ { - 1 } \partial _ { x } ^ { 2 } f ( x ) = \frac { 2 b ^ { 2 } ( 3 p - 2 - p \operatorname { t a n h } ^ { 2 } ( b x ) ) } { \operatorname { c o s h } ^ { 2 } ( b x ) ( 1 - p \, \operatorname { t a n h } ^ { 2 } ( b x ) ) ^ { 2 } } \, .",1ffdf18425.png
+\Omega ^ { \prime \prime \prime } = \operatorname { d i m } o f ~ H ^ { \prime } s ~ o f ~ U ( 1 ) ~ S - W ~ p a r t .,47821aa98f.png
+\widetilde { \Phi } ^ { ( 1 ) } = \zeta _ { i } \Phi _ { r _ { i } } ^ { ( 1 ) } \in \widetilde { G } _ { r _ { i } } ^ { ( 1 ) } = \widetilde { \cal U } _ { r _ { i } } ^ { ( 1 ) } \otimes { \cal H } _ { r _ { i } } ^ { ( 1 ) } .,35bc437b1a.png
+g ^ { \Lambda \Sigma } = \int _ { S ^ { 2 } } F ^ { \Lambda \Sigma } \qquad ; \qquad g _ { \Lambda } = \int _ { S ^ { 3 } } H _ { \Lambda },76def79923.png
+t _ { 0 } \; \; \leq \; \; \frac { 1 } { B } \; \operatorname { l o g } \; [ - \frac { ( 3 + 2 \sqrt { 2 } ) } { A } ],3844788cdc.png
+"\delta { \hat { b } } _ { \hat { \imath } } = \partial _ { \hat { \imath } } { \hat { \rho } } ^ { ( 0 ) } - l _ { p } ^ { - 2 } \, ( i _ { \hat { h } } { \hat { \chi } } ) _ { \hat { \imath } } \, ,",759b4b79c0.png
+"[ X , \widetilde { M } ] = - \hat { H } \cdot { \frac { \partial { \cal V } } { \partial q } } , \quad { \cal V } = { \frac { 1 } { 2 } } \sum _ { \rho \in \Delta _ { + } } { g _ { | \rho | } ^ { 2 } | \rho | ^ { 2 } } \, V ( \rho \cdot q ) ,",74e48803fe.png
+\tilde { { \cal A } } ^ { \mu } = \tilde { A } ^ { \mu } - \frac { 1 } { 2 } \epsilon ^ { \mu \gamma \alpha \beta } \int _ { \tilde { P } } ^ { x } \partial _ { \alpha } A _ { \beta } \; d \xi _ { \gamma },65657bdca4.png
+\psi ^ { \dagger } ( x ) ( S ^ { \dagger \mu } \overleftarrow { { \hat { p } } _ { \mu } } + s m ) = 0 .,21f7119dd8.png
+s = \sqrt { k ^ { 2 } - \alpha ^ { 2 } + \alpha ^ { \prime 2 } },6333d83054.png
+"{ G } _ { a } ( x ) = X ^ { l m } \, \partial _ { a } D _ { l m } - \partial _ { l } ( X ^ { l m } \, D _ { a m } ) - \partial _ { m } ( D _ { l a } \, X ^ { l m } ) - c ~ \partial _ { a } \partial _ { l } \partial _ { m } X ^ { l m } .",40660c14a4.png
+"d R \left( t \right) / d t = 2 \sqrt { 3 } \quad , \quad t > t _ { c }",1fd336bda1.png
+"S ( 1 ) = 1 \, , \ \ \ S ( a ) = - a \, , \ \ \ S ( d a ) = - d a \ \ \ \ \ \ ( a = x \, , u \, , T ) .",5fd7dabeb8.png
+"\partial _ { \Lambda } { \cal F } ( a , \Lambda ) = { \frac { \Lambda } { \Lambda _ { 0 } } } \partial _ { \Lambda _ { 0 } } { \cal F } ( a _ { 0 } , \Lambda _ { 0 } ) e ^ { - 2 \int _ { \tau _ { 0 } } ^ { \tau } { d x \beta ^ { - 1 } ( x ) } } .",74be797bbf.png
+P _ { q } = \prod _ { \alpha \in \Phi ^ { + } } \left( 1 - q ^ { - \alpha } \right) ^ { \mathrm { m u l t } \alpha } \; .,29ca9c646e.png
+"\frac { 1 } { N } T r \rightarrow \frac { 1 } { \frac { 8 } { 3 } \pi \rho ^ { \prime 4 } \cdot 4 \pi \rho ^ { \prime 2 } } \int d ^ { 4 } x ^ { \prime } d ^ { 2 } y ^ { \prime } ,",23459d1765.png
+\Delta _ { i } = b \partial _ { i } b ^ { - 1 } + b \Gamma _ { i } b ^ { - 1 },8cb6444298.png
+"\left( f , g \right) _ { W i g } ^ { W } \equiv \left( f , g \right) _ { K , T = 2 \pi }",6a0ea94dd3.png
+"A = { \frac { 1 } { \sqrt 2 } } ( A _ { 3 } ^ { 9 } + i A _ { 3 } ^ { 1 0 } ) , \qquad \bar { A } = { \frac { 1 } { \sqrt 2 } } ( A _ { 3 } ^ { 9 } - i A _ { 3 } ^ { 1 0 } ) .",7a29b412a6.png
+\mathrm { T r } \Big [ K ( \not { \! \! B } ) ^ { 4 } \Big ] \; = \; \mathrm { T r } \Big [ K ( \not { \! \! B } ) ^ { 4 } \Big ] - \mathrm { T r } \Big [ K ( \gamma _ { 5 } \not { \! \! B } ) ^ { 4 } \Big ] \;,189d0be090.png
+\Lambda = \sqrt { \Delta + m ^ { 2 } } .,60de736b1f.png
+"Z _ { N } \, = \, \sum _ { n _ { 1 } = 0 } ^ { \infty } \cdots \sum _ { n _ { N } = 0 } ^ { \infty } \,",5db1e2489d.png
+B ^ { \prime } = \left( R ^ { T } G ^ { - 1 } P + S ^ { T } G S \right) G ^ { \prime } .,68487cc683.png
+"Q _ { i } V _ { i } ( { \vec { \eta } } _ { i } ( \tau ) ) = Q _ { i } \sum _ { j \not = i } ^ { 1 . . N } { \frac { { Q _ { j } } } { { 4 \pi | { \vec { \eta } } _ { i } ( \tau ) - { \vec { \eta } } _ { j } ( \tau ) | } } } ,",38aedba53a.png
+g _ { f } ( x ) = { \frac { g } { ( 1 + g { \frac { x \pi \sqrt { 3 } } { 9 } } ) } },1ac3ec2309.png
+"{ \cal V } = ( U ^ { \Lambda \Sigma } + \bar { L } ^ { \Lambda } L ^ { \Sigma } ) \left( P _ { \Lambda } ^ { x } P _ { \Sigma } ^ { x } \right) ,",24917657dc.png
+"\frac { 1 } { 2 \mu } \left[ \mathrm { t r } M ^ { 2 } - \frac { 1 } { N _ { c } } ( \mathrm { t r } M ) ^ { 2 } \right] ,",14d7276f6c.png
+"R _ { A B } - \frac { 1 } { 2 } g _ { A B } R = \frac { 1 } { M _ { D } ^ { n + 2 } } \left( \Lambda _ { D } g _ { A B } + T _ { A B } \right) ~ ,",45469f4b23.png
+{ \cal Z } _ { \mathrm { g r a n d } } ^ { \mathrm { 4 D } } \left[ j _ { \mu } \right] \stackrel { { \Lambda ^ { \prime } \to \infty } } { \longrightarrow } \operatorname { e x p } \left[ - \frac { 1 } { 8 \pi ^ { 2 } Q ^ { 2 } } \int d ^ { 4 } x d ^ { 4 } y j _ { \mu } ( x ) \frac { 1 } { ( x - y ) ^ { 2 } } j _ { \mu } ( y ) \right] .,750f17fcc6.png
+"( P _ { V } \omega ) ^ { a } \equiv \delta _ { \omega } V ^ { a } = \omega ^ { b } \nabla _ { b } V ^ { a } - V ^ { b } \nabla _ { b } \omega ^ { a } + { \textstyle { \frac { 1 } { 2 } } } \nabla _ { b } \omega ^ { b } V ^ { a } ,",64600241d7.png
+\delta _ { \Lambda } A _ { i j } ^ { A } = \partial _ { i } \Lambda _ { j } ^ { A } - \partial _ { j } \Lambda _ { i } ^ { A },222719b0be.png
+h ( k ) = \frac { \bar { k } ^ { 0 } } { k ^ { 1 } } = \frac { \bar { k } ^ { 1 } } { k ^ { 0 } } .,3fc7678e83.png
+"\xi _ { \mu ; \nu } = - \frac { \kappa } { l _ { + } \cdot l _ { - } } ( l _ { + \mu } l _ { - \nu } - l _ { + \nu } l _ { - \mu } ) ,",622802f09c.png
+"2 \Phi _ { , u v } - U _ { , u } \Phi _ { , v } - U _ { , v } \Phi _ { , u } + { \frac { \alpha } { 2 } } e ^ { U + V - \alpha \Phi } A _ { , u } A _ { , v } = 0 ,",781933bbda.png
+"B _ { \mu \nu } ^ { \Lambda } = B _ { \mu \nu } + \partial _ { \mu } \Lambda _ { \nu } - \partial _ { \nu } \Lambda _ { \mu } ,",3794e1db50.png
+"\Theta = \frac \pi 2 , ~ ~ ~ ~ \Phi = b ( x + x _ { 0 } ) .",4dc37f4f7f.png
+\pi _ { \mu \nu } = - \frac { 1 } { 4 } T _ { \mu \alpha } T _ { \nu } ^ { \; \alpha } + \frac { 1 } { 1 2 } T T _ { \mu \nu } + \frac { 1 } { 8 } g _ { \mu \nu } T _ { \; \beta } ^ { \alpha } T _ { \alpha } ^ { \; \beta } - \frac { 1 } { 2 4 } g _ { \mu \nu } T ^ { 2 },4eea0e36f2.png
+"H _ { a } ( x ) \; = \; ( D _ { j } \pi _ { j } ) _ { a } ( x ) \approx 0 \; ,",356447ac0f.png
+"\delta _ { \xi } x ^ { I } = \xi ^ { \alpha } \gamma _ { \alpha \dot { \alpha } } ^ { I } \psi ^ { \dot { \alpha } } , \, \delta _ { \xi } \psi _ { \dot { \alpha } } = \xi ^ { \alpha } \gamma _ { \alpha \dot { \alpha } } ^ { I } \bar { \partial } x ^ { I }",145f5e7ba4.png
+"\left[ { \cal D } ^ { 2 } , u ^ { \mu } \right] = \left[ { \cal D } ^ { 2 } , \nabla _ { \mu } \right] = 0 .",7a91b60bc4.png
+"\phi _ { i } ( J _ { 0 } ) = \langle \gamma _ { i } , J _ { 0 } - \Lambda _ { 0 } \rangle = 0 ,",5cf709590e.png
+"\bar { \cal R } ^ { \frac { 1 } { 2 } \, z \, \omega , \frac { 1 } { 2 } \, z \, \omega } \, \sim \, \left( \begin{array} { c c c c } { t } & { 0 } & { 0 } & { 0 } \\ { 0 } & { s ^ { - 1 } } & { t - t ^ { - 1 } } & { 0 } \\ { 0 } & { 0 } & { s } & { 0 } \\ { 0 } & { 0 } & { 0 } & { - t ^ { - 1 } } \\ \end{array} \right) \, .",179b193fd9.png
+{ \tilde { c } } _ { n - \gamma \ \gamma } = - { \frac { 1 } { 2 \gamma - 1 } } \left( \begin{array} { l } { n } \\ { \gamma } \\ \end{array} \right) { \tilde { c } } _ { n 0 } \ .,7ba44036ff.png
+"A _ { 1 } ( k , k ) = A _ { 2 } ( k , k + 2 ) \ , \ A _ { 2 } ( k + 1 , k + 2 ) = A _ { 1 } ( k , k + 1 )",1c9910aae0.png
+"H = \epsilon ^ { - 2 } p ^ { 2 } K ^ { 2 } + V ( x , K , \Lambda ) ,",4f0e09e99a.png
+"\delta u \ = \ - 2 \zeta u \ \ , \ \ \ \delta x \ = \ \zeta x \ \ , \ \, d e l t a t \ = \ 3 \zeta t \ \ \ ,",6b391b12ae.png
+R _ { \omega } ^ { R } = \mid \bar { B } _ { \omega } ^ { R } \mid ^ { 2 } + 2 R e [ \bar { B } _ { \omega } ( \bar { Y } _ { \omega } ^ { R } ) ^ { \ast } ] + { \cal O } ( \lambda ^ { 4 } ) .,19e9450300.png
+"\tilde { W } _ { 1 } ^ { V C } ( \beta , \alpha , y , \epsilon ) = U ( \beta , \alpha , y ) - { \frac { 1 } { 1 2 } } \left( \alpha - { \frac { 1 } { \alpha } } \right) \operatorname { l n } { \frac { \epsilon } { \mu } } { } ~ ~ ~ .",6744314602.png
+"\qquad \qquad \qquad \qquad + { \frac { 1 } { 2 } } \sum _ { M } ( \bar { q } _ { N M } - 1 ) { \frac { 1 } { V _ { M } } } \partial _ { a } \tilde { E } _ { M } \Gamma _ { \hat { a } } \Gamma _ { M } ^ { \perp } \eta = 0 ,",55f8e54667.png
+"S = - { \frac { 1 } { 2 } } \, { { m ^ { 2 } } \, \sigma } + L \, \varphi + p z + A ( \rho ) \, ,",2380b2c3e4.png
+{ \cal L } = - \varphi ^ { \ast } D _ { \mu } \varphi ^ { \mu } + \varphi ^ { \ast \mu } D _ { \mu } \varphi - m \left( \varphi ^ { \ast } \varphi + \varphi ^ { \ast \mu } \varphi _ { \mu } \right),36885d47e0.png
+\frac { d t } { d t _ { 1 } } = c ( ( \Lambda \frac { d y } { d t } ( t ( t _ { 1 } ) ) ) ^ { 0 } ) ^ { - 1 },1ec673d377.png
+F ( t ) = \mathcal { F } ^ { - 1 } ( \mu ) ( t / 2 \pi ),16a7f8146d.png
+"{ \cal L } _ { H E } ^ { ( 1 ) } ( B ) = { \frac { 1 } { 8 \pi ^ { 2 } } } \int _ { s _ { o } } ^ { \infty } { \frac { d s } { s ^ { 3 } } } e ^ { - i s m ^ { 2 } } \, [ 1 + i s e B \, L ( i s e B ) ]",6e0452df13.png
+n ^ { * a b } = \frac 1 2 \varepsilon ^ { a b c d } n ^ { c d } \quad m ^ { * a b } = \frac 1 2 \varepsilon ^ { a b c d } m ^ { c d } \quad l ^ { * a b } = \frac 1 2 \varepsilon ^ { a b c d } l ^ { c d } .,3df3a0f74f.png
+\left\{ \left( 1 - u ^ { 2 } \right) \partial _ { u } ^ { 2 } - \frac { 1 } { 4 } \right\} v _ { D } = 0 .,133aba22e3.png
+"\phi _ { n } ( x ) \, \rightarrow \, \phi _ { n } ( x ) + i \epsilon \sum _ { m } t _ { n m } \phi _ { m } ( x ) ,",409451e263.png
+c _ { 2 r } ^ { \nu } ( h ^ { 2 } ) = c _ { - 2 r } ^ { - \nu } ( h ^ { 2 } ) \; \; \; a n d \; \; \; \frac { c _ { 2 r } ^ { \nu } ( h ^ { 2 } ) } { c _ { 0 } ^ { \nu } ( h ^ { 2 } ) } = \frac { c _ { - 2 r } ^ { - \nu } ( h ^ { 2 } ) } { c _ { 0 } ^ { - \nu } ( h ^ { 2 } ) },6ff88f3c62.png
+| q | = 1 \ \ \Rightarrow \ \ | \Delta | \leq 1,20f0e2bc9e.png
+"0 = \epsilon _ { i _ { 1 } i _ { 2 } \dots i _ { n } i _ { n + 1 } } \epsilon _ { j _ { 1 } j _ { 2 } \dots j _ { n } j _ { n + 1 } } = \sum _ { P \in S _ { n + 1 } } \ ( - 1 ) ^ { \pi ( P ) } \ \delta _ { i _ { 1 } P ( j _ { 1 } ) } \dots \delta _ { i _ { n + 1 } P ( j _ { n + 1 } ) } ,",6869fe7716.png
+\lambda _ { R } = \left( \begin{array} { c c } { 0 } & { 1 _ { \mathcal R } } \\ { 1 _ { \mathcal R } } & { 0 } \\ \end{array} \right) .,51ad08b1a7.png
+d \Omega _ { 4 } ^ { 2 } = d \rho ^ { 2 } + \operatorname { s i n } ^ { 2 } \rho \Big [ { \frac { 1 } { 4 } } ( d \theta ^ { 2 } + \operatorname { s i n } ^ { 2 } \theta d \phi ^ { 2 } ) + { \frac { 1 } { 4 } } ( d x ^ { 5 } + \operatorname { c o s } \theta d \phi ) ^ { 2 } \Big ],e4951c7bb7.png
+"G _ { r t } ( p ) = { \left[ { \vec { p } } ^ { \, 2 } - { ( p _ { 0 } + i 0 ) } ^ { 2 } \right] } ^ { - 1 } =",eb79df6cae.png
+"\frac { d } { d x } \left( e ^ { - 2 \rho } \Omega ^ { ( \gamma - 2 \epsilon ) / 4 + 1 } F _ { - + } \right) = 0 ,",56a0f3a05c.png
+"\hat { G } [ x , y ; E ] = \frac { e ^ { - \sqrt { 2 E } | x - y | } } { \sqrt { 2 E } } - \frac { \hat { v } ( E ) } { \sqrt { 2 E } ( \sqrt { 2 E } + \hat { v } ( E ) ) } e ^ { - \sqrt { 2 E } ( | x | + | y | ) } .",4151b08d25.png
+\gamma _ { 5 } = \left( \begin{array} { c c } { 1 } & { 0 } \\ { 0 } & { - 1 } \\ \end{array} \right),776444ba8e.png
+\xi _ { \mu } = ( F \circ L ) _ { \mu } ^ { - 1 \ \nu } ( F \circ h ^ { T F } ) _ { \nu } .,7b8152a1a4.png
+{ \frac { S p ( 2 ) } { U ( 2 ) } } \cong { \frac { S O ( 5 ) } { S O ( 3 ) \times S O ( 2 ) } } .,2091d939f9.png
+\beta ^ { \prime } = \sqrt { n _ { I } ^ { 2 } \omega ^ { 2 } - n _ { T } ^ { 2 } \left( k _ { 2 } ^ { 2 } + \cdots + k _ { m } ^ { 2 } \right) } .,5322e76d48.png
+"d s ^ { 2 } = \operatorname { c o s h } ^ { 2 } r \, d t ^ { 2 } + d r ^ { 2 } + \operatorname { s i n h } ^ { 2 } r \, d \Omega _ { D - 2 } ^ { 2 } ,",39a56f160e.png
+\psi _ { m } ^ { \prime \prime } + \frac { 2 } { \Delta + 2 } H \psi _ { m } ^ { \prime } + m ^ { 2 } \psi _ { m } = 0 .,6d218da147.png
+"b _ { - 2 } ( x , \xi ; \lambda ) = - \frac { 1 } { ( \lambda ^ { 2 } - \xi ^ { 2 } ) ^ { 2 } } ( \not \! \xi - \lambda ) ( e \not \! \! A + i m ) ( \not \! \xi - \lambda ) ,",52a513d001.png
+"\Gamma ^ { ( 0 | 2 , 2 , 2 , 2 ) } = ( 1 2 ) ^ { - 2 } \; { \xi _ { 1 2 3 } ^ { 2 } \xi _ { 1 2 4 } ^ { 2 } } \; F ( x , u ) + O ( \theta ^ { 5 } \bar { \theta } ) \; .",751a19ba07.png
+"S _ { g h o s t } = { \frac { 1 } { g _ { Y M } ^ { 2 } } } \int d t d ^ { 2 } \theta \, \mathrm { T r } \left( D ^ { \alpha } \bar { C } \nabla _ { \alpha } C \right) \, .",3c2d8405cf.png
+"z _ { 0 } ^ { 2 } \varepsilon ^ { 2 } < { \frac { 1 } { \omega } } \left( - { \frac { 3 } { 4 } } - { \frac { z _ { 0 } ^ { 2 } } { l ^ { 2 } } } \right) \, .",3651532daa.png
+\chi \equiv 1 6 \gamma \Big ( X - { \frac { 1 } { N _ { c } } } \mathrm { s i n h } ( N _ { c } X ) \Big ) .,1c4957d6cd.png
+"\hat { G } _ { \mu \nu } d x ^ { \mu } d x ^ { \nu } = N ^ { 2 } d \rho ^ { 2 } + g _ { a b } d x ^ { a } d x ^ { b } ,",747fa4d61e.png
+\Phi \equiv \varepsilon _ { a _ { 1 } a _ { 2 } a _ { 3 } a _ { 4 } } \varepsilon ^ { \mu \nu \lambda \sigma } ( \partial _ { \mu } \varphi _ { a _ { 1 } } ) ( \partial _ { \nu } \varphi _ { a _ { 2 } } ) ( \partial _ { \lambda } \varphi _ { a _ { 3 } } ) ( \partial _ { \sigma } \varphi _ { a _ { 4 } } ) .,3c5b4d49ae.png
+"{ \bf s \ } { \cal L \ } { \bf t \Rightarrow } \chi \left( { \bf s } \right) = \chi \left( { \bf t } \right) ,",40853b808e.png
+\mathrm { N . L . } = \frac { 3 - \lambda } { 2 } \int _ { 0 } ^ { \tau } d \tau _ { 1 } d \tau _ { 2 } \frac { 1 } { ( \tau _ { 1 } - \tau _ { 2 } ) ^ { 2 } } .,30f2b571bd.png
+"{ \partial ^ { + + } } ^ { 2 } B _ { r r } ^ { -- } = 2 { \xi ^ { + + } } ^ { 2 } e ^ { 2 \lambda \omega } B _ { r r } ^ { -- } + 4 \partial ^ { + + } \partial _ { r r } \omega ,",190ae52802.png
+"\frac { 2 } { 3 } \frac { ( \Delta \phi _ { 1 } ) ^ { 2 } } { \pi ^ { 2 } } - \frac { 8 } { 9 } \frac { \Delta \phi _ { 1 } \Delta \psi } { \pi ^ { 2 } } + \frac { 1 6 } { 9 } \frac { ( \Delta \psi ) ^ { 2 } } { \pi ^ { 2 } } = 1 ,",69f4a94d75.png
+\delta ^ { - 1 } \alpha = q ^ { 2 } b _ { 3 } ^ { - 1 } b _ { - } ^ { 2 } ( 1 - b _ { 3 } ) ^ { - 1 } \Phi _ { 1 } ( Z ),63eca1beb1.png
+"\Psi _ { i } = \left( \begin{array} { l } { \psi _ { - , i } } \\ { \bar { \psi } _ { + , i } } \\ \end{array} \right) , \qquad \qquad \overline { { \Psi } } _ { i } = \left( \psi _ { + , i } , \bar { \psi } _ { - , i } \right) \, .",289917a9f8.png
+"W = Z ^ { 2 } + Z _ { I } ^ { 2 } \, , \quad \, Z = X ^ { \Lambda } q _ { \Lambda }",59303b050b.png
+"{ \cal M } = \{ ( p _ { 1 } , . . . , p _ { c } ) \in { \bf C } ^ { c } | ( c - 3 ) \; \mathrm { D - f l a t n e s s ~ c o n d i t i o n s } \} / U ( 1 ) ^ { c - 3 } .",6e9d63252e.png
+"R _ { c } = \sqrt { { \frac { \pi ( d - 1 ) 2 \pi \alpha ^ { \prime } } { 1 2 } } } \ ,",42e8efe66b.png
+"M _ { \mathrm { S P l } } \equiv \frac { M _ { \mathrm { P l } } } { \sqrt { 8 \pi } } = \frac { 1 } { \sqrt { 8 \pi G _ { N } } } \simeq 2 . 4 \times 1 0 ^ { 1 8 } \mathrm { G e V } ,",6b41f56162.png
+"\tilde { B } _ { 5 \mu } = \frac { k } { R } A _ { \mu } , \hspace { 4 0 m m } \tilde { B } _ { \mu \nu } = 0 .",1af8cba077.png
+\widetilde Q _ { k } = { \bar { z } _ { 1 } } z _ { k } = e ^ { \mu } \cdot \xi \cdot w _ { k } \cdot \xi ^ { - 1 } = e ^ { \mu } w _ { k } \ .,45e95843c5.png
+"R ^ { ( n ) } ( u ) = R _ { 0 } ^ { ( n ) } ( u ) S ^ { ( n ) } \left( \frac { \pi } { 2 } ( \lambda + 1 ) , u \right) S ^ { ( n ) } ( 0 , u )",5cac13b983.png
+"{ \widehat \Gamma } _ { \; \; \; B C } ^ { A ^ { \prime } } \equiv \Gamma _ { \; \; \; B C } ^ { A ^ { \prime } } + \nabla _ { \; \; \; B } ^ { A ^ { \prime } } \; \nu _ { C } \; ,",6dd658138a.png
+"g ^ { \sf t t } = - 1 ~ ~ \mathrm { a n d } ~ ~ g ^ { i j } = \gamma ^ { i j } a ^ { - 2 } \; ,",36a52cc0db.png
+S _ { E G H } ^ { b o u n d } = - { \frac { 1 } { 3 2 \pi ^ { 2 } } } \int _ { \partial M } \epsilon _ { a b c d } \; ( 2 \theta ^ { a b } \wedge R ^ { c d } - { \frac { 4 } { 3 } } \; \theta ^ { a b } \wedge \theta ^ { a } { } _ { e } \wedge \theta ^ { e b } ),361a3c4350.png
+R _ { b _ { 1 } b _ { 2 } . . . b _ { 2 p } } ^ { a _ { 1 } a _ { 2 } . . . a _ { 2 p } },16276e8280.png
+\tilde { M } = M + \frac { \Phi _ { L } - \Phi _ { 0 } } { 2 \pi r },7d47767c22.png
+I ^ { - 1 } ( k ^ { 2 } ) \simeq \frac { i } { 3 2 \pi } \int _ { 0 } ^ { 1 } \frac { d x } { \sqrt { m ^ { 2 } - k ^ { 2 } x ( 1 - x ) } } \simeq \frac { i } { 3 2 \sqrt { - k ^ { 2 } } } .,42620418be.png
+"L _ { M C S } = { \frac { - a } { 4 } } A _ { \mu \nu } A ^ { \mu \nu } + \alpha \epsilon ^ { \mu \nu \lambda } A _ { \mu } \partial _ { \nu } A _ { \lambda } + J _ { \mu } A ^ { \mu } , ~ ~ ~ \partial . J = 0 ,",5e7ddeb17e.png
+"\Delta ( w ; \delta ) = \prod _ { 1 \leq i \neq j \leq n } ( 1 - w _ { i } w _ { j } ^ { - 1 } ) ^ { \delta } ,",c2cd885ece.png
+"| { s _ { 1 } , s _ { 2 } , s _ { 3 } , s _ { 4 } } \rangle",d6b4444438.png
+"a G ( \phi ) \frac { \partial \rho } { \partial t } = - \frac { \delta { \cal D } [ \rho ] } { \delta \rho } ,",480d025145.png
+"m = e ^ { K / 2 } | n _ { I } ^ { ( e ) } X ^ { I } - n _ { ( m ) } ^ { I } F _ { I } | \ ,",56ed41712d.png
+"T r K _ { \bf a } ^ { ( 1 ) } = { \frac { 1 } { 2 } } e ^ { { \frac { 1 6 \pi ^ { 2 } } { { \bf a } ^ { 2 } } } t } \left( 1 - \Phi ( { \frac { 4 \pi } { \bf a } } \sqrt { t } ) \right) ~ ~ ,",25128bd366.png
+"( \frac { 1 } { 8 } , \frac { 1 } { 8 } , \frac { 1 } { 4 } , \frac { 1 } { 4 } , \frac { 1 } { 4 } ) .",46fe3a0a17.png
+"\left( u ( 1 - u ) \frac { d ^ { 2 } } { d u ^ { 2 } } - 2 u \frac { d } { d u } + 6 \right) F = u ^ { n - 3 } \; , \; \; n \geq 3 .",b26a80e9ad.png
+"\int d x \left( \, { \frac { 1 } { 2 } } \, \tilde { g } ^ { i j } { \frac { \delta ^ { 2 } \Psi } { \delta \phi ^ { i } \delta \phi ^ { j } } } \, + \, { \frac { 1 } { 2 } } \, g _ { i j } \partial _ { x } \phi ^ { i } \partial _ { x } \phi ^ { j } \Psi \, \right) \, = \, i { \frac { \partial } { \partial t } } \Psi \, .",14808c3f57.png
+"\lambda _ { l , m } = 4 R \int _ { 0 } ^ { 1 } d u \frac { 1 + u } { ( 1 - u ) ^ { 3 } } e ^ { - \frac { 4 R u } { ( 1 - u ) ^ { 2 } } } ( \tilde { B f } ) _ { l , m } ( u ) \, .",5b8f74d221.png
+"( \partial _ { v } T ) ^ { 2 } ( u _ { 0 } , v ) = a ^ { 2 } \delta ( v - v _ { 0 } )",342e4e115d.png
+E _ { \textup { \scriptsize { p a c k e t } } } = \frac { \sqrt { \pi } h ^ { 2 } } { 2 ^ { 5 / 2 } G _ { N } A d },3902352cd6.png
+( \gamma / \nu d _ { H } ) _ { e f f } \equiv \operatorname { l n } \left( { \frac { \chi _ { 2 N } } { \chi _ { N } } } \right) / \operatorname { l n } 2 .,488bd438ba.png
+"\nabla \left( \rho ^ { - 1 } f ^ { A B } \nabla f _ { B C } \right) = 0 ,",62d9780385.png
+q _ { N } = \frac { U \left( q _ { 0 } \right) } { 2 W \left( q _ { 0 } \right) W ^ { \prime } \left( q _ { 0 } \right) } .,1a992b0ac0.png
+"V = - \frac { 1 5 } { 1 6 } \frac { v ^ { 4 } } { r ^ { 7 } } + { \cal O } ( \frac { v ^ { 6 } } { r ^ { 1 1 } } ) \, .",3ea5e6b0ae.png
+"\left\{ \phi \left( x ^ { 0 } , { \bf x } \right) , \pi \left( x ^ { 0 } , { \bf x ^ { \prime } } \right) \right\} _ { \mathrm { P . B . } } = \delta _ { { \bf x } , { \bf x ^ { \prime } } } ,",34d790bee8.png
+"V _ { Q } ^ { \prime } \, = \, \frac { { \hbar } ^ { 2 } } { 8 M } \left\{ R + \frac { ( \partial _ { a } f ) ( \partial ^ { a } f ) } { 4 M } \left[ 3 g _ { \phantom { 0 } , 0 } ^ { i j } \, g _ { i j , 0 } - { \left( g ^ { i j } \, g _ { i j , 0 } \right) } ^ { 2 } \right] \right\} .",39bc06c1f1.png
+"\protect [ M _ { \mu \nu } , M _ { \rho \sigma } ] = - i \eta _ { \mu \rho } M _ { \nu \sigma } - i \eta _ { \nu \sigma } M _ { \mu \rho } + i \eta _ { \mu \sigma } M _ { \nu \rho } + i \eta _ { \nu \rho } M _ { \mu \sigma } ,",1253dbc15e.png
+"{ \cal A } _ { z ^ { \prime } = z } F = \frac { 1 } { 2 } \sum _ { i = 1 } ^ { \infty } \frac { 1 } { k ! } \partial _ { z } ^ { i - 1 } \mathrm { R e s } _ { z ^ { \prime } = z } ( z ^ { \prime } - z ) ^ { i } F , \hspace { 1 e m } { \cal B } _ { z ^ { \prime } = z } F = 0 .",62d6c080d3.png
+"d _ { Q } T _ { n } ( x _ { 1 } , \ldots , x _ { n } ) = \sum _ { l = 1 } ^ { n } \frac { \partial } { \partial x _ { l } ^ { \nu } } \, T _ { n / l } ^ { \nu } ( x _ { 1 } , \ldots , x _ { l } , \ldots , x _ { n } ) \, ,",4f49b04f3d.png
+T _ { E N } ( z ) = z ^ { i \epsilon \mid E \mid / 2 } ( 1 - z ) ^ { i \epsilon ^ { \prime } \mid N \mid / 2 } \Psi _ { E N } ( z ),54b8bceaf0.png
+\vec { \rho } = \sum _ { i = 1 } ^ { 2 } \omega _ { i } \ .,70dcb7a472.png
+"( \frac { d x ^ { \mu } } { d s } ) _ { J } = \frac { 1 } { 2 } \big ( \pi ^ { \mu } \frac { 1 } { m _ { o p } } + \frac { 1 } { m _ { o p } } \pi ^ { \mu } \big ) + O ( \hbar ^ { 2 } ) ,",53bf124f20.png
+"\Psi _ { p _ { m } ; { \bf k } ^ { 1 } , N _ { 1 } ; \dots ; { \bf k } ^ { l } , N _ { l } } = e x p ( i p ^ { m } q _ { m } \mathrm { d i m } ( E ) ) \prod _ { j = 1 } ^ { l } ( a ^ { \dagger } ( { \bf k } ^ { j } ) ) ^ { N _ { j } } | 0 \rangle",2030683c3a.png
+"M ^ { 2 } + { \frac { 1 } { 4 n ^ { 2 } } } \sum _ { i < j } ( \Sigma _ { i } - \Sigma _ { j } ) ^ { 2 } = { \frac { 1 } { n } } \sum _ { i = 1 } ^ { n } q _ { i } ^ { 2 } ,",426c3fc584.png
+x _ { 1 } ^ { 4 } = \phi \pm \sqrt { \phi ^ { 2 } - ( 1 + x _ { 3 } ^ { 4 } + x _ { 4 } ^ { 4 } + x _ { 5 } ^ { 4 } ) } \; .,cf03d237f4.png
+"\psi * \chi \equiv V _ { ( \infty , - 1 ) } ^ { ( 0 ) } ( \psi ) \chi \, ,",4716707d22.png
+\xi ( \theta ) = \frac { 2 P - 1 } { \operatorname { c o s h } [ ( 2 P - 1 ) \theta ] },79f1a5fe20.png
+"\delta X ^ { \mu } = \left[ X ^ { \mu } , \bar { Q } \cdot \epsilon \right] = \bar { \epsilon } \cdot \psi ^ { \mu }",17c3040a2d.png
+"0 = \frac { d s } { d T } \ \frac { d Q ( \infty , s ) } { d s }",1ce5b4d093.png
+\epsilon _ { 1 } \mu _ { 1 } = \epsilon _ { 2 } \mu _ { 2 } = 1,5afca4550f.png
+a _ { i j } = 0 \: \: \: i m p l i e s \: \: \: a _ { j i } = 0,1228e1fd13.png
+"\bar { \omega } _ { M N } = \partial _ { M } \bar { \cal { A } } _ { N } - ( - 1 ) ^ { g ( M ) g ( N ) } \partial _ { N } \bar { \cal { A } } _ { M } \ ,",36262a75a1.png
+S = { \frac { 1 } { 1 6 \pi G _ { D + d } } } \int _ { M _ { D + d } } d ^ { D + d } x \sqrt { - g _ { D + d } } e ^ { - \phi } \left[ R _ { D + d } - \omega ( \nabla \phi ) ^ { 2 } \right],58db69f127.png
+m ^ { 2 } = \frac { \Delta ( \Delta - 4 ) } { R ^ { 2 } } .,497344fdf7.png
+"( - x - p ) e ^ { - t } , \qquad ( - x + p ) e ^ { t }",765466072d.png
+"< < O [ A ] > > \mid _ { _ { \alpha } } = \int D \phi \, O [ A ] \operatorname { e x p } \{ i S _ { e f f } [ A , c , \overline { { c } } ]",6e66acb4ca.png
+"\phi ( { \bf k } ) = { \frac { \cal N } { \bigl ( { \bf k } ^ { 2 } + m E \bigr ) ^ { 2 } } } \; ,",1890b97507.png
+"Q _ { 1 } ( u ) Q _ { 2 } - q ^ { 2 } ( u ) = 0 ,",7234503c38.png
+"\psi ^ { l } = U _ { 1 } U _ { C } u _ { R } ^ { l } \; \; \mathrm { f o r } \; \; l = 7 , 8 , 9",7c86ed9d38.png
+"f [ \phi ( z ) ] = \left( f ^ { \prime } ( z ) \right) ^ { d } \phi \bigl ( f ( z ) \bigr ) = \sum _ { n } \phi _ { n } \cdot \left( f ( z ) \right) ^ { - n - d } \left( f ^ { \prime } ( z ) \right) ^ { d } \, .",73088a5107.png
+"\Theta ( X ) = { L _ { X } } \Omega , \ \forall X \in \Gamma { \cal D }",382805d407.png
+\ddot { A } ^ { j } + M ^ { j k } \dot { A } ^ { k } + N ^ { j k } A ^ { k } = 0,4854214ffd.png
+"\Psi ( Q , \pi ^ { i j } ) = \frac { 1 } { 2 \pi } \int d [ h _ { i j } ] e ^ { i h _ { i j } \pi ^ { i j } } \Psi ( Q , h _ { i j } ) .",1208bc0468.png
+"\lbrack D , M ^ { \phi } ] = ( \phi ( k ) - k ) M ^ { \phi }",5a182208e2.png
+< c ^ { \dag } \sigma _ { 3 } c > = < a ^ { \dag } \sigma _ { 3 } a > \operatorname { c o s } \phi,233298a79a.png
+"\hat { T } \equiv b ^ { - 1 } ( r ) \ { \mathrm { \bf ~ [ } \ h ^ { - 1 } ( \theta ) \ n _ { h } T _ { h } \ h ( \theta ) \ , \ b ( r ) \ \mathrm { \bf ~ ] } }",5b37046631.png
+"C : \{ \xi ^ { \mu } ( s ) ; \ \ s = 0 \rightarrow 2 \pi , \xi ^ { \mu } ( 0 ) = \xi ^ { \mu } ( 2 \pi ) = \xi _ { 0 } ^ { \mu } \} ,",1af6ccb9ab.png
+"d s ^ { 2 } = G _ { A B } ( X ) \, d X ^ { A } \, d X ^ { B }",4dc2aa0862.png
+R _ { 1 1 } = g _ { s } ^ { \frac { 2 } { 3 } } \ .,233cf0de04.png
+"\int _ { 0 } ^ { \infty } e _ { q } ^ { - r } r ^ { n } d _ { q } r = [ n ] ! \, .",4be28d8163.png
+\left( L ^ { { 3 } / { 2 } } \right) _ { \geq 2 } = \frac { p ^ { 3 } } { 8 ( 1 + r ^ { 2 } ) ^ { 3 / 2 } ( 1 + s ^ { 2 } ) ^ { 3 / 2 } },20ae2c725e.png
+"{ \cal L } _ { 0 } \equiv \sqrt { 1 - B _ { 3 } ^ { 2 } } - { \cal L } ,",2e68d0fd43.png
+\bar { S } ( p ) = \slash p \bar { A } ( p ^ { 2 } ) + \bar { B } ( p ^ { 2 } ) = \int d ^ { 4 } x e ^ { i p \cdot x } \bar { S } ( x ) .,4cf8fb6a3b.png
+"\sum _ { k = 1 , \cdots , 6 } ( \mathrm { T r } \gamma _ { k , 6 } ) ^ { 2 } = 6 \cdot 1 6 ^ { 2 } .",3b3088dede.png
+"T _ { 5 5 } = \frac { 3 \lambda } { 8 \pi G _ { 5 } } \{ 1 - \frac { k } { 4 - 3 k } \operatorname { t a n h } ^ { 2 } ( a y ) \} ,",cec54fe154.png
+"\delta m _ { 0 } ^ { 2 } = - g ^ { 2 } \Sigma ( m ^ { 2 } ) \ ,",6822660c57.png
+"V \equiv \left( f ^ { \Lambda } , h _ { \Lambda } \right) = \left( f ^ { \Lambda } ( z ^ { i } , z ^ { \bar { \imath } } ) , h _ { \Lambda } ( z ^ { i } , z ^ { \bar { \imath } } ) \right) ; \, \, \nabla _ { \bar { \imath } } V = 0 \quad \Lambda = 1 , . . . , n",5917b764e3.png
+"\left\{ \begin{array} { r c l } { G ^ { ( 1 0 - n ) } } & { = } & { ( - 1 ) ^ { \left[ n / 2 \right] } { } ^ { \star } G ^ { ( n ) } \, , } \\ { H ^ { ( 7 ) } } & { = } & { e ^ { - 2 \phi } { } ^ { \star } H \, , } \\ \end{array} \right.",203ca3272a.png
+"\theta ^ { 2 } = \bar { \theta } ^ { 2 } = 0 , \qquad \theta \bar { \theta } = - \bar { \theta } \theta \, .",686848eda8.png
+"x = \eta r \quad , \quad \alpha ^ { 2 } = 4 \pi G \eta ^ { 2 } \quad , \quad \gamma = \frac { \Lambda } { \eta ^ { 2 } } \ .",2cabc4fc87.png
+"w = m _ { 1 } m _ { 2 } \ldots m _ { n } , \; \; \; \; \; \; [ w ] = n .",312fdda154.png
+\int _ { D } a \int _ { D } b \; | c \rangle \: = \: \int _ { D } b \int _ { D } a \; | c \rangle,54af7af036.png
+"\xi ^ { \mu } = E _ { A } ^ { \mu } \xi ^ { A } ,",7ee2af1953.png
+"{ \bf c } _ { m } = ( - 1 ) ^ { m } Y ^ { m - 1 } { \vec { \bf 1 } } , \label c",7a857b4e6c.png
+"A _ { i } = \bar { A } _ { i } - \frac { 1 } { 2 } \, \partial _ { i } \varphi .",1036d9f3ff.png
+e ^ { - } = \frac { d X } { X ^ { + } } + X ^ { - } Z,75fbf1761a.png
+T r _ { \sigma } ( a + b \sigma ) = T r ( b ) \ .,2ceb395f27.png
+"h ( R ) > \tilde { h } ( R ) \; \; , \; \; \; \; 0 \le R \le \infty \; .",af3eb0ea99.png
+"\mathcal { D } B ^ { \mathcal { M } } \equiv d B ^ { \mathcal { M } } + g \Lambda _ { \mathbf { I } \mathcal { N } } ^ { \mathcal { M } } A ^ { \mathbf { I } } \, \wedge \, B ^ { \mathcal { N } } \equiv \mathcal { H } ^ { \mathcal { M } }",1c1cd7c0b8.png
+"\operatorname* { l i m } _ { r \rightarrow 0 } ~ r ^ { - 2 \alpha + 1 + \epsilon } \xi = 0 \, , \qquad \quad \operatorname* { l i m } _ { r \rightarrow 0 } ~ r ^ { - 2 \alpha + 2 + \epsilon } \xi ^ { \prime } = 0",2fa83d49d9.png
+"\theta ^ { \alpha 1 } = v _ { \dot { A } } ^ { \alpha + } \theta _ { \dot { A } } ^ { - } , \ \theta ^ { \alpha 2 } = v _ { A } ^ { \alpha - } \theta _ { A } ^ { + } , \ \lambda _ { + } ^ { \alpha } = v _ { A } ^ { \alpha - } \lambda _ { A } , \ \lambda _ { - } ^ { \alpha } = v _ { \dot { A } } ^ { \alpha + } \lambda _ { \dot { A } }",1a2dc0fa0f.png
+{ \frac { d E } { d t } } = \frac { A } { \ell _ { P } ^ { 8 } } T ^ { 2 } .,3605cb721b.png
+"[ p _ { x } , x ] = - i + h y p _ { x } \ \ \ \ \ \ [ p _ { y } , y ] = - i - h y p _ { x }",143f30425b.png
+k ^ { 2 } \equiv \textstyle { \sum _ { i } } \kappa _ { i } ^ { 2 } = 3 0,12d131c4e0.png
+"\Gamma [ \Phi ] = W [ j ] - \int \! \! d ^ { D } \! x \, j ( x ) \phi ( x ) \, ,",3fc5f59199.png
+"H _ { I \sigma T i j } ^ { B } = - { \frac { 1 } { E _ { j } - E _ { i } } } \left( { \frac { d \, } { d \sigma } } f _ { \sigma i j } \right) H _ { I i j } ^ { B }",4438f60e3d.png
+"s _ { 2 n } ( x , x ^ { \prime } ) = \sqrt { ( x ^ { + } - e ^ { 4 n \alpha } x ^ { + } ) ( x ^ { - } - e ^ { - 4 n \alpha } x ^ { - } ) + ( y - y ^ { \prime } - 4 n Y _ { 0 } ) ^ { 2 } }",273c3b452f.png
+"d s ^ { 2 } = e ^ { \varphi _ { 0 } } | d z | ^ { 2 } , \qquad e ^ { \varphi _ { 0 } } = { \frac { 4 } { \left( 1 + | z | ^ { 2 } \right) ^ { 2 } } } ,",6ba7fee96c.png
+"< \varphi \varphi > _ { a , b } = - \frac { \delta _ { a b } } { p ^ { 2 } - m ^ { 2 } }",1e85186636.png
+"[ K _ { 3 } ^ { q } , K _ { \pm } ^ { q } ] = \pm K _ { \pm } ^ { q } \quad , \quad [ K _ { + } ^ { q } , K _ { - } ^ { q } ] = - [ 2 K _ { 3 } ^ { q } ]",52cd58c563.png
+d s ^ { 2 } = g ( r ) d \tau ^ { 2 } + { \frac { 1 } { g ( r ) } } d r ^ { 2 } .,9b493e6714.png
+\left. \left. - \frac { 1 } { 2 } [ D _ { A } X D _ { B } X F ^ { B A } + F ^ { A B } D _ { B } X D _ { A } X ] \right) ^ { 1 / 2 } \right] .,2cde2ccbab.png
+( N _ { s c a l a r } ) _ { \mu } = - i g T _ { s } ^ { a } A _ { \mu } ^ { a },5b93ad1581.png
+"z ( 1 - z ) { \frac { d ^ { 2 } \psi } { d z ^ { 2 } } } + ( 1 - z ) { \frac { d \psi } { d z } } + \left( { \frac { A _ { 1 } } { z } } + { \frac { \mu / 4 } { 1 - z } } - B _ { 1 } \right) \psi = 0 ,",74acc0fdb6.png
+"\partial _ { a } \partial _ { a } H = 1 6 \pi G _ { N } ^ { ( d ) } T _ { p } e ^ { - 2 b \varphi ( 0 ) } \alpha ^ { 2 } \delta ( u ) \delta ( \vec { x } _ { 8 } ) \, .",6990a82bfd.png
+"\frac { d { \cal H } ( t ) } { d t } = - 3 H { \dot { \phi } } ^ { 2 } ( t ) - \int d t ^ { \prime } { \dot { \phi } } ( t ) \Gamma ( t , t ^ { \prime } ) { \dot { \phi } } ( t ^ { \prime } ) .",34b40c5e1a.png
+"\frac { \partial \{ \eta ^ { m } , y ^ { \mu } \} } { \partial \{ \eta ^ { n } , y ^ { \nu } \} } = B e r ^ { - 1 } \left( \frac { \partial x ^ { M } } { \partial x ^ { N } } \right)",287ec7e639.png
+"\phi _ { 1 } = \operatorname { t a n h } \left[ { \frac { \gamma } { \sqrt { 2 } } } ( x - g ( t ) ) \right] \ , \ \, p h i _ { 2 } = 0",4a95a95d26.png
+"X ^ { a } X ^ { b } \eta _ { a b } = R ^ { 2 } \, ,",2c46765c23.png
+"\sum _ { \alpha = 0 } ^ { N - 1 } \operatorname { c o s } \alpha k _ { 1 } \pi / N \operatorname { s i n } ^ { 2 } \alpha k _ { 2 } \pi / N = - \frac { N } { 4 } \delta _ { k _ { 1 } , 2 k _ { 2 } } .",ea9be93dec.png
+"[ u _ { ; N } ] _ { \partial B _ { R } } + \oint _ { \partial B _ { R } } q _ { R } ( s - s ^ { \prime } ) u ( R \operatorname { c o s } ( s ^ { \prime } / R ) , R \operatorname { s i n } ( s ^ { \prime } / R ) ) d s ^ { \prime } = 0 .",19e2b0155e.png
+e x p ~ ( \int - ~ { \frac { i \pi ^ { 2 } } { \theta } } j \cdot d ^ { - 1 } \cdot j { } ~ + ~ { \frac { 1 } { 1 6 g ^ { 2 } } } ~ j \cdot j ),454b510109.png
+h _ { 2 k } = [ - \frac { \beta ^ { 2 } } { 4 } g _ { 3 } ^ { 2 } \frac { r _ { k + 1 } } { h _ { 2 k + 1 } } + \frac { 2 k + 1 } { 2 \rho _ { 2 k + 1 } } ] r _ { k },59f4c6bfa0.png
+"\lefteqn { \varrho _ { U } ( f ) \, ( u ) \, = \, f \big ( \pi ( u ) \big ) , }",67f276c038.png
+"\{ \, \gamma ^ { \mu } \, , \, \gamma ^ { \nu } \, \} \: = \: - \, 2 \, \delta _ { \mu \nu } \, .",76429ef580.png
+"\Delta ( x ) = \frac { i \pi } { \tau } { \mathrm { c o s e c h } } \left( \frac { \pi ^ { 2 } x } { \tau } \right) \sim \frac { i } { \pi x } + O ( x ) ,",2b96ef4022.png
+{ \frac { 1 } { 8 \pi } } \int _ { \partial \widetilde M = ( \partial \widetilde M ) _ { \infty } } \ \sqrt { h } K = - \beta \left( r _ { \infty } \left( 1 - { \frac { 2 M } { r _ { \infty } } } \right) + { \frac { M } { 2 } } \right) .,30e298a9d4.png
+"D ( p , q , r ) = \left( \begin{array} { c c c c } { 1 } & { p } & { q } & { r } \\ { 0 } & { 1 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 1 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 1 } \\ \end{array} \right)",26ae7561bb.png
+"F \left( a , b , c \right) = a * c ^ { - 1 } * b .",4a2e8c786e.png
+"\Delta { \cal L } = - { \frac { 1 } { 2 } } i e Y _ { \mu } \bar { F } _ { \mu \nu } D Y _ { \nu } \,",2de4577e9a.png
+H ^ { 2 } = \frac { \kappa ^ { 2 } } { 3 } \sum _ { i = 1 } ^ { m } [ V _ { i } ( \phi _ { i } ) + \frac { 1 } { 2 } \dot { \phi } _ { i } ^ { 2 } ],52bbf17b30.png
+"\Phi ^ { \Lambda } \, { \bar { \Phi } } ^ { \Sigma } + \Phi ^ { \Sigma } \, { \bar { \Phi } } ^ { \Lambda } \, = \, { \o { 1 } { 2 } } \, L _ { \phantom { \Lambda } \Gamma } ^ { \Lambda } \, L _ { \phantom { \Sigma } \Delta } ^ { \Sigma } \left( \delta ^ { \Gamma \Delta } + \eta ^ { \Gamma \Delta } \, \right)",2ce63e957d.png
+"d s ^ { 2 } = \eta _ { i j } d x ^ { i } d x ^ { j } + \delta ^ { 2 } ( t , x , y ) d \sigma ^ { 2 } , \, ( x , y < < R ) ,",b1c24493c6.png
+"\omega _ { n } ( { \bf p } ) = \sqrt { { \bf p } ^ { 2 } + \frac { \pi ^ { 2 } } { \ell ^ { 2 } } \left[ ( n + s ) ^ { 2 } + \frac { g } { 3 } \right] } \qquad ( n = 1 , 2 , \ldots ) .",52e4330b91.png
+\langle \Phi ^ { 1 2 1 2 } ( x _ { 1 } ) \Phi ^ { 2 3 2 3 } ( x _ { 2 } ) \Phi ^ { 3 1 3 1 } ( x _ { 3 } ) \rangle,164e52d9a8.png
+( 2 \partial _ { + } \partial _ { - } - \Delta _ { \perp } + m ^ { 2 } ) { \phi } = 0 .,73ecea741b.png
+"\| \Gamma _ { 1 j _ { 1 } } \cdots \Gamma _ { p j _ { p } } \| \le \| f _ { 1 j _ { 1 } } \| \cdots \| f _ { p j _ { p } } \| ,",25333dbb97.png
+C _ { 0 } = \frac { 1 } { 2 } ( J _ { 0 } ^ { + } J _ { 0 } ^ { - } + J _ { 0 } ^ { - } J _ { 0 } ^ { + } + 2 J _ { 0 } ^ { 0 } J _ { 0 } ^ { 0 } ) + \sum _ { m = 1 } ^ { + \infty } J _ { - m } ^ { + } J _ { m } ^ { - } + J _ { - m } ^ { - } J _ { m } ^ { + } + 2 J _ { - m } ^ { 0 } J _ { m } ^ { 0 },47e120350b.png
+\vert \eta _ { \mathrm { j } } \vert = \vert \eta _ { 1 } \vert = \biggl ( \frac { n \ell _ { _ \mathrm { C } } } { 2 \pi \ell _ { 0 } } \biggl ) ^ { - 1 } .,f500025b4a.png
+\langle \mathrm { p h y } | \partial _ { \mu } A ^ { \mu } | \mathrm { p h y } \rangle = 0,7a09e9fbec.png
+"\tau _ { 1 } ^ { a } = T _ { 1 } ^ { a } + 2 \Phi ^ { 1 , a }",2fdf0ef098.png
+"T _ { a b } U ^ { a } U ^ { b } = 2 T _ { 3 4 } U ^ { 3 } U ^ { 4 } = 2 b ^ { 2 } ( 1 - e ^ { - \nu } ) \le 0 ,",733992704b.png
+"\overline { \mathrm { L Y T 1 } } = \left\{ ( J , J _ { 1 } , \varepsilon ) : J = 0 = \varepsilon \right\}",35d8941fac.png
+"\partial _ { \gamma } \, { \frac { \partial { \cal L } } { \partial ( \partial _ { \alpha } A _ { \, \ \gamma } ^ { a } ) } } = C _ { \ a c } ^ { b } \, A _ { \, \ \beta } ^ { c } \, { \frac { \partial { \cal L } } { \partial ( \partial _ { \beta } A _ { \, \ \alpha } ^ { b } ) } } \ .",4db8b10132.png
+\delta E [ f ^ { \prime } ( x ) ] = { \frac { 1 } { \sqrt { 2 } } } \int _ { - \eta } ^ { + \eta } d f ~ [ V _ { T } ^ { ( 2 ) } ( f ) - V _ { 0 } ^ { ( 2 ) } ( f ) ] \sqrt { V _ { 0 } ( f ) },975701e677.png
+\int \frac { \partial \phi ( x ) } { \partial \tau } d \Omega _ { S ^ { 3 } } = 0,700baed362.png
+\partial _ { \mu } e _ { \mu } ^ { a } \Omega _ { a b c d } G _ { b c d } .,7f17d665d5.png
+w ( i \rightarrow f ) \simeq 0 .,4801038256.png
+"{ \bf r } _ { j } + { \bf r } _ { - j } , \; j = 1 , \ldots , r ,",257514c443.png
+"\tau \nu + \tau ^ { \prime } \mu = \tau \tau ^ { \prime } , \quad \qquad 2 + \mu > \tau , \quad \qquad 2 + \nu > \tau ^ { \prime } \, \, .",3b5c12a527.png
+D _ { \mu } \phi _ { a } = ( \partial _ { \mu } - i g T ^ { l } A _ { \mu } ^ { l } ) \phi _ { a } .,4a3c4488a0.png
+h ~ = ~ - \frac { 1 } { 8 4 } h ^ { a } - \frac { 1 } { 6 0 } h ^ { c } - \frac { 1 } { 1 0 } h ^ { d } .,2b4e2c122a.png
+"x _ { \mu } j _ { \nu , \alpha \beta } ( x , y ) + x _ { \nu } j _ { \mu , \alpha \beta } ( x , y )",48af7fd6ef.png
+"{ \cal L } _ { G . F . } ^ { L C G } = - \lambda ^ { a } ( n A ^ { a } ) \ ,",2b1f93903d.png
+"F ( \beta ) = { \frac { 1 } { \beta } } \sum _ { \omega } \operatorname { l n } \left( 1 - e ^ { - \beta \omega } \right) ~ ~ ~ ,",66652ec68a.png
+f ( \bar { \beta } ) \equiv \int _ { 0 } ^ { \infty } d x \frac { 1 } { \sqrt { \bar { \beta } ^ { 2 } + x ^ { 2 } } \left[ \operatorname { e x p } \left( \sqrt { \bar { \beta } ^ { 2 } + x ^ { 2 } } \right) - 1 \right] } .,6b32b39a77.png
+\bar { \partial } _ { \dot { \alpha } } ^ { + } \theta ^ { \prime } { } ^ { \beta } = 0,66fbeaadc3.png
+\bigtriangleup ( \bigtriangleup \varphi ) = 0,49c724b0f3.png
+\Pi ^ { \mu _ { 1 } \dots \mu _ { p } } = d \varphi ^ { \mu _ { 1 } \dots \mu _ { p } } + { \frac { 1 } { 2 } } ( C \Gamma ^ { \mu _ { 1 } \dots \mu _ { p } } ) _ { \alpha \beta } \theta ^ { \alpha } \Pi ^ { \beta } \quad .,1794c3742a.png
+"G ( f ^ { c } \mid x _ { 1 } , x _ { 2 } ) = \omega ( A \longrightarrow f ^ { c ( x _ { 1 } , x _ { 0 } ) } ) G ^ { A } \omega ^ { - 1 } ( A \longrightarrow f ^ { c ( x _ { 2 } , x _ { 0 } ) } )",6a0dcf7ba0.png
+\pi = \frac { \partial { \cal L } } { \partial \dot { \phi } } = \dot { \phi } ^ { * } - i e A _ { \circ } \phi ^ { * },15e1233353.png
+"\zeta = \sqrt { \mu / 2 \lambda } ,",1054a407ec.png
+"\frac { d ^ { 2 } { \bf r } } { d t ^ { 2 } } = - \frac { k { \bf r } } { r ^ { 3 } } ,",4eeb201637.png
+x ^ { 2 } = \frac { 1 } { 2 } y + \frac { 1 } { 2 } g y ^ { 2 } - g ^ { 2 } y ^ { 3 } + \frac { 9 } { 2 } g ^ { 3 } y ^ { 4 } - 2 7 g ^ { 4 } y ^ { 5 } + \cdots .,4c46b61875.png
+F _ { T } ( \beta ) \sim - N _ { T } ( 1 - 2 ^ { - d } ) \beta ^ { - d },499006967d.png
+"\mathrm { ~ T ^ 1 ~ = ~ \frac { i } { 2 } ~ } , \mathrm { ~ T ^ 2 ~ = ~ \frac { j } { 2 } ~ } , \mathrm { ~ T ^ 3 ~ = ~ \frac { k } { 2 } ~ } .",120d172894.png
+\left[ { \frac { d ^ { 2 } } { d r ^ { 2 } } } - { \frac { l ( l + 1 ) } { r ^ { 2 } } } \right] d _ { l } = M ^ { 2 } d _ { l },28604e0f44.png
+u = \frac { \sqrt { 2 J } \vert \psi \vert } { \sqrt { 1 - \vert \psi \vert ^ { 2 } } } .,7f9a883939.png
+"\nabla \circ \iota _ { s } = f _ { s } , \mathrm { ~ f o r ~ 1 \leq ~ s \leq ~ r ~ } .",14550719fc.png
+\begin{array} { r c l } { Q } & { = } & { \sqrt { \frac { 2 5 - D } { 6 } } } \\ { \alpha _ { \pm } } & { = } & { \frac { Q } { 2 } \pm \sqrt { \frac { Q ^ { 2 } } { 4 } - 1 } = \frac { 1 } { \sqrt { 2 4 } } \left( \sqrt { 2 5 - D } \pm \sqrt { 1 - D } \right) \ . } \\ \end{array},57fd273890.png
+e ^ { \frac { - 4 \sqrt { d - 2 } \phi } { d - 3 } } G _ { i _ { 1 } . . . i _ { d - 3 } } = ( d - 3 ) D _ { [ i _ { 1 } } \Psi _ { i _ { 2 } . . . i _ { d - 3 } ] } .,6a61eced4d.png
+"{ \cal D } _ { t } \, \eta ^ { j } = \dot { \eta } ^ { j } + \dot { m } ^ { k } \, \tilde { \Gamma } _ { k l } ^ { j } \, \eta ^ { l } \, .",4ccb9a76d7.png
+U ( \nu ; x ) = - 2 \frac { d ^ { 2 } } { d x ^ { 2 } } \{ l o g [ D e t ( 1 - Q ( \nu ; x ) ) ] \} .,3c72330f49.png
+\frac { d } { d \lambda } \rightarrow v ^ { i } \frac { \partial } { \partial \phi ^ { i } } ~ .,78af779e7e.png
+\hat { \mathrm { T } } _ { b } | \mathrm { p h y s } \rangle = 0 .,7bb96f453d.png
+"D _ { a b } C = \pm 2 \chi _ { N P } , \; D _ { a b } ^ { 2 } C = 2 \Bigl ( \delta _ { a c } - \delta _ { a d } - \delta _ { b c } + \delta _ { b d } \Bigr )",87b1644558.png
+"K ^ { \mu } \, = \, - \frac { 1 } { 1 6 \pi ^ { 2 } } \, \varepsilon ^ { \mu \alpha \beta \gamma } \mathrm { t r } \left( F _ { \alpha \beta } A _ { \gamma } - \frac { 2 } { 3 } A _ { \alpha } A _ { \beta } A _ { \gamma } \right) \,",a1bd198d3d.png
+"\tilde { H } _ { C S M } = \sum _ { i } \hat { D } _ { i } + \frac { 1 } { 2 } N \qquad ,",242112cb46.png
+"\hat { \varphi } = { \frac { 1 } { 2 r } } \, \mathrm { d i a g } \, ( 1 , 1 , - 1 , - 1 ) \, .",7c436ad3ec.png
+"g A _ { a \mu } T ^ { a } d x ^ { \mu } = W L _ { r } d t + ( f - 1 ) ( L _ { \phi } d \theta - L _ { \theta } \operatorname { s i n } \theta d \phi ) \, ,",4ecc8f20a0.png
+"\theta ^ { A } = \; \left( \begin{array} { c } { \theta _ { 1 } ^ { A } } \\ { \theta _ { 2 } ^ { A } } \\ { 0 } \\ { 0 } \\ \end{array} \right) \, .",41a2528416.png
+\frac { \rho _ { \phi } } { \rho _ { \mathrm { b g } } + \rho _ { \phi } } = \frac { 3 ( 1 + w _ { \mathrm { b g } } ) } { \lambda ^ { 2 } },6f473748da.png
+\beta \left\{ U _ { n } - 2 \eta + U _ { n } ^ { - 1 } \right\} \tilde { G } _ { N M } ^ { n m } = - \delta _ { n - m } .,9c79b5ea91.png
+"\langle N \rangle _ { T } = \langle N \rangle _ { 0 } + \int _ { - \infty } ^ { \infty } d E \, \sigma ( E ) \, \textrm { s i g n } ( E ) \, n \, ( | E | ) \quad",2bd1533a8a.png
+J = { \frac { i g ^ { 2 } f _ { a c d } f _ { b c d } } { ( 2 \pi ) ^ { 6 } } } { \frac { ( 1 ^ { - } 2 ^ { - } ) ( \theta _ { 3 1 } ) ^ { 2 } ( \theta _ { 3 2 } ) ^ { 2 } } { \hat { x } _ { 1 2 } ^ { 2 } \check { x } _ { 3 1 ; 2 } ^ { 2 } \check { x } _ { 3 2 ; 1 } ^ { 2 } } } \; .,57f96214e9.png
+"M _ { 5 } = \frac { 3 V } { 8 \pi G } \left( \frac { l ^ { 2 } } { 8 } + G m \right) ,",54f6ce9a00.png
+\widetilde { S } ( t ) = \theta ( t ) - n _ { F } ( M ),48c1fcdfe2.png
+"\dot { V } = \frac { K _ { d } } { 4 N } \left[ \left( N - 1 \right) L _ { 0 } ^ { d } \left( V ^ { \prime } / \varphi \right) + L _ { 0 } ^ { d } \left( V ^ { \prime \prime } \right) \right] + d V - d _ { \phi } \, \varphi V ^ { \prime }",43eee28203.png
+"+ e _ { 2 } \overline { { \Phi } } ( z , t _ { 2 } | y , t _ { 1 } ) ( { \gamma } ^ { 0 } \otimes { \gamma } ^ { 0 } ) { \Phi } ( z , t _ { 2 } | y , t _ { 1 } ) \} ,",5e6f762bde.png
+"S _ { 0 } ^ { + Q } L = \{ \left( \begin{array} { l l } { 0 } & { - i } \\ { - i } & { 0 } \\ \end{array} \right) , \left( \begin{array} { l l } { i } & { 0 } \\ { 0 } & { i } \\ \end{array} \right) , \left( \begin{array} { l l } { - 1 } & { 0 } \\ { 0 } & { 1 } \\ \end{array} \right) , \left( \begin{array} { l l } { 0 } & { - i } \\ { i } & { 0 } \\ \end{array} \right) \}",4788aea5f9.png
+\delta S _ { \mathrm { B - f i e l d } } = 2 \int d ^ { 2 } x \left\{ \partial _ { 0 } ( \Lambda _ { \mu } \partial _ { 1 } \phi ^ { \mu } ) - \partial _ { 1 } ( \Lambda _ { \mu } \partial _ { 0 } \phi ^ { \mu } ) \right\} \quad .,504797fba2.png
+"{ \cal S } _ { \sigma } [ \gamma , X ] = - \frac { 1 } { 4 \pi \alpha ^ { \prime } } \int _ { \Sigma } d ^ { 2 } \sigma \partial ^ { \alpha } X ^ { M } \partial ^ { \beta } X ^ { N } \eta _ { M N } \gamma _ { \alpha \beta } \sqrt { \gamma }",64eb90f13a.png
+= \; - 2 \pi \Bigg ( \operatorname { c o s } \Big ( \frac { 2 } { n } \lambda \Big ) \mathrm { C i } \Big ( \frac { 2 } { n } \lambda \Big ) \; + \; \operatorname { s i n } \Big ( \frac { 2 } { n } \lambda \Big ) \mathrm { s i } \Big ( \frac { 2 } { n } \lambda \Big ) \Bigg ),50b7c9c67d.png
+J _ { a b } ( \phi ) = D _ { a b c } \phi _ { c },666fdc0adf.png
+\partial _ { \mu } \vec { \xi } _ { i } = \vec { \omega } _ { \mu } \wedge \vec { \xi } _ { i },2a18aa0411.png
+"D _ { \pm } = \frac { \partial } { \partial \theta ^ { \pm } } + 2 \bar { \theta } ^ { \pm } \partial _ { \pm } \ , \qquad \bar { D } _ { \pm } = \frac { \partial } { \partial \bar { \theta } ^ { \pm } } + 2 { \theta } ^ { \pm } \partial _ { \pm } \ .",2c2c5aef30.png
+\psi _ { a i _ { 1 } } ( x _ { 1 } ) \psi _ { c i _ { 2 } } ( x _ { 2 } ) \bar { \psi } _ { b j _ { 1 } } ( y _ { 1 } ) \bar { \psi } _ { d j _ { 2 } } ( y _ { 2 } ),454408c57e.png
+"g ( r , t ) \approx g _ { \mathrm { M S } } ( r , a _ { 0 } + \dot { a } _ { 0 } t ) \, .",1eecf3daf7.png
+"\left\{ \begin{array} { r c l } { 0 } & { = } & { a ^ { \prime \prime } + { \displaystyle \frac { \hat { \Lambda } } { \hat { d } - 1 } } a + { \displaystyle \frac { 2 \hat { \chi } } { \hat { d } - 2 } } a \sum _ { n } T _ { n } \delta ( y - y _ { n } ) \, , } \\ { 0 } & { = } & { ( a ^ { \prime } ) ^ { 2 } + { \displaystyle \frac { \hat { \Lambda } } { \hat { d } - 1 } } a ^ { 2 } - { \displaystyle \frac { \Lambda } { d - 1 } } \, . } \\ \end{array} \right.",11775a2993.png
++ \overline { { \psi } } _ { + } e ^ { \mu } { } _ { a } \gamma _ { + } ^ { a } ( i \partial _ { \mu } + i \omega _ { + \mu } + q V _ { \mu } ) \psi _ { + } + \overline { { \psi } } _ { - } e ^ { \mu } { } _ { a } \gamma _ { - } ^ { a } ( i \partial _ { \mu } + i \omega _ { - \mu } + q V _ { \mu } ) \psi _ { - },4f75d965d6.png
+"B = \left( \begin{array} { l l l } { 2 \operatorname { c o s } \alpha } & { \sqrt { 2 } \, \mathrm { e } ^ { - i \beta } } & { - 2 \operatorname { s i n } \alpha } \\ { - \sqrt { 2 } \, \mathrm { e } ^ { i \beta } } & { 0 } & { i \sqrt { 2 } \, \mathrm { e } ^ { i \beta } } \\ { - 2 \operatorname { s i n } \alpha } & { i \sqrt { 2 } \, \mathrm { e } ^ { - i \beta } } & { - 2 \operatorname { c o s } \alpha } \\ \end{array} \right) .",89210a21e7.png
+"L ^ { T } \, \eta \, L \, = \, \eta \qquad ; \qquad \eta \, = \, \mathrm { d i a g } \, \left( + , + , + , + , - , \dots , - \right)",213566a5b5.png
+"G [ \chi _ { 2 } , \chi _ { 1 } ; \psi _ { 2 } , \psi _ { 1 } ] ~ = \prod _ { k } ^ { \infty } \biggl ( \int _ { 0 } ^ { \infty } d N _ { k } N _ { k } ^ { - { \frac { 1 } { 2 } } } e ^ { - { \frac { { ( \Delta \psi _ { k } ) } ^ { 2 } } { 2 N _ { k } } } } { \cal G } [ \chi _ { 2 k } , \chi _ { 1 k } ; N _ { k } ] \biggr ) ,",7bd210b900.png
+M = \left( \kappa g \left[ \frac { 1 6 } { 9 } \langle \phi \rangle - \frac { 1 5 6 8 } { 2 4 3 } \langle \psi ^ { 2 } \rangle - \frac { 1 7 6 } { 2 4 3 } \langle \psi ^ { 3 } \rangle \right] \right) \approx ( 0 . 6 7 2 8 9 ),4914305b4f.png
+"\Pi ( s ) = e ^ { - 2 e F s } \Pi ( 0 ) \ , ~ ~ ~ x ( s ) - x ( 0 ) = \frac { 1 } { e F } \left[ e ^ { - 2 e F s } - 1 \right] \Pi ( 0 ) \ .",36fde24dff.png
+"a _ { i } a _ { j } ^ { \dagger } - q _ { i j } a _ { j } ^ { \dagger } a _ { i } = \delta _ { i j } , \forall i , j \in S",5e5d59790d.png
+"Y _ { _ { n q } } ^ { l } ( \theta , \phi , \psi ) = e ^ { i n \phi + i q \psi } P _ { _ { n q } } ^ { l } ( \operatorname { c o s } \alpha \theta ) .",175f357eb9.png
+"| q ( x , \xi ) | = | \chi ( x , \xi ) a ( x , \xi ) ^ { - 1 } | \geq C _ { K } ( 1 + | \xi | ) ^ { - m } ,",19c9f9219d.png
+\int _ { C } d ^ { n } \eta D _ { c } ( \eta _ { 1 } - \eta ) D _ { c } ( \eta - \eta _ { 2 } ) + F . T .,70c9789780.png
+"\{ y _ { n m } , y _ { n ^ { \prime } m ^ { \prime } } \} = - \pi ( n m ^ { \prime } - m n ^ { \prime } ) y _ { n + n ^ { \prime } , m + m ^ { \prime } }",514de35de3.png
+"Z _ { 2 } : A _ { i j } ( k ) \rightarrow - A _ { j i } ( k ) \, , \qquad B _ { i j } ( k ) \rightarrow - B _ { j i } ( k ) \, .",71fa33efae.png
+"\left\{ \int d ^ { 4 } x \, a \, \frac \delta { \delta \rho } , \, v \frac \partial { \partial v } , \, m _ { \psi } \frac \partial { \partial m _ { \psi } } , \, { \cal N } _ { \Phi } , \, { \cal N } _ { \psi } \right\} \, \, ,",29b91f0e66.png
+\left. \mathrm { \operatorname { l o g } \operatorname* { d e t } } \mathcal { A } _ { \mu \nu } \right| _ { \alpha \rightarrow 0 } = ( d - 1 ) \operatorname { l o g } \left( \partial ^ { 2 } + \frac { \sigma } { g \sqrt { \varsigma } } \right) +,615b463bb8.png
+"\Lambda ^ { 2 } \approx 0 , \qquad p _ { \Lambda } ^ { \mu } \approx 0 .",38a83a1404.png
+\Delta x _ { 4 } \propto ( 2 N - M - K ) \operatorname { l o g } R = ( 3 N _ { c } - N _ { f } ) \operatorname { l o g } R .,3346075e5b.png
+V ( r ) = \frac { m _ { 1 } m _ { 2 } } { M _ { 4 } ^ { 2 } } ( \frac { 1 } { r } + \frac { L ^ { 2 } } { r ^ { 3 } } ) .,6b51ecee0e.png
+\alpha ^ { ( 1 ) } = - \frac { 2 \sqrt { 2 } \pi } { v ^ { 2 / 3 } } \left( \frac { \kappa } { 4 \pi } \right) ^ { 2 / 3 } \int _ { { \cal { C } } _ { \omega } } { ( ( 1 0 S + 5 ( r + 3 ) { \cal { E } } ) \sigma + 9 6 F ) } .,20ab642846.png
+C _ { \alpha } = \left( - i \Theta ^ { - 1 } \right) _ { \alpha \beta } u ^ { \beta } + i A _ { \alpha } .,291079c9a1.png
+{ \frac { \delta W } { \delta M ^ { \mu \nu } } } = - s V _ { \mu \nu },43e728b353.png
+"\frac { B _ { 1 } t _ { n } + B _ { 2 } } { B _ { 1 } t _ { e } + B _ { 2 } } = ( z + 1 ) ^ { 3 / 2 } ,",4a76cc2ac6.png
+"\displaystyle f ( r , \theta ) = \sum _ { i } ^ { n } { f _ { n } ( r ) e ^ { i ( n + \frac { 1 } { 2 } ) \theta } }",508946f9dc.png
+"j ^ { \mu } ( x ) \equiv \frac { i } { 2 } \left[ \phi ^ { \dagger } ( x ) \stackrel { \leftrightarrow } { \partial ^ { \mu } } \phi ( x ) - \phi ( x ) \stackrel { \leftrightarrow } { \partial ^ { \mu } } \phi ^ { \dagger } ( x ) \right] ,",19d22d8de4.png
+"\vec { n } = \left( \frac { n _ { 1 } } { R _ { 1 } } , \ldots , \frac { n _ { N } } { R _ { N } } \right) .",540c5c7b9d.png
+S _ { t h } = - 4 \kappa \phi ( L ) = { \frac { \lambda N L } { 6 } },269be323e4.png
+"a _ { n } = \frac { \alpha _ { n } } { \sqrt { n } } , \qquad a _ { n } ^ { \dag } = \frac { \alpha _ { - n } } { \sqrt { n } } .",2a3ad9e9d8.png
+"\delta _ { \xi } V _ { M } = - \xi ^ { L } F _ { L M } - D _ { M } \chi ~ , \",62bef10e55.png
+"M = \ell \, T _ { ( q _ { 1 } , q _ { 2 } ) } = \ell ( q _ { 1 } ^ { 2 } + \lambda _ { B } ^ { - 2 } q _ { 2 } ^ { 2 } ) ^ { 1 / 2 } T _ { 1 } ^ { ( B ) } ,",67d4fc2c28.png
+"\left. \begin{array} { l l l } { W } & { = } & { \lambda \wp ( z - a ) , } \\ { E } & { = } & { 8 | \lambda | ^ { 2 } \frac { | \wp ( z - a ) | | \wp ^ { 2 } ( z - a ) - \wp ^ { 2 } ( L / 2 ) | } { [ 1 + | \lambda \wp ( z - a ) | ^ { 2 } ] ^ { 2 } } . } \\ \end{array} \right.",c6f5023029.png
+"[ X _ { i } , X _ { j } ] = i { \frac { \mu } { 3 } } \epsilon _ { i j k } X _ { k }",595adb7554.png
+"{ \cal L } ( \frac { 1 } { 2 } , \alpha ) = \bar { \psi } [ \gamma _ { \mu } ( \partial _ { \mu } + i a _ { \mu } + i C _ { \mu } ) + M ] \psi - \frac { i } { 8 \pi \alpha } \epsilon _ { \mu \nu \lambda } a _ { \mu } \partial _ { \nu } a _ { \lambda } \; ,",3426c46b84.png
+R P _ { V } ^ { \prime } ( T ) \sim \frac { 1 } { T ^ { d _ { s } / 2 } } ( 1 + O ( T ) ) .,afc8ea692b.png
+"8 \pi ^ { 2 } \, V ( D _ { 5 } ) ^ { 1 / 4 } \, / \, ( V ( S _ { 4 } ) \, V ( C _ { 5 } ) ) .",1954f30180.png
+"h = \eta ^ { \mu \nu } h _ { \mu \nu } = \frac { 4 M } { r } \ ,",aee39fbe95.png
+"\Psi ( x , t ) \equiv \langle x | \Psi \rangle _ { t } ,",40c12ceafe.png
+"{ \frac { d { \vec { \kappa } } _ { i } ( \alpha ) } { d \alpha } } = \{ { \vec { \kappa } } _ { i } ( \alpha ) , { \vec { \kappa } } _ { + } ( \alpha ) \cdot { \vec { q } } _ { + } ( \alpha ) \} = - { \frac { { \vec { \kappa } } _ { + } ( \alpha ) } { H _ { M } ( \alpha ) } } H _ { i } ( \alpha ) ,",6023e45db0.png
+"U . v : = ( x ^ { * * } - i ) ( x ^ { * * } + i ) ^ { - 1 } . v \qquad \forall v \in ( x ^ { * * } + i ) . D _ { x ^ { * * } } = L _ { + i , x ^ { * * } }",6460326709.png
+"S _ { f } = \int d ^ { 3 } x \sum _ { n = 1 } ^ { N } \Bigl ( 2 a K \bar { \psi } ( x , n ) i \gamma ^ { i } D _ { i } ( A ( n ) ) \psi ( x , n ) - \bar { \psi } ( x , n ) \psi ( x , n ) \Bigr ) ,",480fd72620.png
+g ( x ) = \operatorname { e x p } ( \Gamma _ { \mu } x ^ { \mu } ),312874eb54.png
+"S = - \int d ^ { 6 } \xi e ^ { - \Phi _ { D } } \sqrt { - d e t ( G + F ) } + \int C _ { 6 } + { \frac { 1 } { 2 } } \int C _ { 2 } \wedge F \wedge F ,",4dafbe8b88.png
+D _ { i } a = \sum _ { p } { \bf a } \cdot { \bf K } ^ { p } \delta _ { p } A _ { i } .,675af58f22.png
+K = - \frac { 2 ( \frac { d - 1 } { 2 } + m ) ! } { ( m - 1 / 2 ) ! \pi ^ { d / 2 } },cc8bebb71a.png
+"\dot { H } + 3 H ^ { 2 } = 8 \pi G V ( \phi ) , ~ ~ ~ \dot { H } = - 4 \pi G \dot { \phi } ^ { 2 }",1c9c7c797c.png
+"e _ { \alpha } ^ { a } e _ { a } ^ { \beta } = \delta _ { \alpha } ^ { \beta } ,",5ab7614e3c.png
+u = - { \frac { 1 } { 4 \sqrt \pi } } { \frac { 1 } { ( 4 \pi ) ^ { d / 2 } } } \left( { \frac { \pi } { a } } \right) ^ { d + 1 } \Gamma \left( - { \frac { d + 1 } { 2 } } \right) \zeta ( - d - 1 ) .,d62c4ff480.png
+"\nabla _ { \mu } \nabla ^ { \mu } \Phi = \frac { \kappa ^ { 2 } } { 2 } T _ { 3 } \; e ^ { 3 \Phi } V ( T ) \frac { 3 + 2 e ^ { - 2 \Phi } \nabla _ { \alpha } T \nabla ^ { \alpha } T } { \sqrt { 1 + e ^ { - 2 \Phi } \nabla _ { \alpha } T \nabla ^ { \alpha } T } } ,",702981787b.png
+"\phi ( t , r , \theta , \varphi _ { 1 } , . . , \varphi _ { d - 3 } ) = \frac { 1 } { r ^ { \frac { d - 2 } { 2 } } } \sum _ { l } Z _ { l } ( t , r ) Y _ { l 0 . . 0 } ( \theta ) \, .",5abe321838.png
+\left( \begin{array} { l } { { \hat { a } } } \\ { { \hat { b } } ^ { \dagger } } \\ \end{array} \right) \equiv \left( \begin{array} { l l } { \alpha } & { - \beta ^ { * } } \\ { \beta } & { \alpha ^ { * } } \\ \end{array} \right) \left( \begin{array} { l } { a } \\ { b ^ { \dagger } } \\ \end{array} \right),662c2a20d8.png
+\left( \partial _ { r } + \frac { \nu + 1 } { r } \right) \chi _ { 2 } ( r ) = 0 .,6e8c66f326.png
+"K _ { + } - K _ { - } = \eta { \frac { \sqrt { D - 1 } } { 2 } } \kappa _ { D } ^ { 2 } b \sigma _ { \mathrm { D W } } e ^ { b C } = - { \frac { D - 1 } { D - 2 } } \kappa _ { D } ^ { 2 } \sigma _ { \mathrm { D W } } e ^ { b C } ,",71c77adc51.png
+\Lambda _ { x x } + \Lambda _ { y y } + \Lambda _ { x q } \Lambda _ { y p } - \Lambda _ { x p } \Lambda _ { y q } = 0,478094fa73.png
+"\delta { \cal P } _ { 2 i } - \frac { \partial _ { i } } { \triangle + M ^ { 2 } } \delta \left( \partial ^ { j } { \cal P } _ { 2 j } + M P _ { 2 } \right) = - G _ { i } ^ { ( 2 ) } ,",bc0c5f56df.png
+"d s ^ { 2 } = - N ^ { 2 } ( t , y ) d t ^ { 2 } + A ^ { 2 } ( t , y ) \gamma _ { i j } d x ^ { i } d x ^ { j } + B ^ { 2 } ( t , y ) d y ^ { 2 } \ ,",a8eb983250.png
+"( \partial b ) ^ { * } = - q ^ { 2 } ( D ^ { - 1 } ) \left( - q ^ { 3 } c d ( \partial a ) + q a d ( \partial c ) + q ^ { 2 } c ^ { 2 } ( \partial b ) - a c ( \partial d ) \right) ,",6221ab03ee.png
+\frac { 4 \pi \rho ^ { \prime 2 } } { N + 1 } \sim 2 \pi \alpha ^ { 2 } .,562bf64463.png
+"d [ Z ^ { - 1 } ( * _ { 6 } G _ { \it 3 } - i G _ { \it 3 } ) ] = 0 \ ,",78b82f5415.png
+"N _ { I J } = \bar { F } _ { I J } + 2 i \frac { ( I m F _ { I K } X ^ { K } ) ( I m F _ { J L } X ^ { L } ) } { ( X ^ { I } I m F _ { I J } X ^ { J } ) } ,",32999a68af.png
+"[ \hat { L } _ { i } , \hat { L } _ { j } ] = i \epsilon _ { i j k } \hat { L } _ { k } .",4245275049.png
+f ( x ) \star _ { \lambda } g ( x ^ { a } ) = g ( x ^ { a } ) \star _ { \lambda } f ( x ) = f ( x ) \ g ( x ^ { a } ) .,6713698409.png
+"f _ { k } ( \tau ) \to \alpha _ { k } f _ { k } ( \tau ) + \beta _ { k } f _ { k } ^ { * } ( \tau ) , \hspace { 1 e m } | \alpha _ { k } | ^ { 2 } - | \beta _ { k } | ^ { 2 } ,",1baba03963.png
+\int _ { 0 } ^ { \infty } \mathrm { d } s \frac { e ^ { - \frac { ( x - y ) ^ { 2 } } { 4 s } } } { ( 4 \pi s ) ^ { 2 } } e ^ { - m ^ { 2 } s },6ff66c611d.png
+"{ \cal A } = { \cal A } _ { C F T } + \lambda \int \Phi ( x ) d ^ { 2 } x \, \, \, ,",6196a80c97.png
+k _ { 1 } ^ { \mu } T _ { \mu \nu } ^ { ( 3 ) a b } \approx k _ { 2 \nu } S ^ { a b },1d463bbaff.png
+N ( 0 ) = ( \frac { \gamma ^ { 2 } } { 1 + \gamma ^ { 2 } } ) ^ { 2 } \ .,605ad925eb.png
+"d s _ { ( - 1 , 3 ) } ^ { 2 } = H _ { - 1 } ^ { 1 / 2 } \left[ { \frac { 1 } { z ^ { 2 } } } ( d \vec { x } ^ { 2 } + d z ^ { 2 } ) + d \Omega _ { 5 } ^ { 2 } \right] ,",25636514b2.png
+G _ { \mu \nu } ^ { ( 1 ) } - \frac { 3 } { l ^ { 2 } } g _ { \mu \nu } ^ { ( 1 ) } = - { \cal T } _ { \mu \nu } ^ { ( 0 ) },59bbfaca90.png
+"\operatorname* { l i m } _ { \rho \to 0 } \frac { K ^ { \mu } ( 1 + K ^ { 2 } ) } { \rho } = \frac { R ^ { \mu } ( \rho ^ { 2 } + R ^ { 2 } ) } { \rho ^ { 4 } } = 0 ,",1796437400.png
+"\Psi = \Psi \star \Psi \, .",75e334a6bf.png
+"G _ { \lambda } ( x _ { 1 } , . . . , x _ { n } ; y _ { 1 } , . . . , y _ { m } ) = \, < T R ( x _ { 1 } ) . . . R ( x _ { n } ) L ( y _ { 1 } ) . . . L ( y _ { m } ) > .",4b03d8fe38.png
+"{ \cal Z } ( g , c ) = \int \mathrm { D } U \; \mathrm { D } V \; \operatorname { e x p } \left( - N S ( U , V ) \right) \ ,",1e758c79f0.png
+T = e ^ { \frac { - a } { 2 \lambda } ( u + u _ { 0 } ) } .,419ab9c125.png
+"S _ { 0 } \left\vert \begin{array} { c } { N } \\ { ( p , q ) } \\ \end{array} , k \right> = \left( k + \displaystyle \frac { 1 } { 2 } \left( \frac { 2 p - 1 } { 2 m } - \frac { 2 q - 1 } { 2 n } - N \right) \right) \left\vert \begin{array} { c } { N } \\ { ( p , q ) } \\ \end{array} , k \right> ,",2047e465dd.png
+"{ \cal S } _ { J _ { H } ^ { - 1 } } ^ { ( 3 ) } = 3 \left( \partial _ { z } ^ { 3 } + 2 T ^ { F } \partial _ { z } + { T ^ { F } } ^ { \prime } \right) ,",536446f708.png
+{ T _ { Q } } ^ { * } M = { { \cal D } _ { Q } } ^ { * } \oplus { { \cal T } _ { Q } } ^ { * },4d8d47817a.png
+\varepsilon ( r ) = 1 + \frac { 4 \pi ^ { 2 } \Omega _ { d } K } { d } \int _ { r _ { 0 } } ^ { r } ~ d s ~ s ^ { d + 1 } ~ n ^ { \pm } ( s ) .,7037b62700.png
+\Psi _ { y } = \Psi _ { x x } - 2 ( \Psi \Psi ^ { * } ) \Psi _ { x },6066c3af78.png
+"[ r ^ { i } , r ^ { j } ] = { \frac { i } { B } } \epsilon ^ { i j } .",60841d6cac.png
+"\operatorname { e x p } \left( - \frac { 1 } { 2 } \int _ { 0 } ^ { \infty } \vec { X } _ { \kappa } \tilde { L } _ { \kappa } \vec { X } _ { \kappa } d \kappa \right) \, .",3825a85393.png
+L _ { m } ^ { ( g h ) } = \sum _ { k : e v e n } ( m - k ) b _ { m + k } c _ { - k },3460dbb1b3.png
+"\lbrack \hat { M } _ { ( k ) } , D ] = - k \hat { M } _ { ( k ) } + ( c _ { k 0 } + k \phi _ { k } ) 1",1c3812c6f8.png
+"\delta b ^ { 0 } = - z ^ { 2 } \partial _ { 0 } \zeta , \quad \delta b ^ { z } = z ^ { 2 } \partial _ { z } \zeta , \quad \delta a = 0 .",6f57eebd1e.png
+"\left( - { \frac { 1 } { r } } { \frac { \partial } { \partial r } } r { \frac { \partial } { \partial r } } + { \frac { \left( m - \delta { \frac { r ^ { 2 } } { R ^ { 2 } } } \right) ^ { 2 } } { r ^ { 2 } } } - { \frac { g } { 2 } } \delta { \frac { 2 } { R ^ { 2 } } } \right) \psi _ { m } ( r ) = \epsilon \psi _ { m } ( r ) \, .",2d91908d1b.png
+"\Psi _ { \tau , \tau ^ { \prime } } [ u , u ^ { \dagger } , { v } , { v } ^ { \dagger } ] = \langle \! \langle u , u ^ { \dagger } | T \operatorname { e x p } ( - \int _ { \tau \prime } ^ { \tau } d t \hat { H } ( t ) ) | { v } , { v } ^ { \dagger } \rangle \! \rangle ,",4028506f30.png
+\hat { \Pi } _ { r } ^ { i } \equiv F ^ { i j } \partial _ { j } \hat { \cal A } _ { r },46c95c48fc.png
+\operatorname { l n } f ( \eta ) = - \sum _ { m = 1 } ^ { \infty } { \frac { e ^ { - 2 \pi m \tau _ { 2 } \eta _ { 2 } } } { m } } + \dots,35e8832d3e.png
+\gamma ^ { B } \hat { R } _ { B } ^ { ~ A } ( z ; g ) = \hat { L } ( z ; g ) \gamma ^ { A } \hat { L } ( z ; g ) ^ { t },29b76fbba3.png
+R e s _ { \theta _ { 1 2 } = i \pi } \left\langle A Z ^ { \ast } ( \theta _ { n } ) . . . Z ^ { \ast } ( \theta _ { 2 } ) Z ^ { \ast } ( \theta _ { 1 } ) \right\rangle = 2 i \mathbf { C },19fc75bb64.png
+L ~ = ~ i \bar { \psi } ^ { i } { \partial \! \! \! / } \psi ^ { i } + \sigma \bar { \psi } ^ { i } \psi ^ { i } + i \pi \bar { \psi } ^ { i } \gamma ^ { 5 } \psi ^ { i } - \frac { 1 } { 2 g ^ { 2 } } ( \sigma ^ { 2 } + \pi ^ { 2 } ),1af9bf3c79.png
+"E _ { \omega , k , k _ { 3 } , m } = \omega ^ { 2 } + k _ { 3 } ^ { 2 } + k ^ { 2 } + M ^ { 2 } \hspace { 1 c m } .",53da9311ab.png
+"W ( g ) \sim \sum _ { n = 0 } ^ { \infty } c _ { n } g ^ { n } ,",159d5edca2.png
+Q _ { f } = f _ { \mu _ { 1 } \dots \mu _ { r } } \Pi ^ { \mu _ { 1 } } \psi ^ { \mu _ { 2 } } \dots \psi ^ { \mu _ { r } } + \frac { i } { r + 1 } ( - 1 ) ^ { r + 1 } f _ { [ \mu _ { 1 } \dots \mu _ { r } ; \mu _ { r + 1 } ] } \psi ^ { \mu _ { 1 } } \dots \psi ^ { \mu _ { r + 1 } } .,38f79e188a.png
+\bar { \cal K } = \left( \begin{array} { c c } { - \frac { d ^ { 2 } } { d x ^ { 2 } } + 4 - \frac { 6 } { \operatorname { c o s h } ^ { 2 } x } } & { 0 } \\ { 0 } & { - \frac { d ^ { 2 } } { d x ^ { 2 } } + \sigma ^ { 2 } - \frac { 2 } { \operatorname { c o s h } ^ { 2 } x } } \\ \end{array} \right),6167891fc0.png
+\hat { I } _ { y } \varphi ( x ) = \varphi ( 2 y - x ),2b7a5ce5a3.png
+"\psi ( r , t ) = { \frac { 1 } { r } } \left[ f ( r + t ) - f ( r - t ) \right] .",662f34bf8b.png
+"\operatorname* { l i m } _ { r \rightarrow \infty } \Phi ( t , r , \theta , \phi ) = r ^ { - h _ { - } } \Phi _ { - } ( t , \theta , \phi ) .",7a30db237e.png
+"\psi _ { E } ( x ^ { 1 } , x ^ { 2 } ) \rightarrow \left( \begin{array} { l l } { \sigma ^ { 2 } } & { 0 } \\ { 0 } & { - \sigma ^ { 2 } } \\ \end{array} \right) T ^ { 1 } \psi _ { E } ( - x ^ { 1 } , x ^ { 2 } ) .",1f306836e6.png
+"k ^ { i } \rightarrow k ^ { \prime \ i } = \Lambda _ { j } ^ { i } k ^ { j } + \Lambda _ { 0 } ^ { i } \sqrt { m ^ { 2 } + { \vec { k } } ^ { 2 } } ,",1426fbc47e.png
+"( p _ { 1 } t _ { 1 } \vert q _ { 0 } t _ { 0 } ) = ( 2 \pi \hbar ) ^ { - n / 2 } \sqrt { D _ { -- } } \operatorname { e x p } [ i S _ { -- } ( p _ { 1 } t _ { 1 } , q _ { 0 } t _ { 0 } ) / \hbar ]",5fb11b487e.png
+S = \kappa { \cal S } ^ { - } [ w ] + \frac { 1 } { \pi x } \int \mathrm { s t r } \left\{ \mu W \right\} .,25e756a25a.png
+S _ { M C S } = \int d ^ { 3 } x [ - \frac { 1 } { 2 } ( \partial _ { \alpha } A _ { \beta } - \partial _ { \beta } A _ { \alpha } ) \partial ^ { \alpha } A ^ { \beta } + \frac { 2 \pi } { g ^ { 2 } } \epsilon ^ { \alpha \beta \gamma } A _ { \alpha } \partial _ { \beta } A _ { \gamma } ] .,6c22bbc177.png
+\alpha : = \left( \begin{array} { c c c c c c c c } { \gamma _ { 1 } } & { 0 } & { \gamma _ { 3 } } & { \gamma _ { 4 } } & { \ldots } & { \gamma _ { N - 2 } } & { \gamma _ { N - 1 } } & { \gamma _ { N } } \\ { 0 } & { \beta _ { 2 } } & { \gamma _ { 3 } } & { c _ { 4 } \gamma _ { 4 } } & { \ldots } & { c _ { N - 2 } \gamma _ { N - 2 } } & { \beta _ { N - 1 } } & { \beta _ { N } } \\ \end{array} \right),3e99d3bf01.png
+"G [ p ] = G _ { S } ^ { < \Lambda / b } [ p ^ { S } ] + G _ { E } ^ { \Lambda / b } [ p ^ { E } ] \, .",78dceca56f.png
+H = \frac { 1 } { 2 M } ( p _ { \mu } + \frac { 1 } { c } A _ { \mu } ) ( p ^ { \mu } + \frac { 1 } { c } A ^ { \mu } ),334bc6fbae.png
+Q _ { t } ^ { r e d } = \left[ { \mathrm { N u l l S p a c e } } ( Q _ { d } ^ { t } ) \cdot Q _ { r } \right],4edbb000a0.png
+"\alpha _ { A } ( \varphi ) = \beta _ { A } ( \varphi - \varphi _ { m } ) \ ,",3856852f0d.png
+"U _ { 1 , 2 } ( x ) \equiv { \frac { V _ { 1 } ( x ) + V _ { 2 } ( x ) } { 2 } } \pm \sqrt { \left[ { \frac { V _ { 1 } ( x ) - V _ { 2 } ( x ) } { 2 } } \right] ^ { 2 } + { \frac { 1 } { g ^ { 2 } } } } .",42cf644c19.png
+{ \cal F } _ { \mathrm { F } = 0 } = \frac { e ^ { 2 } } { 2 \pi } \sum _ { n > 0 } \frac { 1 } { n } \operatorname { s i n } ( \frac { 2 \pi } { 2 \pi } { L } n ( x - y ) ) = \frac { e ^ { 2 } } { 4 \pi } \epsilon ( x - y ) - \frac { e ^ { 2 } } { 2 \pi \mathrm { L } } ( x - y ) .,6b75502c13.png
+"\tau _ { i 0 } ( h , \delta ) = - \frac { 1 } { 2 \pi } \int _ { z _ { i 1 } ( \delta , h ) } ^ { z _ { i 2 } ( \delta , h ) } \sqrt { f _ { i } ( t , h , \delta ) } d t",406ad9bf6d.png
+E | _ { C } = ( N ( - F ) ) ^ { * } | _ { C } \otimes K _ { C } .,aa4e61d46d.png
+"O ( H , H _ { 0 } ) = O ( M , M _ { 0 } ) , \, \, O = \Omega _ { \pm } , S",6697a094a3.png
+\langle \mathrm { T r } Z ^ { J } ~ \mathrm { T r } \bar { Z } ^ { J } \rangle = \frac { 1 } { J + 1 } \left( \frac { \Gamma ( N + J + 1 ) } { \Gamma ( N ) } - \frac { \Gamma ( N + 1 ) } { \Gamma ( N - J ) } \right),23bf2cd6df.png
+"M _ { 0 } \, R \, \omega _ { n } \, = \, ( n - 1 ) \pi \, + \, \varepsilon _ { n } , \quad 0 \, < \, \varepsilon _ { n } \, < \, \pi , \quad n \, = \, 1 , 2 , \dots \, { , }",1c682e25ca.png
+"Q _ { n } ^ { [ s ] } { \cal O } ^ { [ s ] } = { \cal O } ^ { [ s + 1 ] } Q _ { n } ^ { [ s ] } , \quad { \cal O } ^ { [ 0 ] } = { \cal O } .",451abb7e17.png
+"\frac { 1 } { R _ { | | } ^ { 2 } } + R _ { \perp } ^ { 2 } \ge \frac { 1 } { 2 } \, .",ead7d8203a.png
+"\chi _ { 1 / 2 } ^ { 1 , 2 } | \Omega { \rangle } _ { L } \otimes { \Psi } _ { 1 / 2 } ^ { a } { \Psi } _ { 1 / 2 } ^ { i * } ; \, \, { \Psi } _ { 1 / 2 } ^ { a * } { \Psi } _ { 1 / 2 } ^ { i } | \Omega { \rangle } _ { R } \ \ \mathrm { a n d ~ e x c h a n g e } \ \Psi \longrightarrow \Phi ,",29742a2802.png
+"S _ { \mathrm { e f f } } [ \, g \, ] = \mathbf { S } \big [ \, G [ \, g \, ] \, \big ] + O ( \hbar ) ,",64e573f574.png
+"{ \partial } _ { i } k ^ { i } = \frac { { \xi } ^ { 2 } } { a ^ { 2 } } { \epsilon } ^ { i j k l } a _ { i } b _ { k } { k _ { j } } ^ { , r } { \partial } _ { r } K _ { l }",581ae21bb8.png
+"a \ast b = \pi ( \sigma ( a ) \circ \sigma ( b ) ) = \sum _ { k = o } ^ { \infty } \hbar ^ { k } D _ { k } ( a , b ) \,",67a1f71046.png
+\begin{array} { r l } { = } & { \displaystyle \sum _ { \lambda _ { 1 } \lambda _ { 2 } } \tau _ { 1 5 } ^ { \lambda _ { 1 } } \tau _ { 2 5 } ^ { \lambda _ { 2 } } ( D _ { 1 5 } ^ { \lambda _ { 1 } } \star e ^ { \pm i p _ { + } \cdot x _ { 5 } } \star D _ { 2 5 } ^ { \lambda _ { 2 } } + ( 1 \leftrightarrow 2 ) ) < 0 | \cdots | 0 > . } \\ \end{array},1ca9e55f30.png
+\partial _ { a } v _ { b } ^ { \; j } - \partial _ { b } v _ { a } ^ { \; j } = 2 \varepsilon ^ { j k l } v _ { a } ^ { \; k } v _ { b } ^ { \; l } = 2 \varepsilon ^ { a b j } + \frac { - 2 } { \sqrt { 1 - \varphi ^ { 2 } } },5add3a0b42.png
+"A ( \omega , \vec { k } ) = - 2 \cdot \mathrm { I m } G _ { \mathrm { r e t } } ( \omega , \vec { k } ) \ .",27ebdd7ff7.png
+"\phi ( x ) = \frac { 1 } { \sqrt { 2 } } e ^ { i \xi ( x ) / v } \, \left[ \rho ( x ) + v \right] \ \ \ , \ \ \ \phi _ { 0 } ( x ) = \frac { 1 } { \sqrt { 2 } } v \ \ \ , \ \ \ v = \sqrt { \frac { - \mu ^ { 2 } } { \lambda } } \ ,",110bc17711.png
+\mathrm { T r } ( e ^ { - t \Delta _ { k } } ) = \sum _ { 0 { \le } l { \le } l _ { 0 } } a _ { l } ( \Delta _ { k } ) t ^ { - l } + O ( t ^ { \epsilon } ),2942e45693.png
+\left( r ^ { 2 } - r _ { H } ^ { 2 } \right) \partial _ { r } ^ { 2 } \Phi ( r ) + 2 r \partial _ { r } \Phi ( r ) + \frac { \omega ^ { 2 } \ell ^ { 4 } } { r ^ { 2 } - r _ { H } ^ { 2 } } \Phi ( r ) = 0 .,4cab5bdec0.png
+"\begin{array} { r l } { = } & { T r R W ( z _ { 1 } , w ) W ( w , z _ { 2 } ) R ^ { - 1 } R W ( z _ { 2 } , w ) W ( w , z _ { 1 } ) R ^ { - 1 } } \\ { = } & { T r W ( z _ { 1 } , z _ { 2 } ) W ( z _ { 2 } , z _ { 1 } ) } \\ { = } & { T r W ( z _ { 1 } , z _ { 1 } ) } \\ \end{array}",723b3d424a.png
+\Delta ( z ) / \Delta ( z ^ { 2 } ) = 1 / \prod _ { i > j } ( z _ { i } + z _ { j } ) .,54cf44f422.png
+"\Pi ^ { \mu \nu } \rightarrow g ^ { \mu \nu } + \frac { p ^ { 2 } } { | { \bf p } | ^ { 2 } } n ^ { \mu } \; n ^ { \nu } ,",3036fb5a67.png
+"\rho ^ { 2 } = \frac { g ^ { 2 } v ^ { 2 } T ^ { 4 } } { 1 6 I _ { E } ( \theta ) } \; ,",78f6265113.png
+"\bar { \cal D } _ { a c } ^ { \phi } ( t ; l ) g _ { c b } ^ { \phi } ( t , t ^ { \prime } ; l ) = - i \delta _ { a b } \delta ( t - t ^ { \prime } ) \, ,",5c703e97ba.png
+"\vec { \phi } = \vec { \phi } ( \lambda , \dot { \lambda } , x , y ) ,",16cf85a0d6.png
+"F = \bigcup _ { w \in W } \dot { X } _ { w } , \; X _ { w } = \bigcup _ { v \leq w } \dot { X } _ { v } ,",482a8593ec.png
+"\langle v _ { 1 } \otimes \cdots \otimes v _ { n } , \; w _ { 1 } \otimes \cdots \otimes w _ { n } \rangle _ { \sigma } = ( v _ { 1 } \cdot w _ { \sigma _ { 1 } } ) \cdots ( v _ { n } \cdot w _ { \sigma _ { n } } )",2678e41a90.png
+M _ { G } \cdot \mathbf { c } ^ { G } = 0,78e82c1865.png
+\operatorname* { l i m } _ { Q ^ { 2 } \to { 0 } } \frac { \partial } { \partial { Q ^ { 2 } } },6f0a517052.png
+"Y ( \Phi , \Phi ^ { \ast } ) \mid _ { \Sigma _ { \Psi } } \equiv Y ( \Phi , \frac { \partial \Psi } { \partial \Phi } ) .",2d3503f427.png
+"\Psi _ { N } ( \beta ) = { \frac { \Gamma ( 1 + \beta N / 2 ) } { \left( \Gamma ( 1 + \beta / 2 ) \right) ^ { N } } } \, .",58d486d2ac.png
+\tilde { u } = \frac { 1 } { 2 } \mathrm { T r } \Phi ^ { 2 } = \frac { 1 } { 8 \Lambda _ { 1 } ^ { 2 } } M _ { A f C g } M _ { B h D i } \epsilon ^ { f g } \epsilon ^ { C B } \epsilon ^ { h i } \epsilon ^ { D A } .,5186d78c63.png
+"M _ { \tau } [ x ] = { \cal M } _ { \tau } [ x ] \otimes ( n ^ { c } \lambda ^ { c } ) \equiv { \cal M } _ { \tau } [ x ] \otimes { \cal T } _ { - } \ ,",142e880ef0.png
+"u _ { p } \, = \, { \frac { \chi _ { 2 \, , \, p } } { C } } \, \, \mu _ { 1 } .",4a464a0379.png
+"G ( \chi , \psi ; \alpha , \beta ) = \beta ^ { h _ { \psi } - 2 \delta } G \left( \chi , \psi ; \alpha \beta , { \frac { 1 } { \beta } } \right) \, ,",1e89a15f41.png
+"S _ { i j k l } ( \vec { x } , \vec { y } ) = \left( \begin{array} { c c } { 0 } & { - 1 } \\ { 1 } & { 0 } \\ \end{array} \right) \Bigl ( \eta _ { i j , k l } \, \nabla ^ { 2 } + \partial _ { i j , k l } ^ { 2 } \Bigr ) \, \delta ( \vec { x } - \vec { y } )",70b8993c8c.png
+\gamma a _ { k - 1 } + \delta a _ { k } + d b _ { k - 1 } = 0,9e462ca537.png
+"\delta _ { a } \phi = a ^ { \nu } \partial _ { \nu } \phi , \qquad \delta _ { a } A _ { \mu } = a ^ { \nu } \partial _ { \nu } A _ { \mu } ,",3bc6d4faa7.png
+P _ { M } = - { \frac { \delta L } { \delta \dot { x } ^ { M } } } = { \frac { m e ^ { - \phi } \dot { x } _ { M } } { \sqrt { - G _ { M N } ^ { s t r } \dot { x } ^ { M } \dot { x } ^ { N } } } } + q A _ { M } .,411d176beb.png
+"E \left( \beta \right) \simeq \frac { 1 } { 2 4 a } \left( \frac { 2 \pi a } { \beta } \right) ^ { 2 } - \frac { 1 } { 2 \beta } , \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, a / \beta \, \gg \, 1 ,",6a67d18300.png
+\int d ^ { 1 0 } q e ^ { i q \cdot Y } F ( q ),43a08bbe84.png
+"\chi = \frac { \sqrt { ( e F _ { \alpha \beta } p ^ { \beta } ) ^ { 2 } } } { m ^ { 3 } } ,",7129d9d60a.png
+"N _ { \mu \nu \lambda \rho } = g _ { \alpha \beta } { T ^ { \alpha } } _ { \mu \nu } { T ^ { \beta } } _ { \lambda \rho } - 2 R _ { \mu \nu \lambda \rho } ,",4ad877c3ea.png
+W _ { \alpha } : = \bar { D } ^ { 2 } \left( ( e ^ { - \phi } ) _ { \star } \star D _ { \alpha } ( e ^ { \phi } ) _ { \star } \right) .,190e00de05.png
+\delta H = H \frac { \omega } { 1 + \omega } \delta - \frac { \dot { \delta } } { 3 ( 1 + \omega ) } .,48977f880b.png
+i D _ { \mu \nu } ^ { a b } ( k ) = \frac { - i \delta ^ { a b } g _ { \mu \nu } } { k ^ { 2 } - M ^ { 2 } + i \varepsilon },7ade2eb0c1.png
+"\delta _ { 1 } = \frac \hbar c \kappa _ { 1 } \qquad , \qquad \delta _ { 2 } = \frac \hbar c \kappa _ { 2 }",4a304dc3aa.png
+"{ \cal E } _ { a s } ^ { s p i n } \ = \ \frac { 1 } { 1 2 \pi R ^ { 2 } } \left[ \beta ^ { 2 } e _ { 1 } ( m _ { e } R ) \ + \ \beta ^ { 4 } e _ { 2 } ( m _ { e } R ) \right] \ ,",2a94c27309.png
+\epsilon ^ { \prime } = \kappa ^ { \prime } = - \frac { \overline { { { T ^ { 6 } } _ { 6 } } } } { 5 \alpha } \ .,517175ab39.png
+H ( t _ { E } ) \simeq \frac { \gamma ^ { 2 } t _ { E } } { 1 + \gamma ^ { 2 } t _ { E } ^ { 2 } },5532001db0.png
+{ \frac { \partial \psi ^ { \beta } } { \partial \omega _ { 2 } } } { \frac { \partial \psi ^ { \beta } } { \partial \omega _ { 2 } } } = { \frac { 2 } { ( \omega _ { 2 } ) ^ { 2 } } } \operatorname { s i n } ^ { 2 } \left( { \frac { \theta _ { 2 } - 2 \theta _ { 1 } } { 2 } } \right) \hspace { 0 . 5 c m } .,2e47222745.png
+"\Delta _ { s } \frac { \lambda ( s ) } { B _ { k _ { 1 } k _ { 2 } } ( s ^ { 2 } ) } = \frac { 1 } { B _ { k _ { 1 } k _ { 2 } } ( s ^ { 2 } ) } \Delta _ { s } ^ { \prime } \lambda ( s ) \ ,",7c2c1ff186.png
+"\stackrel { . } { \theta } ^ { a } = \left\{ \theta ^ { a } , H _ { 2 } ^ { \left( 1 \right) } \right\} = 0 ,",55fb69ef75.png
+\delta _ { 0 p } = { \frac { 1 } { 2 } } ~ { \frac { q _ { p } \mu _ { 0 } } { b ^ { 6 - p } } } I _ { p } F _ { p } ( v ),5a0f87e25a.png
+"p ^ { \mu } \equiv T ^ { 0 \mu } \quad \mathrm { a n d } \quad { \cal J } ^ { \mu \nu } \equiv { \cal J } ^ { 0 \mu \nu } \, ,",5308d89501.png
+\underline { { g } } ^ { \infty } ( \Lambda ^ { \infty } ) \mid \cdot > = 0 \Leftrightarrow \Lambda ^ { \infty } \in T ^ { \infty } .,1468f1a876.png
+\sum _ { \alpha = 1 } ^ { n + 1 } x _ { \alpha } ^ { 2 } - r ^ { 2 } = 0 .,1ebde7b73a.png
+{ \frac { \delta W _ { 2 } } { \delta \chi _ { n i _ { 1 } . . . i _ { n } } } } \equiv { \frac { 1 } { n ! } } \sum _ { P _ { n } } ^ { * } \prod _ { p } C _ { r } ^ { j _ { 1 } . . . j _ { r } },7369c990d4.png
+V _ { q } \left( x \right) = \pi L ^ { 2 } V _ { 0 } \operatorname { e x p } \left( - \frac { q ^ { 2 } L ^ { 2 } } 4 \right) \operatorname { e x p } \left( - \frac { \left( x - x _ { 0 } \right) ^ { 2 } } { L ^ { 2 } } \right) .,5d288e448c.png
+\omega _ { i j } \omega ^ { j k } = \omega ^ { k j } \omega _ { j i } = \delta _ { i } ^ { k } \ .,48ce08ac26.png
+"t ^ { { \vec { \Lambda } } } ( r ) \, \equiv \, 2 \pi \, \left( 2 \, p ^ { { \vec { \Lambda } } } + \mathrm { i } \, q ^ { { \vec { \Lambda } } } ( r ) \right)",23aeeaa537.png
+( F ^ { 2 } - \theta \bar { \theta } ) ^ { 2 } = F ( F ^ { 2 } - \theta \bar { \theta } ) s w + s ^ { 2 } + w ^ { 2 },300b2a8013.png
+"S _ { B B } = G E R / G \hbar = R _ { s } ~ R ~ l _ { P } ^ { - 2 } \le S _ { H O B } = R _ { e f f } ^ { 2 } ~ l _ { P } ^ { - 2 } \; \; , \; R _ { s } \equiv G E \; ,",15b8fed3b3.png
+"J _ { i } = - \left( \frac { \partial G } { \partial \Omega _ { i } } \right) _ { T , \Omega _ { j } } = \frac n { 1 6 \pi } \Xi m a _ { i } \omega _ { n - 1 } , \hspace { 1 . 0 c m } ( j \neq i ) .",1816a2ed77.png
+"\int _ { D } \sigma _ { 1 } \int _ { D } \phi _ { i } | \phi _ { j } \rangle = \int _ { D } \phi _ { i } \int _ { D } \sigma _ { 1 } | \phi _ { j } \rangle \,",2301ce3b93.png
+"\gamma ^ { 0 } S ^ { + } ( p , x ^ { \perp } ) \gamma ^ { 0 } = S ( p , - x ^ { \perp } ) ,",27a8ec31db.png
+"\chi _ { t } = \nu \, \chi _ { x x } \, \, ,",11975ed1f9.png
+\Delta ( \lambda ) = \prod _ { i < j } ( \lambda _ { i } - \lambda _ { j } ),3fd3860abb.png
+"S _ { A } ( z ) \; = \; { \cal C } ( A ) e ^ { i \alpha _ { A } \cdot \phi ( z ) } \; ,",3237a97c1a.png
+"\sum _ { n _ { j } = - \infty } ^ { \infty } \int _ { 2 n _ { j } \pi } ^ { 2 \left( n _ { j } + 1 \right) \pi } d \varphi = \int _ { - \infty } ^ { \infty } d \varphi \ ,",105e018b87.png
+"\frac { t e ^ { x t } } { e ^ { t } - 1 } = \sum _ { n = 0 } ^ { \infty } \frac { B _ { n } ( x ) } { n ! } t ^ { n } , \, \, \, \, 0 < | t | < 2 \pi .",38fb749374.png
+"\partial _ { A } : = \partial _ { A A ^ { \prime } } \lambda ^ { A ^ { \prime } } ,",97451d3862.png
+"M ^ { \mu _ { n } ( i ) } { } _ { ( j ) } \left( p \right) f _ { \left[ k \right] } ^ { \mu _ { n } ( j ) } \left( p \right) = \lambda _ { \left[ k \right] } ^ { \mu _ { n } } \left( p \right) f _ { \left[ k \right] } ^ { \mu _ { n } ( i ) } \left( p \right) \; \, , \; \, p \in V _ { \mu _ { n } } ^ { + } \; \, ,",591457eff0.png
+"\Xi \, \Xi ^ { \dagger } = \alpha = \alpha ^ { \dagger } ,",57754a8aab.png
+"( \beta - \sqrt { 2 } ) ^ { 3 } - P ( \beta - \sqrt { 2 } ) - Q = 0 ,",6845f3cf72.png
+"\sum _ { j } \, V _ { j } ( \vec { \beta } \, ) \, Q _ { j } ( \vec { \beta } , \vec { \lambda } ) \, F _ { j } ^ { \, \varepsilon } ( \Psi , \vec { \beta } , \vec { \lambda } )",487d7c4199.png
+"\widetilde { \Phi } _ { c } ^ { 2 } \simeq \frac { 4 ! N \widetilde { h } ^ { 2 } \widetilde { m } ^ { 2 } } { ( 4 \pi ) ^ { 2 } } \left( \frac { N \widetilde { h } ^ { 4 } } { ( 4 \pi ) ^ { 2 } } - \lambda \right) ^ { - 1 } \simeq \frac { 4 8 \widetilde { m } ^ { 2 } } { \widetilde { h } ^ { 2 } } , \ \ \ \ \ R _ { c } \simeq 1 2 \widetilde { m } ^ { 2 } .",2f2376b449.png
+"\mathbf { H } _ { n } ^ { i } = \oint _ { C _ { 0 } } d z \, \gamma ^ { n } H ^ { i } ( z ) \quad , \quad \mathbf { E } _ { n } ^ { \alpha } = \oint _ { C _ { 0 } } d z \, \gamma ^ { n } E ^ { \alpha } ( z ) \quad , \quad n \in \mathbf { Z } \quad ,",1d0b7cbfc8.png
+{ \cal F } _ { \mu \nu } ^ { ( p ) } = F _ { \mu \nu } - \bar { \lambda } ( \Gamma _ { \mu } + \Gamma _ { i } \partial _ { \mu } \phi ^ { i } ) \partial _ { \nu } \lambda + \bar { \lambda } ( \Gamma _ { \nu } + \Gamma _ { i } \partial _ { \nu } \phi ^ { i } ) \partial _ { \mu } \lambda .,2371269948.png
+"\left. \frac { \partial V } { \partial \phi ^ { i } } \right| _ { \phi = \phi _ { 0 } } = 0 ~ ,",38008980a1.png
+"[ d _ { i } \, , d _ { j } ] = 0 \, , \, \, d _ { i } \, e _ { j } = q ^ { { \delta } _ { i j + 1 } - { \delta } _ { i j } } e _ { j } \, d _ { i } \, , \, \, d _ { i } \, f _ { j } = q ^ { { \delta } _ { i j } - { \delta } _ { i j + 1 } } f _ { j } \, d _ { i }",49303c7877.png
+E = \mu \int d \sigma \sqrt { \frac { e ^ { 2 \gamma } ( - \chi ^ { 2 } ) } { V } \left( { \rho ^ { \prime } } ^ { 2 } + { z ^ { \prime } } ^ { 2 } \right) + \rho ^ { 2 } \varphi ^ { \prime \; 2 } } .,1d11a5b5e5.png
+"\delta x ^ { a } = - i ( \bar { \epsilon } \Gamma ^ { a } \theta ) , \, \, \, \, \, \, \delta \theta = \epsilon",7ce7104626.png
+"X _ { ( - 1 , j ) } , \quad X _ { ( - 1 , - j ) } , \quad 2 \leq j \leq r .",451469a9d2.png
+"e _ { \mu } ^ { a } = \mathrm { R e } ( e _ { \mu } ^ { a } ) + \omega \mathrm { I m } ( e _ { \mu } ^ { a } ) ,",4646212339.png
+\stackrel { \wedge } { \cal D } \ = \ - \frac { 2 i } { \operatorname { c o s } \frac { \omega x } 2 } \cdot \operatorname { s i n h } { } \frac i 2 \frac d { d x },4f66f98823.png
+"\delta \psi ( t ) = - \epsilon \{ \dot { q } ( t ) - i A \} , \qquad \delta \bar { \psi } ( t ) = - \bar { \epsilon } \{ \dot { q } ( t ) + i A \} .",57724cea50.png
+"\mathrm { d } s ^ { 2 } = - \mathrm { e } ^ { 2 g } \, \mathrm { d } t ^ { 2 } + \mathrm { e } ^ { - 2 g } \, \mathrm { d } \vec { x } ^ { 2 } \, .",2334dfdcd9.png
+"{ \bigl < t _ { \eta , v } ^ { ( \rho ) } ; t _ { \theta , w } ^ { ( \sigma ) } \bigr > } _ { L ^ { 2 } } = \int _ { G } \overline { { t _ { \eta , v } ^ { ( \rho ) } ( g ) } } \cdot t _ { \theta , w } ^ { ( \sigma ) } ( g ) \, d g = \frac { 1 } { \operatorname { d i m } V _ { \rho } } \delta _ { \rho \sigma } \overline { { \left< \eta ; \theta \right> } } \left< v ; w \right> ,",35e1c480c1.png
+"\phi _ { m a g } ( \eta , z ) ~ \approx ~ \phi _ { e l e c } ( \eta , z ) ~ \approx ~ \frac { h _ { r } } \eta ~ - ~ \frac { p ^ { 2 } } { 2 } \left( h _ { r } \eta ~ - ~ \frac { h _ { 0 } \eta ^ { 2 } } { 3 } ~ + ~ h _ { 0 } z ^ { 2 } \right)",e29754df3d.png
+"S _ { I I } ( \mu ) = S _ { 3 D } ~ - ~ \mu \int d ^ { 2 } z O _ { + } ( z , \bar { z } ) ,",62741a6373.png
+"\bigl \{ A , B \bigr \} _ { * } = \bigl \{ A , B \bigr \} - \bigl \{ A , \chi _ { \alpha } \bigr \} \Delta ^ { \alpha \beta } \bigl \{ \chi _ { \beta } , B \bigr \} \, ,",422eea4d2c.png
+"I _ { 1 } ( a , b , d ) = - \frac { 1 } { \left( 2 \pi \right) ^ { d - 2 } a b } \sum _ { n = 1 } ^ { \infty } \int d ^ { d - 2 } p \frac { 1 } { ( \vec { p } ^ { \, 2 } + m ^ { 2 } + ( \frac { n \pi } { a } ) ^ { 2 } ) }",606c8e93be.png
+\sum _ { s = 1 } ^ { S } C _ { s } \operatorname { l n } \frac { \Lambda ^ { 2 } } { m ^ { 2 } } = - \operatorname { l n } \frac { \Lambda ^ { \prime 2 } } { m ^ { 2 } } .,13f54255c6.png
+"\phi ( \frac { 1 } { \tau } ) = \sum _ { k = 1 } ^ { \mathrm { K } } \, b _ { k } \, \tau ^ { \lambda _ { k } } + \alpha \, \tau ^ { h } \, \phi ( \tau )",3db2c369b6.png
+"\int K _ { 4 } = { \frac { 2 \pi n } { T _ { 3 } } } \, \, \, \, \, n = i n t e g e r",1b71f306b6.png
+"\operatorname* { l i m } _ { N \rightarrow \infty } N [ A _ { \mu } , A _ { \nu } ] = \{ A _ { \mu } , A _ { \nu } \}",790f2f465b.png
+D e _ { q } ( \lambda ^ { p + 1 } t ; \lambda \theta ) \; = \lambda e _ { q } ( \lambda ^ { p + 1 } t ; \lambda \theta ) .,135d49e073.png
+\frac { m _ { c } } { e _ { L } } = ( \frac { 4 z } { t ^ { 2 } } ) ^ { \frac { 1 } { 4 } } \frac { 2 \pi } { e ^ { \gamma } } ( \frac { 1 } { 2 } - 3 2 z + 1 5 3 6 z ^ { 2 } ),63913e2436.png
+q < { \frac { 2 N - \sqrt { N ^ { 2 } + 3 } } { 6 } },7f96a5b4d3.png
+"[ \rho _ { 1 } , \rho _ { 3 } ] = [ \rho _ { 2 } , \rho _ { 4 } ] = 0 \; \; \; \; ( i ) .",6492340dbc.png
+"A _ { 3 } = - { \frac { 1 } { 2 } } \partial _ { 4 } ~ \nu , ~ ~ ~ A _ { 4 } = { \frac { 1 } { 2 } } \partial _ { 3 } ~ \nu ,",6b4ee45d9f.png
+"\widetilde { \sigma } _ { p } = \left\{ 1 _ { 2 } , \sigma _ { 1 } , \sigma _ { 2 } , \sigma _ { 3 } \right\}",72d5da70f2.png
+"{ \cal L } = { \frac { 1 } { 2 } } \epsilon ^ { j k i } \partial _ { j } { A _ { k } } ^ { a } \epsilon _ { a b } \partial _ { 0 } { { A ^ { b } } _ { i } } - \frac { 1 } { 4 } F ^ { a , j k } F _ { j k } ^ { a }",24a8035dd6.png
+"\varphi ( x ) = \left( \begin{array} { c } { \chi ( x ) } \\ { \xi ( x ) } \\ \end{array} \right) , \hspace { 0 . 3 i n } \beta _ { \mu } = - \left( \begin{array} { c c } { 0 } & { \alpha _ { \mu } } \\ { \overline { { \alpha } } _ { \mu } } & { 0 } \\ \end{array} \right) .",e8939630b2.png
+"\left\{ J _ { L } ( x ) , J _ { R } ( y ) \right\} _ { D } = \frac { - g } { ( 1 + g ^ { 2 } ) } \delta ^ { \prime } ( x - y ) ,",474fab76cb.png
+\delta ( \chi _ { 2 } ) \ \delta ( \chi _ { 2 i } ) \ \delta ( \chi _ { 1 2 } ) .,6b24253f1d.png
+"\delta D _ { p k } ( { \bf r } ^ { \prime \prime } , { \bf r } ^ { \prime } , i \omega ) = D _ { p j } ( \varepsilon , { \bf r } ^ { \prime \prime } , { \bf r } _ { 2 } , i \omega ) \delta \varepsilon ( i | \omega | ) D _ { j k } ( \varepsilon , { \bf r } _ { 2 } , { \bf r } ^ { \prime } , i \omega ) .",3adc4642b5.png
+"N _ { 1 } \, < \, \frac { 1 } { 3 } \, N _ { 1 / 2 } \, + \, \frac { 1 } { 1 8 } \, N _ { 0 } \, .",55680396c6.png
+"L _ { 1 1 } ^ { ( \pm ) } = q ^ { \pm \frac { 1 } { 2 } } q ^ { \pm J } = q ^ { \pm \left( \begin{array} { c c } { 1 } & { 0 } \\ { 0 } & { 0 } \\ \end{array} \right) } , \; \; L _ { 2 2 } ^ { ( \pm ) } = q ^ { \pm \frac { 1 } { 2 } } q ^ { \mp J } = q ^ { \pm \left( \begin{array} { c c } { 0 } & { 0 } \\ { 0 } & { 1 } \\ \end{array} \right) } , \; \;",6a23efc7cd.png
+\frac { 1 } { \alpha ^ { \prime } } ( G \pm B ) _ { I J } \rightarrow \alpha ^ { \prime } ( G \pm B ) _ { I J } ^ { - 1 } = \alpha ^ { \prime } ( G \pm B ) ^ { I J },37ccbbcd02.png
+C _ { \ell } \simeq \frac { 2 } { \pi } \int \frac { d k } { k } k ^ { 3 } \left[ \left( \Theta _ { \omega = 0 } + \Psi _ { \omega = 0 } \right) \jmath _ { \ell } ( k d ) + v _ { \gamma \omega = 0 } \jmath _ { \ell } ^ { \prime } ( k d ) \right] ^ { 2 } .,5bd9e2dccc.png
+"\int | x | \ y ^ { 2 } \ \Gamma _ { x , y , 0 } ^ { \prime } \ \mathrm { d } ^ { 3 } x \mathrm { d } ^ { 3 } y - 2 \int | x | \ y \cdot z \ \Gamma _ { x , y , z , 0 } ^ { \prime } \ \mathrm { d } ^ { 3 } x \mathrm { d } ^ { 3 } y \mathrm { d }",6b01f3612a.png
+"s \widetilde { { \cal H } } _ { ( 1 ) } = \left\{ s { \cal H } _ { ( 1 ) } , W _ { - 2 } , L _ { - 1 } , G _ { - 1 / 2 } , \bar { G } _ { - 1 / 2 } \right\} \; ,",448356e4ab.png
+\partial ^ { \mu } j _ { \mu } ^ { 5 } = - 2 m \bar { \Psi } i \gamma _ { 5 } \Psi,74a8613760.png
+"S _ { a } | P _ { L } ^ { a } , P _ { R } ^ { a } \rangle = \operatorname { e x p } \left( \pi i m _ { a } \right) | P _ { L } ^ { a } , P _ { R } ^ { a } \rangle ~ .",44b9fed4c6.png
+"\prod _ { a = 1 } ^ { N _ { c } } \pi _ { a } = 0 , \ \ \pi _ { B } \pi _ { \bar { B } } = - \Lambda ^ { 2 N _ { c } } \prod _ { i = N c + 1 } ^ { N _ { f } } \left( m _ { i } / \Lambda \right) ( = - { \tilde { \Lambda } } ^ { 2 N _ { c } } ) ,",732f94a9f0.png
+"{ \cal L } _ { 1 } = { \cal L } _ { C S } + D _ { \mu } \phi ^ { \dagger } D ^ { \mu } \phi - U ( \phi ) ,",4c0b97164e.png
+"\int d ^ { d } x \, \sqrt { g } G _ { i j } \partial ^ { \mu } \phi ^ { i } \partial _ { \mu } \phi ^ { j } + \ldots",59edf48ac1.png
+"W = C \operatorname { e x p } ( \epsilon \gamma \phi ) ~ ,",ba9052cb00.png
+"\oint _ { a ^ { m } } \omega _ { l } = \delta _ { l m } ~ ~ ~ ~ ~ ~ , ~ ~ ~ ~ ~ ~ \oint _ { b ^ { m } } \omega _ { l } = \Omega _ { l m }",7192070be9.png
+( 7 - p ) E = \frac { 9 - p } { 2 } T S + \frac { 9 - p } { 2 } \sum _ { i = 1 } ^ { n } \Omega _ { i } J _ { i },7af56974a2.png
+"\varrho = \frac { \, \pi ^ { 2 } } { 3 0 } g _ { \ast } ( T _ { s } ) T _ { s } ^ { 4 }",6e1074f5d1.png
+"p _ { \pm } = \displaystyle \frac { n } { R } \pm \displaystyle \frac { 1 } { 2 } m R \, .",44b8d4ad7d.png
+"a ^ { \mu } = \{ \bar { \psi } _ { c } , \gamma ^ { \mu } \psi \} _ { _ { \sim } } , \ \ \ \ \psi _ { c } \stackrel { \mathrm { d e f } } { = } C \bar { \psi } ^ { T }",56844f8970.png
+"\Theta ( Z _ { T } ) = \, n ( T ) Z _ { n } , \quad \Theta ( Z _ { i } ) = \, Z _ { i } , \, i = 0 , 1",283f1f3df9.png
+\xi _ { a \alpha } + u _ { a \alpha } = \partial _ { \alpha } Y _ { a } + i \partial _ { \alpha } X _ { a } .,4d2b068ef8.png
+"A _ { m } A _ { n } ^ { \dagger } = C _ { m n } ( \phi ) , \; \; \; \; \; \; \tilde { A } _ { m } \tilde { A } _ { n } ^ { \dagger } = \tilde { D } _ { m n } ( \tilde { \phi } )",2c07598229.png
+"\Phi : = ( \varphi _ { 1 } , \; \; \varphi _ { 2 } ) , \, \; \tilde { \Phi } : = ( \tilde { \varphi } _ { 1 } , \; \; \tilde { \varphi } _ { 2 } ) .",37935644c3.png
+\delta \left( \partial ^ { i } P _ { 2 i } \right) = \triangle \Pi .,35f910abfe.png
+"= \ [ b ^ { n } a ^ { n } = Q ( a b ) , { \mathrm { s e e ~ L e m m a ~ 2 } } ] \ =",25e0f7ae30.png
+"G ( p _ { 1 } , \ldots , p _ { N } ) = F ( p _ { 1 } , \ldots , p _ { N } ) + { \frac { A ( p _ { 1 } , \ldots , p _ { N } ) } { \sum \epsilon ( p _ { i } ) + 2 b } } ,",553d063b53.png
+"\Omega = \int \mathrm { d } ^ { 3 } x \left( \pi _ { 0 } \eta ^ { 1 } - \left( \partial ^ { i } \pi _ { i } - g \tilde { \mu } _ { 0 } \left( \psi ^ { \alpha } , \bar { \psi } _ { \alpha } \right) \right) \eta ^ { 2 } \right) ,",69aa2450ca.png
+"\Delta _ { \sigma } ( y _ { 1 } - y _ { 2 } ) = \int _ { 0 } ^ { \infty } \frac { d T } { T } \operatorname { e x p } \{ - m ^ { 2 } \frac { T } { 2 } \} < V _ { \sigma } ( y _ { 1 } ) V _ { \sigma } ( y _ { 2 } ) > _ { x , \psi _ { \mu } , \psi _ { 5 } , \psi _ { 6 } } ,",68d6865006.png
+"\left\langle \int _ { \Sigma _ { p } } B \int _ { \Sigma _ { n - p - 1 } ^ { \prime } } C \right\rangle _ { \mathcal { S } e f f } \; ,",65d295848f.png
+"S ( \Phi ^ { a } , \Phi ^ { \ast a } = 0 ) = { \cal S } ( \phi ^ { i } )",344aafed49.png
+J _ { \phi } = - k U ^ { - 1 } \partial _ { \phi } U = J _ { \phi } ^ { a } T _ { a } .,7f8188934d.png
+"V [ z ] \approx V [ z ] z ^ { \nu } , \; V ( ( z ) ) \approx V ( ( z ) ) z ^ { \nu } ,",8881bfe2ed.png
+"G _ { D } = { \frac { ( { 2 \pi l _ { s } } ) ^ { ( D - 2 ) } } { 3 2 \pi ^ { 2 } } } g _ { s } ^ { 2 } \rightarrow 0 \, .",702283c9a8.png
+"L _ { { \bf { k } } , { \bf { q } } } = b _ { { \bf { k } } + { \bf { q } } / 2 } ^ { \dagger } b _ { { \bf { k } } - { \bf { q } } / 2 }",2555bb6055.png
+\tilde { G } ( P ) = \frac { I } { P ^ { 2 } - M ^ { 2 } } .,786b22f29f.png
+"\kappa = \left. { \frac { 1 } { \operatorname { c o s h } \delta _ { 1 } \operatorname { c o s h } \delta _ { 2 } } } { \frac { \partial _ { r } ( \Pi - 2 N ) } { 4 N } } \right| _ { r = r _ { H } } ,",71da2a0eb6.png
+D _ { F } ( t ) = \hbar \left[ \theta ( t ) e ^ { - i \omega t } + \theta ( - t ) e ^ { i \omega t } \right] \ .,345a0c4539.png
+A ( M _ { 3 } ) = \int _ { M _ { 3 } } R ~ d v _ { 3 } .,6e44db4aad.png
+"I _ { n } ^ { m } = \int _ { w _ { 0 } } ^ { \infty } \frac { 1 } { z } \frac { ( \operatorname { l n } \, w ) ^ { m } } { ( 1 + w ) ^ { n } } \, d w",576a2385f4.png
+"d s ^ { 2 } = - f ( r ) \, d t ^ { 2 } + f ^ { - 1 } ( r ) \, d r ^ { 2 }",614bbb9b12.png
+"\hat { \psi } _ { i } = \left( \frac { \hbar } { 2 } \right) ^ { \frac { 1 } { 2 } } \sigma _ { i } , \quad \quad \hat { \varphi } _ { m } = \left( \frac { \hbar } { 2 } \right) ^ { \frac { 1 } { 2 } } \Sigma _ { m } ,",4f3ca02053.png
+\overline { { S } } _ { F } ^ { * } ( y _ { 1 } - y _ { 2 } ) _ { \tau \sigma } ^ { J } ( i \overleftarrow { { \bf \partial } },28bc116afc.png
+\ddot { \phi } _ { k } + \frac { 3 } { t } \dot { \phi } _ { k } + \frac { k ^ { 2 } l ^ { 2 } + 1 } { t ^ { 2 } } \phi _ { k } = 0,3e1337e190.png
+"\beta ( { \cal P } _ { 0 } , \vec { { \cal P } } { } ^ { 2 } ) \sim { \cal P } _ { 0 } \left( 1 + b \frac { { \cal P } _ { 0 } } { \kappa } + O \left( \frac { 1 } { \kappa ^ { 2 } } \right) \right) ,",44e63fe6c0.png
+"\ t _ { 3 } = \operatorname { l o g } q - 2 \operatorname { l o g } \xi \, , \qquad t _ { 4 } = \operatorname { l o g } \xi \, .",13df06d5b4.png
+R ( x ) = 4 \lambda ^ { 2 } \int _ { 0 } ^ { \infty } d \kappa C ( \kappa ) \Psi _ { \kappa } ( x ),6f2117a366.png
+"{ \cal A } \, = \, \frac { \pi } { 4 } \int \, d t \, { \frac { c } { \phi ^ { a } \, \phi ^ { a } } } \; \; .",21f95aade4.png
+"{ \cal P } _ { i } ( x ) = - \, \frac { \xi _ { i } ( x ) } { \phi _ { j } ( x ) - \phi _ { k } ( x ) } \, , \qquad ( \mathrm { c y c l i c ~ p e r m u t a t i o n s } \, i \not = j \not = k ) \, .",2abecc39ab.png
+"\left[ A ^ { - } , A ^ { + } \right] _ { q \left( x \right) } = - \alpha \left( x \right) \cdot \operatorname { s i n h } { } \frac i 2 \frac d { d x } \left[ \alpha \left( x \right) \cdot \operatorname { s i n h } \left( 2 \rho _ { \frac s 2 } \left( x \right) \right) \right]",120b511655.png
+"n ^ { \rho } = \Phi ^ { 2 } \big ( \mu ^ { \rho } - { \cal A } s ^ { \rho } \big ) \ , \qquad \Theta _ { \rho } = \Phi ^ { 2 } \big ( { \cal K } s _ { \rho } + { \cal A } \mu _ { \rho } \big ) \ .",bd6d9756c5.png
+F _ { ( e ) } ^ { \mu \nu } = \left( \begin{array} { c c c c } { 0 } & { - E _ { x } } & { - E _ { y } } & { - E _ { z } } \\ { E _ { x } } & { 0 } & { - B _ { z } } & { B _ { y } } \\ { E _ { y } } & { B _ { z } } & { 0 } & { - B _ { x } } \\ { E _ { z } } & { - B _ { y } } & { B _ { x } } & { 0 } \\ \end{array} \right) .,59cb5bbe2c.png
+J \equiv : \bar { \chi } \chi : = - 2 : A _ { i } \tilde { \Pi } _ { i } :,2b73e1e7e0.png
+\langle S \rangle = N \langle \Delta S \rangle,10e5ccd94c.png
+"G = p _ { \mu } \varepsilon ^ { \mu } + \overline { { Q } } \xi + \overline { { \xi } } Q \, ,",3ade8048a0.png
+{ \cal { D } } _ { g } \eta = { \cal { D } } _ { \hat { g } } \eta \operatorname { e x p } ( \frac { 1 } { 4 8 \pi } S _ { L } ) .,1f10c6013a.png
+"W \equiv W _ { s } ^ { 0 } - W _ { s , \tiny { \mathrm { d i v } } } ^ { 0 } ~ ~ ~ .",156ee01710.png
+\mathrm { T r } ( L ^ { 2 } ) = 2 ( p _ { 1 } ^ { 2 } + p _ { 2 } ^ { 2 } ) + 4 m ^ { 2 } e ^ { q _ { 1 } - q _ { 2 } } + 4 m ^ { 2 } e ^ { - q _ { 1 } - q _ { 2 } } + 2 m ^ { 2 } e ^ { 2 q _ { 2 } } = 4 { \cal H } _ { A _ { 3 } } ^ { ( 2 ) } .,72c2d228df.png
+"F ( A ) = \operatorname* { l i m } _ { N \rightarrow \infty } \frac { \operatorname { l n } Z ( 0 , A , N ) } { N ^ { 2 } } .",1ccda23271.png
+P _ { 1 } ^ { 0 } P _ { 2 } ^ { 0 ^ { \prime } } - P _ { 2 } ^ { 0 } P _ { 1 } ^ { 0 ^ { \prime } },26406ef3c9.png
+"V = e ^ { K / M _ { P } ^ { 2 } } \left[ ( K ^ { - 1 } ) _ { j } ^ { i } L _ { i } L ^ { j } - 3 \frac { | W | ^ { 2 } } { M _ { P } ^ { 2 } } \right] \; ,",3d945ca0b8.png
+T _ { \phi \mu \nu } = B _ { \mu \rho } B _ { \nu } ^ { \rho } - \frac { 1 } { 4 } g _ { \mu \nu } g ^ { \rho \sigma } g ^ { \lambda \tau } B _ { \rho \lambda } B _ { \sigma \tau } - 2 \frac { \partial V ( \phi ) } { \partial g ^ { \mu \nu } } + g _ { \mu \nu } V ( \phi ) .,432774c470.png
+"S _ { E M } = - { \frac { 1 } { 4 } } \int d ^ { 4 } x \sqrt { - g } \; ( R + F ^ { 2 } ) \, ,",269fea85d1.png
+"\hat { A } _ { \mu } ( x ) = - \frac { \hat { \eta } _ { \mu \nu } ^ { - } } 2 \partial _ { \nu } \operatorname { l n } \rho ( x ) ,",639e8a1181.png
+"{ \cal P } _ { \delta x } \equiv { \frac { k ^ { 3 } } { 2 \pi ^ { 2 } } } | \delta x | ^ { 2 } \, ,",5dab1ec4de.png
+"{ \cal Z } _ { k } ( A ) = \sum _ { R } ( d _ { R } ) ^ { 2 } \operatorname { e x p } \left[ - \frac { g ^ { 2 } A } { 4 } C _ { 2 } ( R ) \right] \delta _ { [ N ] } ( k - m ^ { ( R ) } ) \, .",23b60a8708.png
+"( \pi _ { q } ( a ) \psi ) ( \gamma ) = ( a _ { q } * \psi ) ( \gamma ) ,",3985e98c8a.png
+"J ( z ) \leftrightarrow - \, { \bar { J } } ( \bar { z } )",e05e744fc3.png
+y ^ { \prime \prime } ( \zeta ) + Q ( \zeta ) y ( \zeta ) = 0,2d2df9b8e0.png
+"C _ { \mathrm { b o u n d a r y } } ^ { ( 3 ) } = \frac { \sqrt { 2 } \beta } { 1 2 } \left( \sigma _ { 1 } e ^ { \beta \phi _ { 0 } / \sqrt { 2 } } - \sigma _ { 0 } e ^ { - \beta \phi _ { 0 } / \sqrt { 2 } } \right) ,",650e109d8f.png
+\tilde { \Gamma } _ { 6 } ^ { ( 1 ) } = - 2 0 \mathrm { t r } [ \dot { r } ^ { 6 } \Delta ^ { 6 } ] + O ( \partial _ { \tau } ^ { 7 } ) .,74e1c4291a.png
+"\bar { e } _ { A } ^ { ( r ) } \, e _ { B } ^ { ( s ) } \, { \cal E } _ { A B } = 0 \, \, .",3de41a75b5.png
+\ddot { C } _ { n } ^ { \parallel } + ( n ^ { 2 } - \frac { 2 M m ^ { 2 } \alpha ^ { 2 } } { l r } ) C _ { n } ^ { \parallel } = 0 .,659342076b.png
+V ( \phi ) = 2 \lambda ^ { 2 },1689dfbf5d.png
+\frac { 2 j } { \alpha _ { + } } ( j - m ) \partial \phi \partial \gamma \gamma ^ { ( j - m - 1 ) } e ^ { 2 j \phi / \alpha _ { + } },564d141e0f.png
+"T _ { 1 } P { _ 0 ^ { - } } T _ { 1 } ^ { - 1 } = P { _ 0 ^ { - } } ( z ) \quad , \quad R P { _ 0 ^ { - } } R ^ { - 1 } = P { _ 0 ^ { - } } \; .",7bb8e57bca.png
+"W = \xi \left[ v ^ { 2 } \phi - { \frac { 1 } { 3 } } \phi ^ { 3 } - { \frac { 2 } { 3 } } v ^ { 3 } \right] ~ ,",7c2351e353.png
+"= \, \sqrt { \frac { 1 + \xi \, \frac { 1 } { M } R } { 1 - \xi \, \frac { 1 } { M } R } } \, \sqrt { \frac { 1 - \xi \, \frac { 1 } { M } R } { 1 + \xi \, \frac { 1 } { M } R } } \, = \, 1 \; .",40a60f1c41.png
+"\tilde { D } _ { \rho } ^ { \rho \; \; , \mu \nu } = - \frac { \eta _ { \mu \nu } } { k ^ { 2 } }",6e87f97b91.png
+( \vec { J _ { + } } ) ^ { 2 } = ( \vec { J _ { - } } ) ^ { 2 } = 0,790dc2d5a6.png
+"\beta _ { k } : = - \frac { 1 } { 2 } \, ( 2 \theta ) ^ { - 1 / 2 } \, \nu _ { k } ( \bar { \mu } _ { k } + \bar { \mu } _ { k } ^ { - 1 } ) .",127faa26d6.png
+d s ^ { 2 } \simeq - \left( { \frac { r } { \ell } } \right) ^ { 4 \alpha } d t ^ { 2 } + \ell ^ { 2 } \left[ { \frac { d r ^ { 2 } } { r ^ { 2 } } } + d \theta ^ { 2 } + \operatorname { s i n } ^ { 2 } \theta d \varphi ^ { 2 } \right] .,4064fe18c9.png
+"k _ { 2 } ^ { \nu } T _ { \rho \sigma \mu \nu } ^ { ( 1 ) a b c d } ( p _ { 1 } , p _ { 2 } ; k _ { 1 } , k _ { 2 } ) = C _ { 1 } k _ { 1 \mu } S _ { \rho \sigma } ^ { ( 1 ) } + C _ { 1 } \Gamma _ { \rho \mu \sigma } ^ { ( 1 ) } ( p _ { 1 } , k _ { 1 } , q _ { 1 } )",5a287fb815.png
+\Psi _ { D } = \left( \begin{array} { c } { 0 } \\ { B } \\ { C } \\ { 0 } \\ \end{array} \right) .,7206d8afd5.png
+"\delta = 3 - \frac { 1 } { 2 } V _ { n } - \frac { 1 } { 2 } E _ { \phi } - E _ { \psi } ,",2501e578fe.png
+"F _ { a b } ~ = ~ - \, { \frac { 1 } { 4 } } \left( E _ { a a } + E _ { \theta ( a ) \theta ( a ) } + E _ { b b } + E _ { \theta ( b ) \theta ( b ) } \right) + \, { \frac { 1 } { n } } \, 1",1fc8c9daba.png
+G ^ { B = 0 } = \left( \begin{array} { c c } { e ^ { \lambda ^ { ( 0 ) } + \psi ^ { ( 0 ) } } } & { 0 } \\ { 0 } & { e ^ { \lambda ^ { ( 0 ) } - \psi ^ { ( 0 ) } } } \\ \end{array} \right) = \left( \begin{array} { c c } { \xi _ { 1 } } & { 0 } \\ { 0 } & { \xi _ { 2 } } \\ \end{array} \right),4fa0442c95.png
+"S _ { F } \; = \; \int d ^ { 2 } x \, { \bar { \psi } } [ \not \! \partial + i \not \! \partial ( \varphi + \rho ) ] \psi",5e6d337bbf.png
+"{ \frac { 1 } { 2 } } \epsilon _ { \mathrm { i j k } } \hat { v } _ { \mathrm { j } } \times \hat { v } _ { \mathrm { k } } \qquad i , j , k = 1 , 2 , 3 .",1bcf730273.png
+{ X _ { ( \mp 1 ) } ^ { 1 } \operatorname { c o s } \varphi _ { \mp } - X _ { ( \mp 1 ) } ^ { 2 } \operatorname { s i n } \varphi _ { \mp } },d2eea176b9.png
+"A _ { \mu } ^ { ( 1 ) } = \sqrt { L _ { 4 } L _ { 5 } } A _ { 4 \mu } , \; A _ { \mu } ^ { ( 2 ) } = \sqrt { L _ { 4 } L _ { 5 } } A _ { 5 \mu }",57b8a6b31c.png
+"\delta _ { \perp } S _ { ( 0 ) } = - \mu \int _ { m } \sqrt { - \gamma } \; K _ { i } \; \Phi ^ { i } \, ,",1ca4760feb.png
+"[ L _ { - 1 } , W _ { 0 } ^ { 3 } ] = ( \O _ { - 4 } ^ { 2 3 } ) _ { - 1 } = - 2 W _ { - 1 } ^ { 3 } \quad ; \quad [ L _ { - 1 } , W _ { 1 } ^ { 3 } ] = ( \O _ { - 4 } ^ { 2 3 } ) _ { 0 } = - 3 W _ { 0 } ^ { 3 }",65e43c5f08.png
+"\sum _ { j = 1 } ^ { N } \int _ { 0 } ^ { 1 } \, q _ { j } ( s ) \, = \, 0 \; .",347e15ab40.png
+2 { \cal I } = 4 \left[ \sum _ { a = 1 } ^ { r - k } \tilde { n } _ { a } + \sum _ { j = 1 } ^ { k } q _ { k } \right],4ad8cceca7.png
+\operatorname* { l i m } _ { m R \rightarrow 0 } { \cal F } ( R ) = \frac { 1 } { 4 \pi R },54003d86b4.png
+"\mathrm { I m } \, x = - \frac { 1 } { 2 } | i ( \sqrt { y _ { 1 } } - \sqrt { y _ { 2 } } ) | \ \ \ \ \ \ \ \ \ \ \mathrm { R e } \, x = \pm \frac { 1 } { 2 } \sqrt { y _ { 3 } }",2c5deabb33.png
+"\{ \omega ^ { i _ { 0 } , 0 } , \omega ^ { i _ { 0 } , 2 } , \omega ^ { i _ { 0 } , 4 } , \ldots , \omega ^ { i _ { 0 } , N _ { 0 } } ; \omega ^ { i _ { 1 } , 1 } , \omega ^ { i _ { 1 } , 3 } , \ldots , \omega ^ { i _ { 1 } , N _ { 1 } } \} \; ,",32391c6341.png
+"\delta _ { n , j } ^ { ( 1 ) } ( k ) = - \frac { \pi } { 2 } \int _ { 0 } ^ { \infty } d r V ( r ) r \left( J _ { \frac { n } { 2 } + j - \frac { 3 } { 2 } } ( k r ) ^ { 2 } + J _ { \frac { n } { 2 } + j - \frac { 1 } { 2 } } ( k r ) ^ { 2 } \right)",35d3c78a08.png
+"( n + 3 ) c _ { + 0 } + ( n + 1 ) c _ { + J } + 2 c _ { + } = 0 \ ,",4e17d6be1e.png
+g ^ { k _ { 1 } } h ^ { k _ { 2 } } = \omega ^ { k _ { 1 } k _ { 2 } } h ^ { k _ { 2 } } g ^ { k _ { 1 } },662df3ea68.png
+"S _ { 0 } = { \frac { 1 } { 1 2 } } \int d ^ { 4 } x F _ { \mu \nu \rho } F ^ { \mu \nu \rho } ,",36907f33df.png
+s \Gamma ^ { \alpha } { } _ { \beta \gamma } ( u ) = \Gamma ^ { \alpha } { } _ { \beta \gamma } ( u ) - \left( \begin{array} { c c } { 0 } & { L ^ { i } { } _ { j c } } \\ { C ^ { a } { } _ { b i } } & { 0 } \\ \end{array} \right) = \left( \begin{array} { c c } { L ^ { i } { } _ { j k } } & { 0 } \\ { 0 } & { C ^ { a } { } _ { b c } } \\ \end{array} \right),f1fa8b59e9.png
+"| i , t , { \bar { t } } ; \beta \rangle = \int \prod _ { A = 1 } ^ { n } d X _ { A } d { \bar { X } } _ { A } \phi _ { i } ( X ) e x p ( \! - \! \int _ { H } { \cal L } ^ { F } ) e x p ( \! - \! \int _ { H } { \cal L } ^ { \bar { F } } )",7a476c1034.png
+"L _ { \textrm { S R } } \equiv \dot { x } ^ { \mu } \dot { x } _ { \mu } \longrightarrow L _ { \textrm { E S R } } \equiv \dot { X } ^ { \mu } \dot { X } _ { \mu } = ( \dot { x } ^ { \mu } \dot { x } _ { \mu } + \dot { u } ^ { \mu } \dot { u } _ { \mu } ) + 2 I \dot { x } ^ { \mu } \dot { u } _ { \mu } ,",3d03984b37.png
+"E _ { i } ^ { a } \tau ^ { a } \to \tilde { E } _ { i } ^ { a } \tau ^ { a } = h ^ { - 1 } E _ { i } ^ { a } \tau ^ { a } h \, ,",1cc2ad7695.png
+"E \sim { \frac { I ( u _ { 1 } , u _ { 2 } ) } { \operatorname { l n } R _ { 2 } - \operatorname { l n } R _ { 1 } } } , \hspace { 0 . 5 c m } { \frac { I ( u _ { 1 } , u _ { 2 } ) } { 2 \pi } } = \left[ \int _ { u _ { 1 } } ^ { u _ { 2 } } \! \! d u \sqrt { \operatorname { c o s h } 2 u } \right] ^ { 2 }",6b75c1472b.png
+"V _ { N , G T } = G _ { N } \frac { m _ { 1 } m _ { 2 } } { r } \left( 1 + \frac { 2 } { 3 } \frac { R ^ { 2 } } { r ^ { 2 } } \right) .",ef41adf78d.png
+G _ { \mu \lambda } ^ { a c } M _ { \lambda \nu } ^ { c b } \; = \; \delta _ { \mu \nu } \delta ^ { a b },3842e3c2bb.png
+"J a c ( A ( \xi _ { 1 } ) , A ( \xi _ { 2 } ) , A ( \xi _ { 3 } ) ) = - \iota _ { \xi _ { 1 } } \iota _ { \xi _ { 2 } } \iota _ { \xi _ { 3 } } d H",4ee127c6f1.png
+D _ { 0 0 } \left( \mathbf { p - q } \right) = - \frac { 1 } { \left( \mathbf { p - q } \right) ^ { 2 } },55ff9967dc.png
+"\Phi = { \frac { \phi } { \sqrt { 2 } } } ( 1 , - 1 ) .",144d6eaa79.png
+"\begin{array} { c c } { \left( \bar { C } _ { 0 } \, \eta _ { 0 } \, { \cal A } . . . \right) \; \, \left( \bar { C } _ { 1 } \, \eta _ { 0 } \, B . . . \right) } \\ { \left( \bar { C } _ { 1 } \, \eta _ { 1 } \, { \cal A } . . . \right) \; \, \left( \bar { C } _ { 1 } \, \eta _ { 0 } \, { \cal B } . . . \right) } \\ \end{array}",543373e667.png
+"W _ { k } = - { \frac { 1 } { 2 } } \omega _ { k } ^ { \prime \prime } ( P ) - { \frac { 1 } { 2 } } c ( P ) U _ { k } ,",517c439667.png
+m _ { 1 } \mathrm { t r } ( \lambda ^ { 1 } \lambda ^ { 1 } ) + m _ { 2 } \mathrm { t r } ( \lambda ^ { 2 } \lambda ^ { 2 } ) + m _ { 3 } \mathrm { t r } ( \lambda ^ { 3 } \lambda ^ { 3 } ) + m _ { 4 } \mathrm { t r } ( \lambda ^ { 4 } \lambda ^ { 4 } ) + c . c .,120cb420c5.png
+"\zeta _ { \pm } = e ^ { - \frac { \hat { \phi } } { 4 } } \frac { z _ { M } \gamma ^ { \hat { M } } } { \sqrt { \rho _ { 0 } } } \zeta _ { \pm } ^ { ( 0 ) } \, ,",fc40055b8a.png
+{ \mathcal Z } _ { ( \alpha \beta ) } = \int d ^ { 3 } x \ \sigma _ { \alpha \beta } ^ { 0 i } \partial _ { i } \left( - \frac { 4 i } { 3 } { \kern . 3 5 e m \bar { \kern - . 3 5 e m { \widetilde J } } } + \frac { i } { 3 } D ^ { 2 } K \right) \displaystyle { \biggl \vert } = - 3 \int d ^ { 3 } x \ \sigma _ { \alpha \beta } ^ { 0 i } \partial _ { i } \ { \bar { \mathcal W } } \displaystyle { \biggl \vert } \ .,18c2419c8c.png
+\rho \left( \frac { \omega - e } { T _ { H } } \right) \approx { \frac { | \beta _ { \omega \omega ^ { \prime } } | ^ { 2 } } { | \alpha _ { \omega \omega ^ { \prime } } | ^ { 2 } } } ~ .,8434fa79a1.png
+c = \frac { 1 } { 1 2 0 } \left( 1 2 N _ { 1 } + 3 N _ { 1 / 2 } + N _ { 0 } \right) .,206a2e7387.png
+"\frac { d \phi } { d z } = e ^ { \imath \delta } \frac { d \bar { W } } { d \bar { \phi } } ,",527a45ea50.png
+"\bar { \omega } _ { j } ^ { i } \ = \ - \, C _ { k } ^ { i } ( \omega _ { l } ^ { k } ) ^ { * } \, C _ { j } ^ { l } \ = \ C _ { k } ^ { i } ( \omega _ { \mu \, l } ^ { k } ) ^ { * } \, C _ { j } ^ { l } \, \gamma ^ { \mu } \ .",983c3a9b77.png
+"a = k \epsilon _ { \mu _ { 1 } \ldots \mu _ { n } } H ^ { \mu _ { 1 } \ldots \mu _ { p + 1 } } B ^ { * \mu _ { p + 2 } \ldots \mu _ { n } } + \mu ,",7145cc3fcd.png
+"( A , B , C ) = - ( B , A , C ) = - ( A , C , B ) = - ( C , B , A ) ,",31abfd0a84.png
+\bar { r } ^ { 2 } = { \frac { c ^ { 2 } M } { E \Omega } } \ .,3b7bd63d17.png

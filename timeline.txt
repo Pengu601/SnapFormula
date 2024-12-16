@@ -48,3 +48,12 @@ training set to test how well the dataset is and train on the whole dataset (~10
 
 Finishing the day with setting up datasets with images, pre-processing, and currently working on the architecture for the CNN which is what will be
 used as the model for our AI, as it is known to be very good for image-processing.
+
+12/8/24
+
+Got a basic CNN architecture up and running and did some test epochs on the training and validation set. Ran a total of 2 epochs, with the first
+epoch giving a train loss of 3.7626 and a validation loss of 6.038. The second epoch gave a train loss of 3.6302 and a validation loss of 8.7573.
+As of right now, granted there is a limited epoch amount to actually confirm the situation, it seems the model may be overfitting. It is good to see
+that the model imroved its train loss within the next epoch, but the validation loss increased significantly, meaning there might be overfitting
+in the model. I will be training with more epochs tomorrow, using the last saved weights, and tweak the architecture and model settings as necessary.
+After some more training, I will be testing with some basic images I will create myself to see how the model determines the following latex.

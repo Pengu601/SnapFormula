@@ -25,3 +25,14 @@ Figure out how to, after recognizing the equations and each symbol, how to copy 
     Store a db file that contains all the different math symbols? Maybe Unicode?
 
 For Android and IOS, could use kivy as it supports Android, iOS, Windows, and Linux
+
+
+implement DeiT model -PRIORITY
+implement tokenizer -PRIORITY
+
+implement training loss and accuracy and validate loss and accuracy, save based off of accuracy
+scheduler - quadratic loss , bce loss
+optimizer
+implement tqdm
+
+training - 60% testing - 25% validate - 15% (use scikit to make split and make sure to use same seed)
