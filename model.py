@@ -12,17 +12,20 @@ from torch.optim.lr_scheduler import StepLR
 from timm.data.constants import IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD
 from tqdm import tqdm
 from collections import Counter
+import math
+from transformers import get_linear_schedule_with_warmup
 #load spreadsheet
 
-model_save_path = 'D:\\GitHub Projects\\SnapFormula\\best_model.pth'
+model_save_path = 'E:\\ai stuf\\best_model.pth'
 latex_vocab_path = "D:\\GitHub Projects\\SnapFormula\\latex_vocab.json"
 tokenizer = architecture.LatexTokenizer(vocab_file = latex_vocab_path)  
 
 transform = transforms.Compose([
-    transforms.Resize((224, 224)),  # Resize to a standard size
-    
-    transforms.ToTensor(),         # Convert to PyTorch tensor
-    transforms.Normalize(IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD)  # Normalize pixel values to [-1, 1]
+    transforms.RandomRotation(10),  # Rotate ±10 degrees
+    transforms.RandomResizedCrop(224, scale=(0.8, 1.0)),
+    transforms.RandomHorizontalFlip(),
+    transforms.ToTensor(),
+    transforms.Normalize(IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD)
 ])
 
 test_dataset = architecture.ImageLatexDatasetCSV(
@@ -61,23 +64,25 @@ print(token_counts.most_common(10))  # Print 10 most common tokens
 
 device = torch.device(cuda_ if torch.cuda.is_available() else "cpu")
 model = architecture.ImageToLatexModel(vocab_size = tokenizer.vocab_size(), max_seq_length= 128).to(device)
-model.load_state_dict(torch.load(model_save_path))
-optimizer = Adam(model.parameters(), lr=0.0001)
+# model.load_state_dict(torch.load(model_save_path))
+optimizer = Adam(model.parameters(), lr=0.0001,  weight_decay=1e-4)
 
 token_weights = torch.ones(tokenizer.vocab_size()).to(device)
-token_weights = torch.ones(tokenizer.vocab_size()).to(device)
+
+k = 2  # Smoothing factor
+
 for token, count in token_counts.items():
-    token_weights[token] = 1.0 / count
+    token_weights[token] = 1 / (math.log(count + k) + 1)
+
+# Normalize weights to avoid large disparities
+token_weights = token_weights / token_weights.mean()
     
-max_weight = max(token_weights)
-token_weights = token_weights / max_weight  # Normalize weights to [0, 1]
-criterion = lambda logits, labels: cross_entropy(
-    logits, labels, weight=token_weights, ignore_index=0
-)
+
+criterion = nn.CrossEntropyLoss(weight=token_weights, ignore_index = 0)
 # model.classifier == nn.Linear(model.classifier.in_features, tokenizer.vocab_size())
 
-# model.load_state_dict(torch.load('best_model.pth'))
-scheduler = StepLR(optimizer, step_size=3)
+model.load_state_dict(torch.load(model_save_path))
+
 def train_epoch(model, dataloader, criterion, optimizer, device):
     model.train()
     epoch_loss = 0
@@ -126,22 +131,22 @@ def train_epoch(model, dataloader, criterion, optimizer, device):
         
         # print(preds_debug)
         # print(labels_debug)
-        for i in range(min(1, labels.size(0))):  # Inspect up to 5 examples
-            # Decode ground truth and predicted tokens
-            formula = tokenizer.decode(input_ids[i].tolist())
+       
+        # Decode ground truth and predicted tokens
+        for i in range(min(1, labels.size(0))):
+                 
             gt_tokens = labels_debug[i].tolist()
             pred_tokens = preds_debug[i].tolist()
             gt_latex = tokenizer.decode(labels_debug[i].tolist())
             pred_latex = tokenizer.decode(preds_debug[i].tolist())
             
-            
-            non_pad_mask = (labels_debug[i] != tokenizer.vocab['[CLS]']) & (labels_debug[i] != tokenizer.vocab['[SEP]']) & (labels_debug[i] != tokenizer.vocab['[PAD]'])  # Create a mask for valid tokens (excluding [CLS] and [SEP])
-            correct_tokens_debug = ((preds_debug[i] == labels_debug[i]) & non_pad_mask).sum().item()
-            total_tokens_debug = non_pad_mask.sum().item()
+            non_pad_mask_debug = (labels_debug[i] != tokenizer.vocab['[CLS]']) & (labels_debug[i] != tokenizer.vocab['[SEP]']) & (labels_debug[i] != tokenizer.vocab['[PAD]'])  # Create a mask for valid tokens (excluding [CLS] and [SEP])
+            correct_tokens_debug = ((preds_debug[i] == labels_debug[i]) & non_pad_mask_debug).sum().item()
+            total_tokens_debug = non_pad_mask_debug.sum().item()
             acc = correct_tokens_debug/total_tokens_debug
             # Print comparison
-            print(f"  Ground Truth (Token): {gt_tokens}")
-            print(f"  Predicted (Token): {pred_tokens}")
+            # print(f"  Ground Truth (Token): {gt_tokens}")
+            # print(f"  Predicted (Token): {pred_tokens}")
             print(f"  Ground Truth (LaTeX): {gt_latex}")
             print(f"  Predicted (LaTeX): {pred_latex}")
             print(f"  Accuracy: {acc}")
@@ -198,13 +203,13 @@ def validate_epoch(model, dataloader, criterion, device):
                 # pred_tokens = pred_tokens.strip()
 
                 # Print comparison
-                print(f"Example {i + 1}:")
-                print(f"Formula: {formula}")
-                print(f"  Ground Truth (Token): {gt_tokens}")
-                print(f"  Predicted (Token): {pred_tokens}")
+                # print(f"Example {i + 1}:")
+                # print(f"Formula: {formula}")
+                # print(f"  Ground Truth (Token): {gt_tokens}")
+                # print(f"  Predicted (Token): {pred_tokens}")
                 print(f"  Ground Truth (LaTeX): {gt_latex}")
                 print(f"  Predicted (LaTeX): {pred_latex}")
-                print("-" * 50)
+                
                 
             non_pad_mask = (labels != tokenizer.vocab['[CLS]']) & (labels != tokenizer.vocab['[SEP]'])   # Create a mask for valid tokens (excluding [CLS] and [SEP])
             correct_tokens += (preds == labels)[non_pad_mask].sum().item()
@@ -214,8 +219,12 @@ def validate_epoch(model, dataloader, criterion, device):
     return epoch_loss / len(dataloader), accuracy
 
 
-num_epochs = 5
-best_val_acc = .6747 # Initialize to a large value
+num_epochs = 20
+best_val_acc = .45 # Initialize to a small value
+num_warmup_steps = len(train_loader) * 2  # Warm up over 2 epochs
+total_steps = len(train_loader) * num_epochs
+scheduler = StepLR(optimizer, step_size=3, gamma=0.5)
+
 # token_to_inx = tokenizer.vocab
 # idx_to_token = {v: k for k, v in token_to_inx.items()}
 # for token_id, latex_token in idx_to_token.items():

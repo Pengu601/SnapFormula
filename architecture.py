@@ -24,8 +24,8 @@ class ImageToLatexModel(nn.Module):
         self.decoder = nn.Transformer(
             d_model=config.hidden_size,  # Use the hidden size from the encoder
             nhead=8,                     # Number of attention heads
-            num_encoder_layers=6,
-            num_decoder_layers=6,
+            num_encoder_layers=4,
+            num_decoder_layers=4,
             dim_feedforward=2048,
             dropout=0.1
         )
