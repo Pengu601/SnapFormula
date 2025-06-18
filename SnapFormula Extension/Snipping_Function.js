@@ -132,12 +132,12 @@ function showPopup(croppedImageUrl) {
     });
 
     let saveTextButton = createButton('Save Image Text', function () {
-        saveImageText();  // Placeholder function for saving image text
+        saveImageText(croppedImageUrl);  // Placeholder function for saving image text
         document.body.removeChild(popup);
     });
 
     let bothButton = createButton('Both', function () {
-        saveImageText();  // Placeholder function for saving image text
+        saveImageText(croppedImageUrl);  // Placeholder function for saving image text
         downloadImage(croppedImageUrl);  // Download the image
         document.body.removeChild(popup);
     });
@@ -155,6 +155,15 @@ function showPopup(croppedImageUrl) {
     document.body.appendChild(popup);
 }
 
+async function copyTextToClipboard(text){
+    try{
+        await navigator.clipboard.writeText(text);
+        
+    }catch(err){
+        console.error('Failed to copy text: ', err);
+    }
+}
+
 // Function to download the image
 function downloadImage(croppedImageUrl) {
     // Create a download link and trigger the download
@@ -165,8 +174,33 @@ function downloadImage(croppedImageUrl) {
 }
 
 // Placeholder function to save image text
-function saveImageText() {
+async function saveImageText(croppedImageUrl) {
     console.log("Saving image text (not implemented yet).");
+    try{
+        const base64 = croppedImageUrl.split(',')[1];
+        const mime = croppedImageUrl.match(/^data:(.*);base64,/)[1];
+
+        const byteCharacters = atob(base64);
+        const byteNumbers = new Array(byteCharacters.length).fill(0).map((_, i) => byteCharacters.charCodeAt(i));
+        const byteArray = new Uint8Array(byteNumbers);
+        const blob = new Blob([byteArray], {type: mime});
+
+        const file = new File([blob], 'image.jpg', {type: mime});
+
+        const formData = new FormData();
+        formData.append("image", file);
+
+        const response = await fetch("https://baf3-216-189-219-87.ngrok-free.app/api/image/upload/", {
+            method: "POST",
+            body: formData
+        })
+
+        const result = await response.json();
+        copyTextToClipboard(result.text);
+    }
+    catch(error){
+        console.error(error);
+    }   
 }
   // Capture the visible tab
 });

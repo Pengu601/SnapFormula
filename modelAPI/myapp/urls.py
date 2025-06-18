@@ -1,7 +1,10 @@
 from django.urls import path
 from .views import ImageToTextView
+from rest_framework.routers import DefaultRouter
 
-urlpatterns=[
-    path('upload/', ImageToTextView.as_view(), name ='image-to-latex')
-    ]
+router = DefaultRouter()
+router.register(r'image', ImageToTextView, basename='image')
+
+
+urlpatterns= router.urls
 

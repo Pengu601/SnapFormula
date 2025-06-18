@@ -1,12 +1,14 @@
 from django.shortcuts import render
 from rest_framework import status
-from rest_framework.views import APIView
+from rest_framework.viewsets import ViewSet
+from rest_framework.decorators import action
 from rest_framework.response import Response
 from .serializers import ImageUploadSerializer
 from PIL import Image
-
-class ImageToTextView(APIView):
-    def post(self, request, format=None):
+from pix2tex.cli import LatexOCR
+class ImageToTextView(ViewSet):
+    @action(detail=False, methods=['post'], url_path='upload')
+    def imageConverter(self, request):
         serializer = ImageUploadSerializer(data=request.data)
         if serializer.is_valid():
             image = serializer.validated_data['image']
@@ -17,7 +19,8 @@ class ImageToTextView(APIView):
 
             try:
                 img = Image.open("temp_image.jpg")
-                extractedLatex = "test" #run ai model on computer`
+                model = LatexOCR()
+                extractedLatex = model(img) #run ai model on computer`
             except Exception as e:
                 return Response({"error", str(e)}, status=500)
 
